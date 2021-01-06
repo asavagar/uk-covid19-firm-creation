@@ -66,5 +66,5 @@ user_groups:
 
 His main research area is macroeconomics with incomplete financial markets. Some of his current research projects focus on how business cycle risks are shared in decentralised trade and the consequences for this trade on business cycle volatility and labour market outcomes. 
 
-He is also a member of the Macroeconomics, Growth and History Centre (MaGHiC).
+He is also a member of the [Macroeconomics, Growth and History Centre](https://research.kent.ac.uk/maghic/) (MaGHiC).
 
