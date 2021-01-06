@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The UK Firm Dynamics project explores the effect of COVID-19 policies on business creation and economic activity using the Companies House data.
