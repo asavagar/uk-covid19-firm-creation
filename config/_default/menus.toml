@@ -5,7 +5,7 @@
 
 [[main]]
   name = '<i class="fas fa-home"></i>'
-  url = "#main"
+  url = "/"
   weight = 5
 
 [[main]]
