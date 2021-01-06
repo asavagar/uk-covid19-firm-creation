@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = '<i class="fas fa-home"></i>'
+  url = "#main"
+  weight = 5
+
+[[main]]
   name = "Home"
   url = "/"
   weight = 10
