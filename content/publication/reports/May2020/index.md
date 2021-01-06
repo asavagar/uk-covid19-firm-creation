@@ -1,11 +1,11 @@
 ﻿---
-title: "An example journal article"
+title: "Business Creation in the UK"
 authors:
 - Alfred Duncan
 - Miguel León-Ledesma
 - Anthony Savagar
 date: "2020-05-01T00:00:00Z"
-doi: ""
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
@@ -17,8 +17,8 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+#publication: "*Journal of Source Themes, 1*(1)"
+#publication_short: ""
 
 abstract: We analyse Companies House basic company data up to 30th April in order to understand the effect of covid-19 policies on business creation.
 
