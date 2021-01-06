@@ -7,7 +7,7 @@ authors:
 - AlfredDuncan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Lecturer in Economics
@@ -61,6 +61,7 @@ email: "a.j.m.duncan@kent.ac.uk"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+
 ---
 
 Alfred Duncan is a Lecturer in Economics and joined the School of Economics in August 2016.
