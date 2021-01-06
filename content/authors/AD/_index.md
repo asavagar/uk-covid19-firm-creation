@@ -6,7 +6,8 @@ authors:
 - AD
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
+weight: 1
 
 # Role/position
 role: Lecturer in Econ
