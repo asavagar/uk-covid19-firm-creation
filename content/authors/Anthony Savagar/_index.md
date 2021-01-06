@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 title: Anthony Savagar
 
@@ -61,6 +61,8 @@ user_groups:
 ---
 
 [Anthony Savagar](www.asavagar.com)’s research covers macroeconomics and industrial organisation. His research looks at how firm behaviour and industrial organisation aggregate to affect macroeconomic dynamics.
+
 His recent work analyses the contrasting productivity effects of firm entry fostering competition versus degrading returns to scale.
-Anthony is a member of the Macroeconomics, Growth and History Centre (MaGHiC).
+
+Anthony is a member of the [Macroeconomics, Growth and History Centre](https://research.kent.ac.uk/maghic/) (MaGHiC).
 
