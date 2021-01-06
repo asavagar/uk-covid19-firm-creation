@@ -7,7 +7,7 @@ title: Alfred Duncan
 #- Alfred Duncan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Lecturer in Economics
