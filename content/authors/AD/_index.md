@@ -4,10 +4,10 @@ title: Alfred Duncan
 
 # Username (this should match the folder name)
 authors:
-- AD
+- ad
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Lecturer in Economics
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio:  
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Macroeconomics
@@ -27,9 +27,15 @@ interests:
 
 #education:
 #  courses:
-#  - course: Ph.D. in Economics
-#    institution: University of Kent, UK
-#    year: x
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +56,7 @@ social:
   link: https://www.alfredduncan.co.uk/
 - icon: orcid
   icon_pack: ai
-  link: "https://www.orcid.org/0000-0003-1246-9386 
+  link: "https://www.orcid.org/0000-0003-1246-9386
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "a.j.m.duncan@kent.ac.uk"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,9 +73,6 @@ user_groups:
 
 ---
 
-[Alfred Duncan](https://www.alfredduncan.co.uk/) is a Lecturer in Economics and joined the School of Economics in August 2016.
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-His main research area is macroeconomics with incomplete financial markets. Some of his current research projects focus on how business cycle risks are shared in decentralised trade and the consequences for this trade on business cycle volatility and labour market outcomes. 
-
-He is also a member of the Macroeconomics, Growth and History Centre (MaGHiC).
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
