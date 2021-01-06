@@ -31,7 +31,9 @@ tags:
 featured: false
 
 # links:
- - name: "<i class="fas fa-link"></i> Page"
+ - icon: link
+   icon_pack: fas
+   name: Page
    url: "https://asavagar.github.io/companies_house_data_analysis/"
 url_pdf: 'https://blogs.kent.ac.uk/economics/files/2020/05/Missing-Firm-Creation-in-The-UK-During-The-Covid.pdf'
 url_code: 'https://github.com/asavagar/companies_house_data_analysis'
@@ -54,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,9 +66,4 @@ projects: []
 #slides:
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
