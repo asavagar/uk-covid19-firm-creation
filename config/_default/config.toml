@@ -14,7 +14,7 @@ baseurl = ""
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "UK Firm Dynamics Research Team &copy; {year}"
+copyright = "&copy; Research Group"
 
 ############################
 ## Advanced options below ##
