@@ -7,7 +7,6 @@ superuser: true
 
 # Role/position
 role: Postdoctoral Research Associate
-weight: 2
 
 # Organizations/Affiliations
 organizations:
@@ -15,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yannis' research interests include Labour and Applied Economics with a focus on gender and mismatch issues. 
+bio: My research interests include Labour and Applied Economics with a focus on gender and mismatch issues. 
 
 interests:
 - Labour Economics
