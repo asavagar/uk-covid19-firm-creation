@@ -2,6 +2,9 @@
 # Display name
 title: Yannis Galanakis
 
+authors:
+- YG
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -73,5 +76,6 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+
 
 
