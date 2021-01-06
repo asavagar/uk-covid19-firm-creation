@@ -30,7 +30,7 @@ tags:
 
 featured: false
 
-# links:
+links:
  - icon: link
    icon_pack: fas
    name: Page
