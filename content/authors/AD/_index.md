@@ -73,6 +73,8 @@ user_groups:
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+[Alfred Duncan](https://www.alfredduncan.co.uk/) is a Lecturer in Economics and joined the School of Economics in August 2016.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His main research area is macroeconomics with incomplete financial markets. Some of his current research projects focus on how business cycle risks are shared in decentralised trade and the consequences for this trade on business cycle volatility and labour market outcomes. 
+
+He is also a member of the Macroeconomics, Growth and History Centre (MaGHiC).
