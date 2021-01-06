@@ -1,4 +1,4 @@
----
+﻿---
 # Display name
 title: Miguel León-Ledesma
 
@@ -9,6 +9,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
+weight: 3
 
 # Role/position
 role: Professor of Economics

@@ -8,6 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
+weight: 4
 
 # Role/position
 role: Senior Lecturer in Economics
