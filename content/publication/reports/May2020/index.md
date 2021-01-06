@@ -1,8 +1,8 @@
----
+Ôªø---
 title: "An example journal article"
 authors:
 - Alfred Duncan
-- Miguel LeÛn-Ledesma
+- Miguel Le√≥n-Ledesma
 - Anthony Savagar
 date: "2020-05-01T00:00:00Z"
 doi: ""
@@ -20,10 +20,10 @@ publication_types: ["4"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: We analyse Companies House ìbasic company dataî up to 30th April in order to understand the effect of covid-19 policies on business creation.
+abstract: We analyse Companies House basic company data up to 30th April in order to understand the effect of covid-19 policies on business creation.
 
 # Summary. An optional shortened abstract.
-summary: We analyse Companies House ìbasic company dataî up to 30th April in order to understand the effect of covid-19 policies on business creation.
+summary: We analyse Companies House ‚Äúbasic company data‚Äù up to 30th April in order to understand the effect of covid-19 policies on business creation.
 
 tags:
 - Report
