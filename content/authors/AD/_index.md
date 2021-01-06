@@ -7,7 +7,7 @@ authors:
 - AD
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Lecturer in Economics
@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+#bio:  
 
 interests:
 - Macroeconomics
 - Financial Markets
 - Business Cycle
 
-education:
-  courses:
-  - course: Ph.D. in Economics
-    institution: University of Kent, UK
-    year: x
+#education:
+#  courses:
+#  - course: Ph.D. in Economics
+#    institution: University of Kent, UK
+#    year: x
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
