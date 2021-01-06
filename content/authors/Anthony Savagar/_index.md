@@ -1,4 +1,4 @@
----
+﻿---
 # Display name
 title: Anthony Savagar
 
@@ -7,7 +7,7 @@ authors:
 - Anthony Savagar
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Senior Lecturer in Economics
