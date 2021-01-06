@@ -33,7 +33,7 @@ featured: false
 # links:
  - name: "<i class="fas fa-link"></i> Page"
    url: "https://asavagar.github.io/companies_house_data_analysis/"
-url_pdf: https://blogs.kent.ac.uk/economics/files/2020/05/Missing-Firm-Creation-in-The-UK-During-The-Covid.pdf
+url_pdf: 'https://blogs.kent.ac.uk/economics/files/2020/05/Missing-Firm-Creation-in-The-UK-During-The-Covid.pdf'
 url_code: 'https://github.com/asavagar/companies_house_data_analysis'
 url_dataset: 'http://download.companieshouse.gov.uk/en_output.html'
 #url_poster: ''
