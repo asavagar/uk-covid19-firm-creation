@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position
 role: Postdoctoral Research Associate
+weight: 2
 
 # Organizations/Affiliations
 organizations:
