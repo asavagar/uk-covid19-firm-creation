@@ -2,15 +2,14 @@
 # Display name
 title: Alfred Duncan
 
-# Username (this should match the folder name)
 authors:
 - AD
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Lecturer in Economics
+role: Lecturer in Econ
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +17,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  
 
 interests:
-- Macroeconomics
-- Financial Markets
-- Business Cycle
+- Labour Economics
+- Economics of Education
+- Applied Economics
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Ph.D. in Economics
+    institution: University of Kent, UK
+    year: ongoing
+  - course: M.Sc. in International Economics & Finance
+    institution: Athens University of Economics & Business, Greece
+    year: 2017
+  - course: B.Sc. in International & European Economic Studies
+    institution: Athens University of Economics & Business, Greece
+    year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
