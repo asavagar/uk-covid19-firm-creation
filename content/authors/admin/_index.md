@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Labour and Applied Economics with a focus on gender and mismatch issues. I enjoy data visualisation.
+bio: My research interests include Labour and Applied Economics with a focus on gender and mismatch issues. 
 
 interests:
 - Labour Economics
