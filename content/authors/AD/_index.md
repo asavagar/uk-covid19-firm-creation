@@ -25,8 +25,6 @@ interests:
 - Financial Markets
 - Business Cycle
 
-#education:
-#  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +62,7 @@ user_groups:
 
 ---
 
-Alfred Duncan is a Lecturer in Economics and joined the School of Economics in August 2016.
+[Alfred Duncan](https://www.alfredduncan.co.uk/) is a Lecturer in Economics and joined the School of Economics in August 2016.
 
 His main research area is macroeconomics with incomplete financial markets. Some of his current research projects focus on how business cycle risks are shared in decentralised trade and the consequences for this trade on business cycle volatility and labour market outcomes. 
 

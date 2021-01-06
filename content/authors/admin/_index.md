@@ -2,9 +2,6 @@
 # Display name
 title: Yannis Galanakis
 
-authors:
-- YG
-
 # Is this the primary user of the site?
 superuser: true
 
