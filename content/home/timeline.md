@@ -22,4 +22,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-{{< chart data="timeline" >}}
+{{< chart data="timeline.json" >}}
