@@ -31,14 +31,14 @@ tags:
 featured: false
 
 links:
-- icon: file-pdf
+ - icon: file-pdf
    icon_pack: far
    name: PDF
-   url: "https://blogs.kent.ac.uk/economics/files/2020/07/MissingFirmCreationUK_JuneData.pdf"
-- icon: database
+   url: 'https://blogs.kent.ac.uk/economics/files/2020/07/MissingFirmCreationUK_JuneData.pdf'
+ - icon: database
    icon_pack: fas
    name: Dataset
-   url: "http://download.companieshouse.gov.uk/en_output.html"
+   url: 'http://download.companieshouse.gov.uk/en_output.html'
 
 #url_pdf: ''
 #url_code: “”
