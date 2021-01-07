@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Firm Creation in the UK During the Covid-19 Lockdown"
 authors:
 - Alfred Duncan
