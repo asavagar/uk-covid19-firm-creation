@@ -15,11 +15,5 @@ weight: 25
 title: Timeline
 subtitle:
 
-design:
-  columns: "1"
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
 ---
 {{< chart data="timeline.json" >}}
