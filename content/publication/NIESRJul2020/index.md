@@ -1,11 +1,9 @@
 ﻿---
-title: "How is coronavirus affecting the creation of new firms and new jobs?"
+title: "Firm creation in the UK during lockdown"
 authors:
 - Alfred Duncan
 - Miguel León-Ledesma
 - Anthony Savagar
-- Petr Sedláček
-- Vincent Sterk
 date: "2020-07-23T00:00:00Z"
 #doi: ""
 
@@ -20,7 +18,7 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication_short: "Economics Observatory"
+publication_short: "National Institute of Economic and Social Research"
 
 #abstract: 
 
@@ -36,8 +34,12 @@ links:
   
   - icon: link
     icon_pack: fas
-    name: Report
-    url: 'https://www.coronavirusandtheeconomy.com/question/how-coronavirus-affecting-creation-new-firms-and-new-jobs'
+    name: Link
+    url: 'https://www.niesr.ac.uk/publications/firm-creation-uk-during-lockdown'
+  - icon: file-pdf
+    icon_pack: far
+    name: PDF
+    url: 'https://www.niesr.ac.uk/sites/default/files/publications/Firm%20creation%20in%20the%20UK%20during%20lockdown.pdf'
   - icon: database
     icon_pack: fas
     name: Dataset
