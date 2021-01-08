@@ -1,4 +1,4 @@
-﻿---
+---
 title: 17,167 additional companies registered on December 2020 
 date: 2021-01-08
 author: 
@@ -9,7 +9,7 @@ author:
 
 <!--more-->
 
-## <i class="far fa-lightbulb"></i>  Highlights
+## Highlights
 
 1. Daily business creation increases by 18.5 % after the first lockdown.
 
