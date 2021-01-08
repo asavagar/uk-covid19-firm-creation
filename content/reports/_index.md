@@ -6,10 +6,10 @@ type: docs
 
 header:
   caption: ""
-  image: 
-	placement: 1
-	caption: caption: "Photo by Artur Tumasjan on [Unsplash]( https://unsplash.com/s/photos/report-uk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-	focal_point: "Center"
+  image: ""
+	  placement: 1
+	  caption: caption: "Photo by Artur Tumasjan on [Unsplash]( https://unsplash.com/s/photos/report-uk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+	  focal_point: "Center"
 ---
 
 Recent reports.
