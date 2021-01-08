@@ -45,3 +45,9 @@ London, South East and East of England move to tier 4 on December 20th, under th
 | Mean    | 2662.076 | 2397.662   | 2582.545 | 2849.6 | 2942.905    | 2572.4 | 2529              | 2465.353             |
 
 *Source: Authors' Calculations*
+
+### Total Effect 
+
+In total, a persistent recovery in business creation has been seen since June. Lockdown-I ended on the 4th of July, when non-essential businesses opened again. Forward that period up until the end of 2020, company registrations exceed their 2019 levels. Over 2020, on average, 2848 daily new companies register. The peak of this ratio is noticed during the week 19-25.08.2020. 
+
+Looking at the distribution of registrations, the majority or new registrations occurs after the end of the lockdown-I. In fact, similar performance is observed between the end of the first and during the second lockdown (July - early December). This may be, mostly, attributed to the less restrictions attached to the second lockdown, since the duration of these two periods differs. 16.9 % more companies incorporations noted during the second lockdown than the first one. 
