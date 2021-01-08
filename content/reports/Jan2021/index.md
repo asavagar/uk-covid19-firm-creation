@@ -6,7 +6,7 @@ type: docs
 date: "2020-01-08T00:00:00Z"
 draft: false
 menu:
-  report:
+  reports:
     parent: Reports
     weight: 1
 
