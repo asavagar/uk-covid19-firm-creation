@@ -19,4 +19,4 @@ advanced:
 
 The UK Firm Dynamics project explores the effect of COVID-19 policies on business creation and economic activity using the Companies House data.
 
-{{< cta cta_text="Latest report" cta_link="{{< ref "/reports/jan2021/index.md" >}}" cta_new_tab="true" >}}
+{{< cta cta_text="Latest report" cta_link="/reports/jan2021/index.md"  cta_new_tab="true" >}}
