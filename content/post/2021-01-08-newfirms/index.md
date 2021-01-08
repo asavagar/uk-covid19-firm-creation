@@ -2,7 +2,7 @@
 title: 17,167 additional companies registered on December 2020 
 date: 2021-01-08
 author: 
- - admin
+ - Yannis Galanakis
 ---
 
 17,167 additional companies registered on December 2020 relative to the equivalent period a year ago.
