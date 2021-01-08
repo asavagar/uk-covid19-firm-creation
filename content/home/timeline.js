@@ -1,4 +1,4 @@
-(function(){ 
+({ 
 
         window.PLOTLYENV={'BASE_URL': 'https://plotly.com'}; 
 
