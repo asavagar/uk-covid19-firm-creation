@@ -29,8 +29,8 @@ To help us develop this template and software sustainably under the MIT license,
 
 Please replace the demo images with your own.
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
+- [LondonCity](https://images.unsplash.com/photo-1587287006154-2a30270fdee3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
+- [Analytics](https://www.pexels.com/photo/person-holding-blue-ballpoint-pen-on-white-notebook-669610/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 - [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
 
 
