@@ -31,5 +31,6 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 The charts below show daily company incorporations in the UK for 2020 and their distribution.
 
 {{< chart data="dailyagg" >}}
+{{< chart data="density" >}}
 
 
