@@ -51,3 +51,16 @@ London, South East and East of England move to tier 4 on December 20th, under th
 In total, a persistent recovery in business creation has been seen since June. Lockdown-I ended on the 4th of July, when non-essential businesses opened again. Forward that period up until the end of 2020, company registrations exceed their 2019 levels. Over 2020, on average, 2848 daily new companies register. The peak of this ratio is noticed during the week 19-25.08.2020. 
 
 Looking at the distribution of registrations, the majority or new registrations occurs after the end of the lockdown-I. In fact, similar performance is observed between the end of the first and during the second lockdown (July - early December). This may be, mostly, attributed to the less restrictions attached to the second lockdown, since the duration of these two periods differs. 16.9 % more companies incorporations noted during the second lockdown than the first one. 
+
+{{< chart data="total" >}}
+
+## <i class="fas fa-map-marker-alt"></i>  Regional Analysis
+
+The following map^[Daily maps with all the new established firms, by full postcode, are available upon request in .gif format.] shows the average percentage change of new registrations occurred in December, relative to the same week in December 2019. To see the values, hoover your mouse over each bubble.
+
+{{< chart data="bubbles" >}}
+
+A similar illustration follows in a form of a heatmap to associate areas and their percentage change between December 2020 and 2019.
+{{< chart data="map" >}}
+
+
