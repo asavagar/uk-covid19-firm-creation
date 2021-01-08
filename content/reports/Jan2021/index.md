@@ -26,3 +26,10 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 ## <i class="far fa-calendar-alt"></i>  COVID-19 Key Dates in the UK
 
 {{< chart data="timeline" >}}
+
+## Daily Aggregate Company Incorporations
+The charts below show daily company incorporations in the UK for 2020 and their distribution.
+
+{{< chart data="dailyagg" >}}
+
+
