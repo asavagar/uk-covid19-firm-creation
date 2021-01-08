@@ -22,9 +22,10 @@
   name = "People"
   url = "people"
   weight = 30
+
 [[main]]
   identifier = "reports"
-#  name = "Policy Reports"
+  name = "Policy Reports"
   url = "reports/"
   weight = 35
 
