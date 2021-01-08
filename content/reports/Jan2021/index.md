@@ -63,4 +63,17 @@ The following map^[Daily maps with all the new established firms, by full postco
 A similar illustration follows in a form of a heatmap to associate areas and their percentage change between December 2020 and 2019.
 {{< chart data="map" >}}
 
+The following graph aggregates the business creation by country. In England, we exclude London, which we see separately. Northern Ireland, Scotland and Wales experience the largest declines in new business registrations relative to their 2019 levels. Following lockdown-I, an uneven recovery is observed. Since the end of June, Scotland and Wales maintain a positive business creation relative to the equivalent period of 2019. Northern Ireland's recovery commences the same period. It faces, though, several fluctuations until the end of lockdown-II. In London, firm creation escapes the initial lockdown shock quickly and catches up 2019 levels since April. The remaining English regions perform better than the three countries under devolved administration; their recovery occurs faster.
+
+{{< chart data="country" >}}
+
+## <i class="fas fa-industry"></i> Sectoral Change
+
+The following graph illustrates the cumulative company registrations in 2020 by industrial sector relative to 2019 values. For the analysis, we use the 2-digit SIC level and convert it to sectors, following the [ONS classification](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007).
+
+A variation among different industries exists. In the post-lockdown-I period, all industries recover to their 2019 equivalent levels. On average terms, retail and wholesale sectors outperform in December 2020 relative to the same period a year ago. Catering's recovery, occurred after the initial lockdown, worsens as certain areas in the UK enter the new Tier-4 scheme.
+
+
+{{< chart data="sector" >}}
+
 
