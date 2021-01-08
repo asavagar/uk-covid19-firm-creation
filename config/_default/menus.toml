@@ -22,6 +22,12 @@
   name = "People"
   url = "people"
   weight = 30
+[[main]]
+  identifier = "reports"
+#  name = "Policy Reports"
+  url = "reports/"
+  weight = 35
+
 
 #[[main]]
 #  name = "Events"
@@ -37,4 +43,5 @@
   name = "Contact"
   url = "contact"
   weight = 60
+
 
