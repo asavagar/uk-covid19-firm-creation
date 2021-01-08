@@ -1,9 +1,9 @@
 ---
-title: Business Creation in the UK: January 2021 Report
+title: Report January 2021
 linktitle: January 2021
 toc: true
 type: docs
-date: "2020-01-08T00:00:00Z"
+date: "2021-01-08T00:00:00+01:00"
 draft: false
 menu:
   reports:
@@ -13,5 +13,3 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
-Content...
