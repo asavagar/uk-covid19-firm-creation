@@ -5,9 +5,10 @@ date: "2021-01-08T00:00:00Z"
 type: doc
 toc: true
 reading_time: true  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+
+draft: false
+lastmod: "2020-01-08T00:00:00Z"
+linktitle: January 2021
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
