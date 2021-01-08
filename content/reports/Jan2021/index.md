@@ -33,4 +33,9 @@ The charts below show daily company incorporations in the UK for 2020 and their 
 {{< chart data="dailyagg" >}}
 {{< chart data="density" >}}
 
+The following table summarises the median and the mean of daily new registrations in different periods. The sharp decline of new incorporations, observed during the first lockdown implementation, recovers. The shock of the initial lockdown anticipates over time. Relative to the period before and during the lockdown, registrations increase by 18.5 % and 16.9 %, respectively.
+We notice a moderate shock during the second lockdown. The daily median goes from 3057 incorporations during lockdown-II is implemented to 2675 incorporations per day after lockdown-II is implemented, but before lockdown-III. This is a fall in business creation of 1.9 %.
+London, South East and East of England move to tier 4 on December 20th, under the [new Tier scheme](https://www.bbc.co.uk/news/uk-55379220). The data for the latter period concern the last 12 days of December. Daily median business creation shrinks by 7.5 % and 20.8 % relative to the period during the first and second lockdown, respectively. Most of the business creation occurs the last week of 2020 and concerns the manufacturing sector. This over-creation may be related to Brexit and more specifically to the EU-UK Trade and Cooperation Agreement (TCA).
+Median and Mean of new daily companies Incorporations in 2020Lockdown ILockdown IINew Tier-4 SchemeTotal Before During After During After During since first vaccine Median 2848.500 2581.000 2616.000 3058.0 3057.000 2675.0 2420 2563.000 Mean 2662.076 2397.662 2582.545 2849.6 2942.905 2572.4 2529 2465.353 Source: Authors' calculations based on Companies House [data](http://download.companieshouse.gov.uk/en_output.html)
+
 
