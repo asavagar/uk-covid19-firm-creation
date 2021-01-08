@@ -7,7 +7,7 @@ title: Alfred Duncan
 #- Alfred Duncan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 weight: 1
 
 # Role/position
