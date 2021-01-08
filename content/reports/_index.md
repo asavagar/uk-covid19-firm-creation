@@ -14,6 +14,6 @@ image:
 See recent reports on the left-hand side column.
 
 {{% callout note %}}
-For reports released on 2020, please check the publications sections.
+For reports released on 2020, please check the publications section.
 {{% /callout %}}
 
