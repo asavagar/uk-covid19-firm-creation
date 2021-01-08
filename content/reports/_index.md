@@ -9,5 +9,9 @@ header:
   image: "featured.jpg"
 ---
 
-Recent reports.
+See recent reports on the left-hand side column.
+
+{{% callout note %}}
+For reports released on 2020, please check on the [Publications]({{< ref "/publications/" >}}) sections.
+{{% /callout %}}
 
