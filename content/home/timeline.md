@@ -11,6 +11,8 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 25
+math: true
+diagram: true
 
 title: Timeline
 subtitle:
