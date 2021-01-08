@@ -56,7 +56,7 @@ Looking at the distribution of registrations, the majority or new registrations 
 
 ## <i class="fas fa-map-marker-alt"></i>  Regional Analysis
 
-The following map^[Daily maps with all the new established firms, by full postcode, are available upon request in .gif format.] shows the average percentage change of new registrations occurred in December, relative to the same week in December 2019. To see the values, hoover your mouse over each bubble.
+The following map[^1] shows the average percentage change of new registrations occurred in December, relative to the same week in December 2019. To see the values, hoover your mouse over each bubble.
 
 {{< chart data="bubbles" >}}
 
@@ -77,3 +77,4 @@ A variation among different industries exists. In the post-lockdown-I period, al
 {{< chart data="sector" >}}
 
 
+[^1]: Daily maps with all the new established firms, by full postcode, are available upon request in .gif format.
