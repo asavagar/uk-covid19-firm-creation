@@ -1,8 +1,9 @@
 ---
-title: Reports
+title: Policy Reports
 view: 4
 layout: docs
 type: docs
+toc: true
 
 image:
   placement: 1
@@ -11,9 +12,17 @@ image:
 
 ---
 
-See recent reports on the left-hand side column.
+Policy reports about the Business Creation in the UK since 2020. 
+
+
+## <i class="far fa-calendar-alt"></i> <span class="ml-1">
+COVID-19 Key Dates in the UK</span>
+
+{{< chart data="timeline" >}}
+
 
 {{% callout note %}}
+For recent reports, see the lef-hand side column.
 For reports released on 2020, please check the publications section.
 {{% /callout %}}
 
