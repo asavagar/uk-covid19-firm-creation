@@ -8,22 +8,26 @@ toc: true
 image:
   placement: 1
   caption: "Photo by Artur Tumasjan on [Unsplash](https://unsplash.com/s/photos/report-uk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  focal_point: "Center"
+  focal_point: "center"
 
 ---
 
 Policy reports about the Business Creation in the UK since 2020. 
 
 
-## <i class="far fa-calendar-alt   "></i> COVID-19 Key Dates in the UK
+## <i class="far fa-calendar-alt   "></i>   COVID-19 Key Dates in the UK
 
 {{< chart data="timeline" >}}
 
 
-## Data
+## <i class="fas fa-database  "></i>   Data
 The data are constructed from the UK business register, available from [Companies House]( https://www.gov.uk/government/organisations/companies-house) ([data]( http://download.companieshouse.gov.uk/en_output.html) here in .csv format). The register records every company in the UK with its birth date, post code and industry. This makes it possible to measure daily company registrations.
+
 ### Advantage and Disadvantage
+
 The main advantage of these data is that they are timely (almost real-time nature) and cover the entire UK. A disadvantage is that it is not possible to distinguish between firms created for accountancy purposes and firms that will employ workers.
+
+
 From the analysis, we **exclude** firms with missing values on the incorporation date, Post Code and/or industry of main activity.
 
 {{% callout note %}}
