@@ -14,9 +14,11 @@ image:
 
 Policy reports about the Business Creation in the UK since 2020. 
 
+a > i{
+  padding-right:10px;
+}
 
-## <i class="far fa-calendar-alt"></i> <span class="ml-1">
-COVID-19 Key Dates in the UK</span>
+## <a ><i class="far fa-calendar-alt"></i> COVID-19 Key Dates in the UK</a>
 
 {{< chart data="timeline" >}}
 
