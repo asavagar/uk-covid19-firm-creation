@@ -15,11 +15,11 @@ weight: 1
 ---
 
 ## <i class="far fa-lightbulb"></i>  Highlights
-1. Daily business creation increases by 18.5 % after the first lockdown.
+1. Daily business creation increases by 18.5 % between the first and second lockdown.
 2. 16.9% more companies incorporations in the second lockdown, relative to the first one.
-3. 17,167 additional companies registered on December 2020 than in the equivalent period last year.
-4. 2,465, on average, new daily registrations since the first Pfizer/BioNTech vaccine.
-5. On average terms, retail and wholesale sectors outperform in December 2020 relative to the same period a year ago. Catering's recovery, occurred after the initial lockdown, worsens as certain areas enter the new Tier-4 scheme.
+3. 17,167 additional companies registered in December 2020 than in December 2019.
+4. 2,465 new daily registrations since the first Pfizer/BioNTech vaccine.
+5. Manufacturing, retail and wholesale sectors outperform in December 2020 relative to 2019 levels. Accommodation and Food services sector’s recovery, occurred after the initial lockdown, worsens as certain areas enter the new Tier-4 scheme.
 
 We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the December 31st, 2020 to understand the effect of COVID-19 policies on business creation, and hence, economic activity. We find that daily business creation increases by 18.5 % after the first, but before the second, lockdown. 17,167 additional companies registered on December 2020 than in the equivalent period last year. On average terms, retail and wholesale sectors outperform in December 2020 relative to the same period a year ago. Catering's earlier recovery worsens as certain areas enter the new Tier-4 scheme.
 
@@ -35,6 +35,7 @@ London, South East and East of England move to tier 4 on December 20th, under th
 
 **Table:** Median and Mean of new daily companies Incorporations in 2020
 |         |          | Lockdown I                     ||| Lockdown II             || New Tier-4 Scheme |                      |
+|||<td colspan=3> Lockdown I <td colspan=2> Lockdown II | New Tier-4 Scheme | |
 |---------|:----------:|:------------:|:----------:|:--------:|:-------------:|:--------:|:-------------------:|:---------------------:|
 |         | Total    | Before     | During   | After  | During      | After  | During            | since first vaccine  |
 | Median  | 2848.5   | 2581       | 2616     | 3058   | 3057        | 2675   | 2420              | 2563                 |
