@@ -35,7 +35,7 @@ London, South East and East of England move to tier 4 on December 20th, under th
 
 **Table:** Median and Mean of new daily companies Incorporations in 2020
 
-||<td colspan=3 style="text-align:center;"> Lockdown I</td> <td colspan=2 style="text-align:center;"> Lockdown II | New Tier-4 Scheme | |
+||<td colspan=3 style="text-align:center;"> Lockdown I</td> <td colspan=2 style="text-align:center;"> Lockdown II</td> <td colspan=1 style="text-align:center;">New Tier-4 Scheme</td> |
 |---------|:----------:|:------------:|:----------:|:--------:|:-------------:|:--------:|:-------------------:|:---------------------:|
 |         | Total    | Before     | During   | After  | During      | After  | During            | since first vaccine  |
 | Median  | 2848.5   | 2581       | 2616     | 3058   | 3057        | 2675   | 2420              | 2563                 |
