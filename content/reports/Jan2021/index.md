@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report January 2021
 linktitle: January 2021
 toc: true
@@ -15,7 +15,7 @@ weight: 1
 ---
 
 ## In a nutshell 
-{{< figure src="Jan2021_4x3_adj.png" title="Report January 2021: In a nutshell" >}}
+{{< figure src="Jan2021_4x3adj.png" title="Report January 2021: In a nutshell" >}}
 
 
 ## <i class="far fa-lightbulb"></i>  Highlights
