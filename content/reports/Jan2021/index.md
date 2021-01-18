@@ -14,6 +14,10 @@ menu:
 weight: 1
 ---
 
+## In a nutshell 
+{{< figure src="Jan2021_16x9_adj.png" title="Report January 2021: In a nutshell" >}}
+
+
 ## <i class="far fa-lightbulb"></i>  Highlights
 1. Daily business creation increases by 18.5 % between the first and second lockdown.
 2. 16.9% more companies incorporations in the second lockdown, relative to the first one.
