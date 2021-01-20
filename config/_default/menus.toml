@@ -19,9 +19,9 @@
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Team"
   url = "people"
-  weight = 30
+  weight = 59
 
 [[main]]
   identifier = "reports"
