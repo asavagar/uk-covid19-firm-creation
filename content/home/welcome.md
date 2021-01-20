@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "UK Firm Dynamics"
+title: "COVID-19 Firm Creation"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,6 +17,6 @@ advanced:
   css_class:
 ---
 
-The UK Firm Dynamics project explores the effect of COVID-19 policies on business creation and economic activity using the Companies House data.
+The UK Firm Dynamics project explores the effect of COVID-19 policies on business creation and economic activity in the UK.
 
 {{< cta cta_text="Latest report" cta_link="/reports/jan2021/"  cta_new_tab="true" >}}
