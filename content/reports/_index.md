@@ -25,10 +25,10 @@ The data are constructed from the UK business register, available from [Companie
 The main advantage of the data is that it is timely (almost real-time nature) and covers the entire UK. A disadvantage is that it is not possible to identify companies that will employ and produce compared to those that are set up for accountancy purposes.
 
 
-From the analysis, we **exclude** firms with missing values on the incorporation date, Post Code and/or industry of main activity.
+We **exclude** firms with missing values on the incorporation date, post code and/or industry of main activity.
 
 {{% callout note %}}
-For recent reports, see the lef-hand side column.
+For recent reports, see the left-hand side column.
 For reports released on 2020, please check the publications section.
 {{% /callout %}}
 
