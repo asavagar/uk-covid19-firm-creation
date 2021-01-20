@@ -55,7 +55,7 @@ email: " m.a.leon-ledesma@kent.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Co-Investigator
 
 ---
 

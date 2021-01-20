@@ -4,7 +4,6 @@ title: Yannis Galanakis
 
 # Is this the primary user of the site?
 superuser: true
-weight: 2
 
 # Role/position
 role: Postdoctoral Research Associate
@@ -72,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Postdoctoral Research Associate
 ---
 
 
