@@ -1,5 +1,5 @@
 ---
-title: Policy Reports
+title: Reports
 view: 4
 layout: docs
 type: docs
