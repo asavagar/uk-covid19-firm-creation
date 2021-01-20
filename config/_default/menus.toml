@@ -25,7 +25,7 @@
 
 [[main]]
   identifier = "reports"
-  name = "Policy Reports"
+  name = "Reports"
   url = "reports/"
   weight = 35
 
