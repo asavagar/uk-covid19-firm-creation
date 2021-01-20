@@ -12,12 +12,12 @@ image:
 
 ---
 
-## <i class="far fa-calendar-alt   "></i>   COVID-19 Key Dates in the UK
+## <i class="far fa-calendar-alt   "></i>   <span class="ml-1">COVID-19 Key Dates in the UK</span>
 
 {{< chart data="timeline" >}}
 
 
-## <i class="fas fa-database  "></i>   Data
+## <i class="fas fa-database  "></i>   <span class="ml-1">Data</span>
 The data are constructed from the UK business register, available from [Companies House]( https://www.gov.uk/government/organisations/companies-house) ([data]( http://download.companieshouse.gov.uk/en_output.html) here in .csv format). The register records every company in the UK with its birth date, post code and industry. This makes it possible to measure daily company registrations.
 
 ### Advantages and Disadvantages
