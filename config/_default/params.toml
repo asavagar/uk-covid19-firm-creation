@@ -49,7 +49,7 @@ org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Project for Business Creation in the UK led by Alfred Duncan, Miguel Leon-Ledesma and Anthony Savagar at the University of Kent."
-logo = "icon.png"
+
 ############################
 ## Site Features
 ############################
