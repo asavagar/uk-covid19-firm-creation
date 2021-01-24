@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-## Understanding the EU-UK TCA outliers
+## Understanding the outliers
 There is an outlier of extremely high firm creation on December 30 (and 31), 2020 when the [EU-UK Trade and Cooperation Agreement (TCA)]( https://www.gov.uk/government/publications/agreements-reached-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-european-union) was signed.
 
 Treating the excess firm registration of the last week as an outlier, we repeat the sectoral analysis, found [here](https://uk-firm-dynamics.netlify.app/reports/jan2021/), *without* considering the activity of the last two days of December. The only noticeable difference regards the administrative and support services whose firm creation on average come behind the arts, entertainment, and recreation sector. 
