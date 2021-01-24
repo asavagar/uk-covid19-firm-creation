@@ -1,4 +1,4 @@
----
+﻿---
 title: Report January 2021
 linktitle: January 2021
 toc: true
@@ -28,7 +28,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 
 
 ## Daily Aggregate Company Incorporations
-The charts below show the daily company incorporations in the UK for 2020 and their distribution.
+The charts below show the daily company incorporations in the UK for 2020.
 
 {{< chart data="dailyagg" >}}
 
@@ -57,12 +57,9 @@ Looking at the distribution of registrations, most new registrations occur after
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
-The following map[^1] shows the average percentage change of new registrations occurred in December relative to December 2019. Greater changes are showed with bigger bubbles. To see the values, hoover your mouse over each bubble.
+The following map shows the average percentage change of new registrations occurred in December relative to December 2019. Greater changes are showed with bigger bubbles. To see the values, hoover your mouse over each bubble.
 
 {{< chart data="bubbles" >}}
-
-A similar illustration follows in a form of a heatmap to associate areas and their percentage change, as before.
-{{< chart data="map" >}}
 
 The following graph aggregates the business creation by country. We separate London from England. In December 2020, firm creation remains higher in all regions than it was in 2019. Following lockdown-I, an uneven recovery is observed among all countries. Since the end of June, Scotland and Wales maintain a positive business creation relative to the same period of 2019. Northern Ireland's recovery commences the same period. It faces, though, several fluctuations until the end of lockdown-II. In London, firm creation escapes the initial lockdown shock quickly and catches up 2019 levels since April. The remaining English regions perform better than the three countries under devolved administration; their recovery occurs faster.
 
@@ -86,4 +83,4 @@ Treating the excess firm registration of the last week as an outlier, we repeat 
 In terms of the regional analysis, an over-activity is observed in London, England, and Wales.
 
 
-[^1]: Daily maps with all the new established firms, by full postcode, are available upon request in .gif format.
+
