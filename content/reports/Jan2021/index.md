@@ -32,10 +32,9 @@ The charts below show the daily company incorporations in the UK for 2020.
 
 {{< chart data="dailyagg" >}}
 
-The following table summarises the median and the mean of daily new registrations in different periods in 2020. The sharp decline of new incorporations, observed during the first lockdown, recovers. The shock of the initial lockdown anticipates over time. Registrations increase by 18.5% and 16.9% relative to before and during lockdown-I, respectively.
-We notice a moderate shock during lockdown-II. The daily median goes from 3057 incorporations during lockdown-II to 2675 incorporations per day after lockdown-II, but before the New Tier-4 Scheme. This is a fall in business creation of 1.9%.
+The following table summarises the median and the mean of daily new registrations in different periods in 2020. We notice a moderate shock during lockdown-II. The daily median goes from 3057 incorporations during lockdown-II to 2675 incorporations per day after lockdown-II, but before the New Tier-4 Scheme. This is a fall in business creation of 1.9%.
 London, South East and East of England move to tier 4 on December 20th, under the [new Tier scheme](https://www.bbc.co.uk/news/uk-55379220). From the 20th December to 31st December, firm creation is significantly higher than over
-the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median business creation shrinks by 7.5 % and 20.8 % relative to the period during the first and second lockdown, respectively. Most of the business creation occurs on December 30th and 31st and concerns the manufacturing sector. This may be related to Brexit and more specifically to the EU-UK Trade and Cooperation Agreement (TCA).
+the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median business creation shrinks by 7.5% and 20.8% relative to the period during the first and second lockdown, respectively. Most of the business creation occurs on December 30th and 31st and concerns the manufacturing sector. This may be related to Brexit and more specifically to the [EU-UK Trade and Cooperation Agreement (TCA)]( https://uk-firm-dynamics.netlify.app/reports/tcaoutlier/).
 
 **Table:** Median and Mean of new daily companies Incorporations in 2020
 
@@ -49,9 +48,9 @@ the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median busi
 
 ### Total Effect 
 
-In total, a persistent recovery in business creation has been seen since June. Lockdown-I ended on the 4th of July, when non-essential businesses opened again. Forward that period up until the end of 2020, company registrations exceed their 2019 levels. Over 2020, 2848 daily new companies register. The peak of this ratio is noticed at the end of August (week August 25th). 
+Since July, company registrations persistently exceed their 2019 levels. Over 2020, on average, 2848 daily new companies register. 
 
-Looking at the distribution of registrations, most new registrations occur after the end of lockdown-I. In fact, similar performance is observed between the end of the first and during the second lockdown (July - early December). This may be, mostly, attributed to the less restrictions attached to lockdown-II given the different duration of these two periods. 16.9% more companies incorporations noted during the second lockdown than the first one. 
+Similar performance is observed between the end of the first and during the second lockdown (July - December). This may be, mostly, attributed to the less restrictions attached to lockdown-II given the different duration of these two periods. 16.9% more companies registrations noted during the second lockdown than the first one. 
 
 {{< chart data="total" >}}
 
@@ -61,7 +60,7 @@ The following map shows the average percentage change of new registrations occur
 
 {{< chart data="bubbles" >}}
 
-The following graph aggregates the business creation by country. We separate London from England. In December 2020, firm creation remains higher in all regions than it was in 2019. Following lockdown-I, an uneven recovery is observed among all countries. Since the end of June, Scotland and Wales maintain a positive business creation relative to the same period of 2019. Northern Ireland's recovery commences the same period. It faces, though, several fluctuations until the end of lockdown-II. In London, firm creation escapes the initial lockdown shock quickly and catches up 2019 levels since April. The remaining English regions perform better than the three countries under devolved administration; their recovery occurs faster.
+The following graph aggregates the business creation by country. We separate London from England. In December 2020, firm creation remains higher in all regions than it was in 2019. Northern Ireland's recovery commences the end of June. It faces, though, several fluctuations until the end of lockdown-II.
 
 {{< chart data="country" >}}
 
@@ -73,14 +72,11 @@ In December 2020, all sectors observe higher firm creation than December 2019. M
 
 {{< chart data="sector" >}}
 
+{{% callout note %}}
+Read more about the [EU-UK Trade and Cooperation Agreement (TCA)]( https://uk-firm-dynamics.netlify.app/reports/tcaoutlier/).
+{{% /callout %}}
 
-## Understanding the EU-UK TCA outliers
 
-There is an outlier of extremely high firm creation on December 30 (and 31), 2020 when the [EU-UK Trade and Cooperation Agreement (TCA)]( https://www.gov.uk/government/publications/agreements-reached-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-european-union) was signed.
-
-Treating the excess firm registration of the last week as an outlier, we repeat the sectoral analysis *without* considering the activity of the last two days of December. The only noticeable difference regards the administrative and support services whose firm creation on average come behind the arts, entertainment, and recreation sector. Looking only at the outliers, manufacturing, administrative and supportive services related businesses seem to register more than the same days in 2019. This static improve might be related to Brexit and the EU-UK TCA.
-
-In terms of the regional analysis, an over-activity is observed in London, England, and Wales.
 
 
 
