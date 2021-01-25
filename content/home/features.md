@@ -32,7 +32,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Interactive and Reproducible Visualisations"
+  name = "Interactive Visualisations"
 #  description = ""
 
 
