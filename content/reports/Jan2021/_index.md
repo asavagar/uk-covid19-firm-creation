@@ -46,7 +46,7 @@ the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median busi
 
 
 Download this table:
-{{% download "AvMedJan2021.csv" %}}<i class="fas fa-file-csv"></i> {{% /download %}}
+[<i class="fas fa-file-csv"></i>](download/AvMedJan2021.csv)
 
 ### Total Effect 
 
