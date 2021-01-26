@@ -1,0 +1,10 @@
+<ul>
+	ccc
+	{{ range  $.Page.Resources.Match "download/*.*" }}
+	<li>
+		<a target="_blank" href="{{ .Permalink }}">
+			<i class="far fa-file-{{ .Params.icon }}"></i> {{ .Title }}
+		</a>
+	</li>
+	{{ end }}
+</ul>

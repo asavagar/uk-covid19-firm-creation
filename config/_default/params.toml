@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = false}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "i.galanakis@kent.ac.uk"
+email = ""
 phone = ""
 
 # Address
