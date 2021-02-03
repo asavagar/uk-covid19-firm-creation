@@ -1,6 +1,6 @@
 ---
 title: Report February 2021
-linktitle: February 2021
+linktitle: February 
 toc: true
 type: docs
 date: "2021-02-03T00:00:00+01:00"
@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-## In a nutshell 
+
 
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Daily business creation increases almost by 9% since last month.
