@@ -1,0 +1,337 @@
+{
+  "visdat": {
+    "6db0d58134c": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "6db0d58134c",
+  "attrs": {
+    "6db0d58134c": {
+      "x": [
+        "Manufacturing",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Information and communication"
+      ],
+      "y": [
+        25384,
+        54565,
+        260710,
+        19374,
+        26118,
+        35835,
+        23527,
+        40496,
+        35403,
+        27390
+      ],
+      "name": "2019",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "bar"
+    },
+    "6db0d58134c.1": {
+      "x": [
+        "Manufacturing",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Information and communication"
+      ],
+      "y": [
+        34243,
+        66644,
+        379374,
+        26799,
+        40739,
+        50444,
+        33936,
+        41970,
+        39883,
+        30499
+      ],
+      "name": "2020",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "bar",
+      "inherit": true
+    },
+    "6db0d58134c.2": {
+      "x": [
+        "Manufacturing",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Information and communication"
+      ],
+      "y": [
+        43583,
+        72983,
+        667436,
+        26991,
+        31849,
+        61568,
+        38024,
+        43419,
+        40265,
+        32120
+      ],
+      "name": "2021",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "bar",
+      "inherit": true
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "autosize": true,
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "tickfont": {
+        "size": 7
+      },
+      "tickwidth": 3,
+      "tickangle": 90,
+      "title": [],
+      "type": "category",
+      "categoryorder": "array",
+      "categoryarray": [
+        "Accommodation and food service activities",
+        "Administrative and support service activities",
+        "Construction",
+        "Financial and insurance activities",
+        "Information and communication",
+        "Manufacturing",
+        "Professional, scientific and technical activities",
+        "Real estate activities",
+        "Transportation and storage",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+      ]
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "# of registations in January",
+      "showgrid": false
+    },
+    "title": {
+      "text": "Company registrations in January<br><sup>(Selected sectors only)</sup>"
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        "Manufacturing",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Information and communication"
+      ],
+      "y": [
+        25384,
+        54565,
+        260710,
+        19374,
+        26118,
+        35835,
+        23527,
+        40496,
+        35403,
+        27390
+      ],
+      "name": "2019",
+      "type": "bar",
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        "Manufacturing",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Information and communication"
+      ],
+      "y": [
+        34243,
+        66644,
+        379374,
+        26799,
+        40739,
+        50444,
+        33936,
+        41970,
+        39883,
+        30499
+      ],
+      "name": "2020",
+      "type": "bar",
+      "marker": {
+        "color": "rgba(255,127,14,0.5)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        "Manufacturing",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Information and communication"
+      ],
+      "y": [
+        43583,
+        72983,
+        667436,
+        26991,
+        31849,
+        61568,
+        38024,
+        43419,
+        40265,
+        32120
+      ],
+      "name": "2021",
+      "type": "bar",
+      "marker": {
+        "color": "rgba(44,160,44,0.5)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
