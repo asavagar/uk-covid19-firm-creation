@@ -49,7 +49,7 @@ The daily median companies registration is 31% higher in January 2021 relative t
 
 The following map shows the average percentage change of new registrations occurred in January 2021 relative to January 2019.  
 
-<iframe src="mapJan2021Av.html"></iframe>
+<iframe src="mapJan2021Av.html" style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 The following graph aggregates the business creation by country. We separate London from England. In January 2021, firm creation remains higher in all regions than it was in 2019. All countries see an extensive firm creation at the beginning of the year; the gap narrows from the second week onwards. Remarkably, little does the new firm registration between the Wales and England differ.
 
