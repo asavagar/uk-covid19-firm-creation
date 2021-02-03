@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report February 2021
 linktitle: February 2021
 toc: true
@@ -17,12 +17,10 @@ weight: 1
 ## In a nutshell 
 
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
-1. Daily business creation increases almost 9% since last month.
-
-2. 16.9% more company registrations in the second lockdown, relative to the first one.
-3. 17,167 additional companies registered in December 2020 than in December 2019.
-4. 2,465 new daily company registrations since the first Pfizer/BioNTech vaccine.
-5. Manufacturing, retail and wholesale sectors outperform in December 2020 relative to their 2019 levels. Accommodation and Food services sector's recovery, occurred after the initial lockdown, worsens as certain areas enter the new Tier-4 scheme.
+1. Daily business creation increases almost by 9% since last month.
+2. 19,512 additional companies registered in January 2021 relative to January 2019.
+4. Greater business creation in the first week of January.
+5. Manufacturing, financial, retail and wholesale sectors outperform in January 2020 relative to their 2019 levels. Accommodation and Food services sector notice less business registration than in January 2020.
 
 We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the January 31st, 2021 to understand the effect of COVID-19 policies on business creation, and hence, economic activity. We find that business creation increases by 8.93% since last month. 19,512 additional companies registered in January 2021 relative to January 2019. 13.46% increase in business creation between January 2021 and January 2020. There is more firm creation in every sector, notably in retail, and wholesale sectors. Firm creation continues to increase relative to recent months, but accommodation and food services’ performance remains weak. 
 
@@ -51,7 +49,7 @@ The daily median companies registration is 31% higher in January 2021 relative t
 
 The following map shows the average percentage change of new registrations occurred in January 2021 relative to January 2019.  
 
-{% include mapJan2021Av.html %}
+<iframe src="mapJan2021Av.html"></iframe>
 
 The following graph aggregates the business creation by country. We separate London from England. In January 2021, firm creation remains higher in all regions than it was in 2019. All countries see an extensive firm creation at the beginning of the year; the gap narrows from the second week onwards. Remarkably, little does the new firm registration between the Wales and England differ.
 
