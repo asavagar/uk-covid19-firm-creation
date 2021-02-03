@@ -30,7 +30,7 @@ The charts below show the daily company incorporations in the UK since January 2
 
 {{< chart data="dailyagg" >}}
 
-Business creation increases by 8.93% in January 2021 since last month. 19,512 additional companies registered in January 2021 relative to January 2019. 13.46% increase in business creation between January 2021 and January 2020. 
+Business creation increases by 8.93% in January 2021 since last month. 19,512 additional companies registered in January 2021 relative to January 2019. 13.46% increase in business creation between January 2021 and January 2020. The daily median registration during lockdown-III is 7.7% lower than during lockdown-I and 21% lower than during lockdown-II.
 
 
 ### Total Effect 
