@@ -64,8 +64,8 @@ London dominates firm creation. The majority of the early-year business creation
 
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
-### SIC Section
-The graph illustrates company registrations in January 2021, January 2020 and January 2019 by industrial sector. We use 2-digit SIC levels (SIC divisions) and group into broader sectors (SIC sections). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html) for divisions and sections. We present a selection of notable sectors. 
+### SIC Sections
+The graph illustrates company registrations in January 2021, January 2020 and January 2019 by industrial sector. We use 2-digit SIC levels (ONS "divisions") and group into broader sectors (ONS "sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html) for divisions and sections. We present a selection of notable sectors. 
 
 {{< chart data="sector" >}}
 
