@@ -47,11 +47,12 @@ Company registrations in January 2021 are 31% higher than January 2020 and 48% h
 
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
-
+### Postcode area
 The map shows the percentage change in new registrations in January 2021 compared to January 2019. Region is defined by post code area. 
 
 <iframe src="mapJan2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
+### Country 
 The following graph aggregates the business creation by country. We separate London from England. In January 2021, firm creation remains higher in all regions than it was in 2019. All countries see an extensive firm creation at the beginning of the year; the gap narrows from the second week onwards. Remarkably, little does the new firm registration between the Wales and England differ.
 
 {{< chart data="country" >}}
