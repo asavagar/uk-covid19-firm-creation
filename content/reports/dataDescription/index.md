@@ -43,4 +43,9 @@ In terms of the regional analysis, an over-activity is observed in London, Engla
 ### Public Holidays and Weekends
 Public holidays do not occur in the same week every year. This can affect comparisons across years when we total daily registrations because the same week may have a different number of working days.
 
+Weekends typically observe near zero firm registrations. An exception to this rule-of-thumb is the first weekend after lockdown-I (July 4 and 5, 2020) which saw more than 3000 firms registered on the weekend.
+
+### Postcode Areas
+Some postcodes have extraordinarily high levels of firm registrations. These postcodes are typically accountancy firm addresses that offer "set up a company" services. The median number of registrations at a postcode in the dataset is 1, which is also the lower bound as every postcode on the register has at least one registration.
+
 
