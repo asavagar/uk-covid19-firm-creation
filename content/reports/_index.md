@@ -3,7 +3,7 @@ title: Reports
 view: 4
 layout: docs
 type: docs
-toc: true
+toc: false
 
 image:
   placement: 1
