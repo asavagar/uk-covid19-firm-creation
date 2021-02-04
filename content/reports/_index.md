@@ -17,8 +17,5 @@ Monthly reports and data description are available in the sidebar.
 {{% /callout %}}
 
 
-## Timeline
-
-{{< chart data="timeline" >}}
 
 
