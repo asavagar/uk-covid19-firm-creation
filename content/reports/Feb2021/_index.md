@@ -67,14 +67,12 @@ London dominates firm creation. The majority of the early-year business creation
 ### SIC sections
 The graph illustrates company registrations in January 2021, January 2020 and January 2019 by industrial sector. We use 2-digit SIC levels (SIC divisions) and group into broader sectors (SIC sections). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html) for divisions and sections. We present a selection of notable sectors. 
 
+{{< chart data="sector" >}}
+
 - January 2021 has higher firm creation in all sectors than January 2019.
 - January 2021 has similar firm creation to January 2020. 
 - 'Manufacturing', 'Financial and Insurance activities', 'Wholesale, and Retail Trade' sectors present the greatest increase in firm creation. 
-- 'Accommodation and Food services' maintain the significant drop observed in December 2020. In fact, this sector is the only one noting less registrations than January 2020. This suggests the strength of lockdown-III in the business activity. 
-
-{{< chart data="sector" >}}
-
-
+- 'Accommodation and Food services' is the only sector with fewer registrations in January 2021 than January 2020. 
 
 
 
