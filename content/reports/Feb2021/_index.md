@@ -53,12 +53,12 @@ The map shows the percentage change in new registrations in January 2021 compare
 <iframe src="mapJan2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
 ### Country 
-The following graph aggregates the business creation by country. We separate London from England. In January 2021, firm creation remains higher in all regions than it was in 2019. All countries see an extensive firm creation at the beginning of the year; the gap narrows from the second week onwards. Remarkably, little does the new firm registration between the Wales and England differ.
+The following graph aggregates business creation by country. We separate London from England. In January 2021, firm creation remains higher in all regions than it was in 2019. All countries have extremely high firm creation in the first week of the year; the gap narrows from the second week onwards.
 
 {{< chart data="country" >}}
 
 ### London
-London, traditionally, dominates the business activity. In fact, its recovery since lockdown-I occurred earlier. It is interesting, though, to see that the majority of the early-year business creation came mostly from Central and East London. From week 2 onwards, though, only Central London leads the business creation.  
+London dominates firm creation. The majority of the early-year business creation comes mostly from Central and East London. From week 2 onwards, though, only Central London leads the business creation.  
 
 {{< chart data="london" >}}
 
