@@ -22,8 +22,3 @@ Monthly reports and data description are available in the sidebar.
 {{< chart data="timeline" >}}
 
 
-{{% callout note %}}
-For recent reports, see the left-hand side column.
-For reports released on 2020, please check the publications section.
-{{% /callout %}}
-
