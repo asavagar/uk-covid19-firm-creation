@@ -22,7 +22,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 2. 13.46% more companies registered in January 2021 relative to January 2020.
 3. There is more firm creation in nearly every sector of the economy in January 2021 compared to January 2020 or 2019. The one exception is Accommodation and Food.
 
-## Daily Aggregate Company Incorporations
+## Aggregate Analysis
 The charts below show the daily company incorporations in the UK since January 2020.
 
 {{< chart data="dailyagg" >}}
@@ -58,7 +58,7 @@ London, traditionally, dominates the business activity. In fact, its recovery si
 {{< chart data="london" >}}
 
 
-## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Change</span>
+## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 
 The following graph illustrates the cumulative company registrations in January 2021 by industrial sector. For the analysis, we use the 2-digit SIC level and convert it to sectors, following the [ONS classification](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007). For illustration purposes, we show only those sectors which present a remarkable change over the years.  
 
