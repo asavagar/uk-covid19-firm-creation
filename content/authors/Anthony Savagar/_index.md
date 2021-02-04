@@ -3,8 +3,8 @@
 title: Anthony Savagar
 
 # Username (this should match the folder name)
-authors:
-- Anthony Savagar
+#authors:
+#- Anthony Savagar
 
 # Is this the primary user of the site?
 superuser: true
