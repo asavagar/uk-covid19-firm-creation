@@ -17,6 +17,6 @@ advanced:
   css_class:
 ---
 
-The project explores the impact of COVID-19 on business creation and economic activity in the UK.
+The project explores the impact of COVID-19 on business creation in the UK.
 
 {{< cta cta_text="Latest report" cta_link="/reports/feb2021/"  cta_new_tab="true" >}}
