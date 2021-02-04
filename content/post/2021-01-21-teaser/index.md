@@ -1,5 +1,5 @@
-﻿---
-title: What should we expect on February? 
+---
+title: What should we expect in February? 
 date: 2021-01-21
 author: 
   - Yannis Galanakis
