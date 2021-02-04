@@ -70,11 +70,9 @@ The graph illustrates company registrations in January 2021, January 2020 and Ja
 {{< chart data="sector" >}}
 
 - January 2021 has higher firm creation in all sectors than January 2019.
-- January 2021 has similar firm creation in most sectors to January 2020. 
-- 'Manufacturing', 'Financial and Insurance Activities', 'Wholesale, and Retail Trade' sectors present the greatest increase in firm creation. 
+- January 2021 has similar firm creation to January 2020 in most sectors.
+- 'Manufacturing', 'Financial and Insurance Activities', 'Wholesale, and Retail Trade' sectors show the greatest increase in firm creation.
 - 'Accommodation and Food Services' is the only sector with fewer registrations in January 2021 than January 2020. 
 
 
-
-{{< cta cta_text="Download report snapshot" cta_link="../feb2021/snapshotFeb2021.pdf"  cta_new_tab="true" icon_pack="far" icon="file-pdf" >}}
 
