@@ -26,8 +26,8 @@ weight: 2
 
 We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the December 31st, 2020 to understand the effect of COVID-19 policies on business creation, and hence, economic activity. We find that daily business creation increases by 18.5% after the first, but before the second, lockdown. 17,167 additional companies registered in December 2020 relative to December 2019. There is more firm creation in every sector, notably in manufacturing, retail, and wholesale sectors. Firm creation continues to increase relative to recent months, but accommodation and food services’ strong performance weakens. 
 
-
-## Daily Aggregate Company Incorporations
+## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
+### Daily 
 The charts below show the daily company incorporations in the UK for 2020.
 
 {{< chart data="dailyagg" >}}
@@ -47,7 +47,7 @@ the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median busi
 
 
 
-### Total Effect 
+### Relative
 
 Since July, company registrations persistently exceed their 2019 levels. Over 2020, on average, 2848 daily new companies register. 
 
@@ -56,17 +56,18 @@ Similar performance is observed between the end of the first and during the seco
 {{< chart data="total" >}}
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
-
+### Postcode Area
 The following map shows the average percentage change of new registrations occurred in December relative to December 2019. Greater changes are showed with bigger bubbles. To see the values, hoover your mouse over each bubble.
 
 {{< chart data="bubbles" >}}
 
+### Country
 The following graph aggregates the business creation by country. We separate London from England. In December 2020, firm creation remains higher in all regions than it was in 2019. Northern Ireland's recovery commences the end of June. It faces, though, several fluctuations until the end of lockdown-II.
 
 {{< chart data="country" >}}
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Change</span>
-
+### SIC Sections
 The following graph illustrates the cumulative company registrations in 2020 by industrial sector relative to 2019 values. For the analysis, we use the 2-digit SIC level and convert it to sectors, following the [ONS classification](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007).
 
 In December 2020, all sectors observe higher firm creation than December 2019. Mining and quarrying, arts, entertainment and recreation sectors present the smallest change relative to their 2019 levels. Manufacturing, wholesale, and retail trade sectors present the greatest increase in firm creation. Accommodation and food services observe a significant drop after the introduction of Tier-4 scheme.
