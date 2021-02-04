@@ -76,5 +76,5 @@ The graph illustrates company registrations in January 2021, January 2020 and Ja
 
 
 
-{{< cta cta_text="Download report snapshot" cta_link="../feb2021/snapshotFeb2021.pdf"  cta_new_tab="true" icon_pack="far" icon="file-pdf" >}}
+#{{< cta cta_text="Download report snapshot" cta_link="../feb2021/snapshotFeb2021.pdf"  cta_new_tab="true" icon_pack="far" icon="file-pdf" >}}
 
