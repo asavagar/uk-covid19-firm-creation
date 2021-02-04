@@ -56,7 +56,7 @@ The following graph aggregates the business creation by country. We separate Lon
 
 {{< chart data="country" >}}
 
-### Zoom in London
+### London
 London, traditionally, dominates the business activity. In fact, its recovery since lockdown-I occurred earlier. It is interesting, though, to see that the majority of the early-year business creation came mostly from Central and East London. From week 2 onwards, though, only Central London leads the business creation.  
 
 {{< chart data="london" >}}
