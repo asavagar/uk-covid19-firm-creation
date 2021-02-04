@@ -36,7 +36,7 @@ The charts below show the daily company incorporations in the UK since January 2
 
 ### Total Effect 
 
-Company registrations persistently exceed their 2019 levels. Extensive business activity is observed during the first 2 weeks of January 2021. This might be a persistent trend originating from the last week of December 2020 (see EU-UK TCA outliers). Week 3 onwards, companies registration ratio narrows the gap of 2021/2019 against 2020/2019 over the same weeks. We note that calculations of week 5 are incomplete given the number of days of data availability (see report on March 2021). 
+Company registrations persistently exceed their 2019 levels. Extensive business activity is observed during the first 2 weeks of January 2021. This might be a persistent trend originating from the last week of December 2020 (see EU-UK TCA outliers). Week 3 onwards, companies registration ratio narrows the gap of 2021/2019 against 2020/2019 over the same weeks. We note the calculations for week 5 2021 contain only two days. 
 
 {{< chart data="total" >}}
 
