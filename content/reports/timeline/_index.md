@@ -14,7 +14,6 @@ menu:
 weight: 0.5
 ---
 
-## Timeline
 
 {{< chart data="timeline" >}}
 
