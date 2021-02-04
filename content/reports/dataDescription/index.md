@@ -29,7 +29,7 @@ The chart below shows the density of daily company registrations in the UK for 2
 {{< chart data="density" >}}
 
 
-## Understanding the outliers
+## Outliers
 ### EU-UK Trade and Cooperation Agreement (TCA)
 There is an outlier of extremely high firm creation on December 30 (and 31), 2020 when the [EU-UK Trade and Cooperation Agreement (TCA)]( https://www.gov.uk/government/publications/agreements-reached-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-european-union) was signed.
 
