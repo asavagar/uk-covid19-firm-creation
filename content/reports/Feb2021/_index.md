@@ -48,7 +48,7 @@ Company registrations in January 2021 are 31% higher than January 2020 and 48% h
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
-The map shows the percentage change in new registrations in January 2021 compared to January 2019.  
+The map shows the percentage change in new registrations in January 2021 compared to January 2019. Region is defined by post code area. 
 
 <iframe src="mapJan2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
