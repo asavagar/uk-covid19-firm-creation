@@ -12,5 +12,5 @@ Please replace the demo images with your own.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/80986ec9-d217-41b1-9f7a-f3421434f18b/deploy-status)](https://app.netlify.com/sites/uk-firm-dynamics/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80986ec9-d217-41b1-9f7a-f3421434f18b/deploy-status)](https://app.netlify.com/sites/uk-covid19-firm-dynamics/deploys)
 
