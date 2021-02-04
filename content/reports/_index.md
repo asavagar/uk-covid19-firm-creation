@@ -17,7 +17,7 @@ Monthly reports and data description are available in the sidebar.
 {{% /callout %}}
 
 
-## <i class="far fa-calendar-alt   "></i>   <span class="ml-1">Timeline</span>
+## Timeline
 
 {{< chart data="timeline" >}}
 
