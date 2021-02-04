@@ -66,7 +66,7 @@ The following graph aggregates the business creation by country. We separate Lon
 
 {{< chart data="country" >}}
 
-## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Change</span>
+## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 ### SIC Sections
 The following graph illustrates the cumulative company registrations in 2020 by industrial sector relative to 2019 values. For the analysis, we use the 2-digit SIC level and convert it to sectors, following the [ONS classification](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007).
 
