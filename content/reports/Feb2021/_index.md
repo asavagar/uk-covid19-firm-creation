@@ -18,13 +18,9 @@ weight: 1
 We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the January 31st, 2021.
 
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
-1. Daily business creation increases almost by 9% since last month.
-2. 19,512 additional companies registered in January 2021 relative to January 2019.
-4. Greater business creation in the first week of January.
-5. Manufacturing, financial, retail and wholesale sectors outperform in January 2020 relative to their 2019 levels. Accommodation and Food services sector notice less business registration than in January 2020.
-
-We find that business creation increases by 8.93% since last month. 19,512 additional companies registered in January 2021 relative to January 2019. 13.46% increase in business creation between January 2021 and January 2020. There is more firm creation in every sector, notably in retail, and wholesale sectors. Firm creation continues to increase relative to recent months, but accommodation and food services’ performance remains weak. 
-
+1. Daily business creation increases by 9% since last month.
+2. 13.46% more companies registered in January 2021 relative to January 2020.
+3. There is more firm creation in nearly every sector of the economy in January 2021 compared to January 2020 or 2019. The one exception is Accommodation and Food.
 
 ## Daily Aggregate Company Incorporations
 The charts below show the daily company incorporations in the UK since January 2020.
