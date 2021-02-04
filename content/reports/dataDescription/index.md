@@ -41,4 +41,6 @@ Looking only at the outliers, manufacturing, administrative and supportive servi
 In terms of the regional analysis, an over-activity is observed in London, England, and Wales.
 
 ### Public Holidays and Weekends
+Public holidays do not occur in the same week every year. This can affect comparisons across years when we total daily registrations because the same week may have a different number of working days.
+
 
