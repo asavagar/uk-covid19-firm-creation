@@ -22,7 +22,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 2. Business creation was 13.46% higher in January 2021 compared to January 2020.
 3. There is more firm creation in nearly every sector of the economy in January 2021 compared to January 2020 or 2019. The one exception is Accommodation and Food.
 
-## Aggregate Analysis
+## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
 ### Daily 
 The charts below show the daily company incorporations in the UK since January 2020. The lockdown periods correspond to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
 
