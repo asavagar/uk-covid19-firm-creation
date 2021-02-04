@@ -47,7 +47,7 @@ Company registrations in January 2021 are 31% higher than January 2020 and 48% h
 
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
-### Postcode area
+### Postcode Area
 The map shows the percentage change in new registrations in January 2021 compared to January 2019.  
 
 <iframe src="mapJan2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
@@ -64,15 +64,15 @@ London dominates firm creation. The majority of the early-year business creation
 
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
-### SIC sections
+### SIC Section
 The graph illustrates company registrations in January 2021, January 2020 and January 2019 by industrial sector. We use 2-digit SIC levels (SIC divisions) and group into broader sectors (SIC sections). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html) for divisions and sections. We present a selection of notable sectors. 
 
 {{< chart data="sector" >}}
 
 - January 2021 has higher firm creation in all sectors than January 2019.
 - January 2021 has similar firm creation to January 2020. 
-- 'Manufacturing', 'Financial and Insurance activities', 'Wholesale, and Retail Trade' sectors present the greatest increase in firm creation. 
-- 'Accommodation and Food services' is the only sector with fewer registrations in January 2021 than January 2020. 
+- 'Manufacturing', 'Financial and Insurance Activities', 'Wholesale, and Retail Trade' sectors present the greatest increase in firm creation. 
+- 'Accommodation and Food Services' is the only sector with fewer registrations in January 2021 than January 2020. 
 
 
 
