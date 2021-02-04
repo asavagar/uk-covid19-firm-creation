@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report January 2021
 linktitle: January 2021
 toc: true
@@ -8,10 +8,10 @@ draft: false
 menu:
   reports:
 #    parent: Reports 2021
-    weight: 1.5
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ## In a nutshell 
