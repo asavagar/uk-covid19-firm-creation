@@ -16,10 +16,11 @@ weight: 0
 
 The data are constructed from the UK business register, available from [Companies House]( https://www.gov.uk/government/organisations/companies-house) ([data]( http://download.companieshouse.gov.uk/en_output.html) here in .csv format). The register records every company in the UK with its birth date, post code and industry. This makes it possible to measure daily company registrations.
 
-## Advantages and Disadvantages
+## Pros and Cons
 
 The main advantage of the data is that it is timely (almost real-time nature) and covers the entire UK. A disadvantage is that it is not possible to identify companies that will employ and produce compared to those that are set up for accountancy purposes.
 
+## Cleaning
 We **exclude** firms with missing values on the incorporation date, post code and/or industry of main activity.
 
 ## Descriptive statistics
