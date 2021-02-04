@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 title: Anthony Savagar
 
