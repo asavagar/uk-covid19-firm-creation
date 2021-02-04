@@ -23,7 +23,7 @@ The main advantage of the data is that it is timely (almost real-time nature) an
 
 We **exclude** firms with missing values on the incorporation date, post code and/or industry of main activity.
 
-## Distribution of Aggregate Company Registrations
+### Distribution of Aggregate Company Registrations
 The chart below shows the density of daily company registrations in the UK for 2020.
 
 {{< chart data="density" >}}
