@@ -75,7 +75,7 @@ In December 2020, all sectors observe higher firm creation than December 2019. M
 {{< chart data="sector" >}}
 
 {{% callout note %}}
-Read more about the [EU-UK Trade and Cooperation Agreement (TCA)](https://uk-firm-dynamics.netlify.app/reports/datadescription/#understanding-the-outliers).
+Read more about the [EU-UK Trade and Cooperation Agreement (TCA)]({{< relref "reports/datadescription/#eu-uk-trade-and-cooperation-agreement-tca" >}}).
 {{% /callout %}}
 
 
