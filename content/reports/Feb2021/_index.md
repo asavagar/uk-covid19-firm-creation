@@ -18,8 +18,8 @@ weight: 1
 We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the January 31st, 2021.
 
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
-1. Business creation increased nearly 10% from December 2020 to January 2021.
-2. 13.46% more companies registered in January 2021 relative to January 2020.
+1. Business creation increased 8.93% from December 2020 to January 2021.
+2. Business creation was 13.46% higher in January 2021 compared to January 2020.
 3. There is more firm creation in nearly every sector of the economy in January 2021 compared to January 2020 or 2019. The one exception is Accommodation and Food.
 
 ## Aggregate Analysis
