@@ -14,6 +14,7 @@ menu:
 weight: 0
 ---
 
+## Overview
 The data are constructed from the UK business register, available from [Companies House]( https://www.gov.uk/government/organisations/companies-house) ([data]( http://download.companieshouse.gov.uk/en_output.html) here in .csv format). The register records every company in the UK with its birth date, post code and industry. This makes it possible to measure daily company registrations.
 
 ## Pros and Cons
@@ -23,7 +24,7 @@ The main advantage of the data is that it is timely (almost real-time nature) an
 ## Cleaning
 We **exclude** firms with missing values on the incorporation date, post code and/or industry of main activity.
 
-## Descriptive statistics
+## Descriptive Statistics
 The chart below shows the density of daily company registrations in the UK for 2020.
 
 {{< chart data="density" >}}
@@ -39,5 +40,5 @@ Looking only at the outliers, manufacturing, administrative and supportive servi
 
 In terms of the regional analysis, an over-activity is observed in London, England, and Wales.
 
-
+### Public Holidays and Weekends
 
