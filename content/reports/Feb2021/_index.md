@@ -40,7 +40,7 @@ Company registrations persistently exceed their 2019 levels. Extensive business 
 
 {{< chart data="total" >}}
 
-### Early-year performance
+### January Performance
 The daily median companies registration is 31% higher in January 2021 relative to January 2020, whereas 48% higher between January 2021 and January 2019.
 
 {{< chart data="january" >}}
