@@ -1,11 +1,11 @@
 ﻿---
-title: 21% lower business creation during lockdown-III 
+title: 23% higher business creation during lockdown-III 
 date: 2021-02-04
 author: 
  - Yannis Galanakis
 ---
 
-19,512 additional companies were registered in January 2021 relative to January 2019. 21% lower business creation during lockdown-III than during lockdown-II.
+19,512 additional companies were registered in January 2021 relative to January 2019. The median daily registrations during lockdown-III is 23% higher than during lockdown-I and 4% lower than during lockdown-II.  
 
 <!--more-->
 
@@ -13,7 +13,7 @@ author:
 
 1. Business creation increased 8.93% from December 2020 to January 2021.
 2. Business creation was 13.46% higher in January 2021 compared to January 2020.
-3. The median daily registrations during lockdown-III is 7.7% lower than during lockdown-I and 21% lower than during lockdown-II.  
+3. The median daily registrations during lockdown-III is 23% higher than during lockdown-I and 4% lower than during lockdown-II.
 4. There is more firm creation in nearly every sector of the economy in January 2021 compared to January 2020 or 2019. The one exception is Accommodation and Food.
 
 

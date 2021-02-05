@@ -1,13 +1,13 @@
 {
   "visdat": {
-    "6db01cec279f": [
+    "15e466907867": [
       "function () ",
       "plotlyVisDat"
     ]
   },
-  "cur_data": "6db01cec279f",
+  "cur_data": "15e466907867",
   "attrs": {
-    "6db01cec279f": {
+    "15e466907867": {
       "y": [
         33,
         1928,
@@ -819,7 +819,7 @@
       ],
       "type": "bar"
     },
-    "6db01cec279f.1": {
+    "15e466907867.1": {
       "y": 2628,
       "x": "2020-01-01",
       "showlegend": true,
@@ -840,8 +840,8 @@
       "name": "Median (total)",
       "inherit": true
     },
-    "6db01cec279f.2": {
-      "y": 2581,
+    "15e466907867.2": {
+      "y": 2323,
       "x": "2020-01-01",
       "showlegend": true,
       "alpha": 0.5,
@@ -856,13 +856,13 @@
       ],
       "type": "scatter",
       "xend": "2021-01-31",
-      "yend": 2581,
+      "yend": 2323,
       "mode": "lines",
       "name": "Median (pre-lockdown I)",
       "inherit": true
     },
-    "6db01cec279f.3": {
-      "y": 2616,
+    "15e466907867.3": {
+      "y": 2290,
       "x": "2020-01-01",
       "showlegend": true,
       "alpha": 0.5,
@@ -877,13 +877,13 @@
       ],
       "type": "scatter",
       "xend": "2021-01-31",
-      "yend": 2616,
+      "yend": 2290,
       "mode": "lines",
       "name": "Median (during lockdown I)",
       "inherit": true
     },
-    "6db01cec279f.4": {
-      "y": 3058,
+    "15e466907867.4": {
+      "y": 2921,
       "x": "2020-01-01",
       "showlegend": true,
       "alpha": 0.5,
@@ -898,13 +898,13 @@
       ],
       "type": "scatter",
       "xend": "2021-01-31",
-      "yend": 3058,
+      "yend": 2921,
       "mode": "lines",
       "name": "Median (post-lockdown I)",
       "inherit": true
     },
-    "6db01cec279f.5": {
-      "y": 3057,
+    "15e466907867.5": {
+      "y": 2978,
       "x": "2020-01-01",
       "showlegend": true,
       "alpha": 0.5,
@@ -919,13 +919,13 @@
       ],
       "type": "scatter",
       "xend": "2021-01-31",
-      "yend": 3057,
+      "yend": 2978,
       "mode": "lines",
       "name": "Median (during lockdown II)",
       "inherit": true
     },
-    "6db01cec279f.6": {
-      "y": 2675,
+    "15e466907867.6": {
+      "y": 2624.5,
       "x": "2020-01-01",
       "showlegend": true,
       "alpha": 0.5,
@@ -940,13 +940,13 @@
       ],
       "type": "scatter",
       "xend": "2021-01-31",
-      "yend": 2675,
+      "yend": 2624.5,
       "mode": "lines",
       "name": "Median (post lockdown II)",
       "inherit": true
     },
-    "6db01cec279f.7": {
-      "y": 2420,
+    "15e466907867.7": {
+      "y": 2865,
       "x": "2020-01-01",
       "showlegend": true,
       "alpha": 0.5,
@@ -961,7 +961,7 @@
       ],
       "type": "scatter",
       "xend": "2021-01-31",
-      "yend": 2420,
+      "yend": 2865,
       "mode": "lines",
       "name": "Median (during lockdown III)",
       "inherit": true
@@ -1852,8 +1852,8 @@
     },
     {
       "y": [
-        2581,
-        2581
+        2323,
+        2323
       ],
       "x": [
         "2020-01-01",
@@ -1884,8 +1884,8 @@
     },
     {
       "y": [
-        2616,
-        2616
+        2290,
+        2290
       ],
       "x": [
         "2020-01-01",
@@ -1916,8 +1916,8 @@
     },
     {
       "y": [
-        3058,
-        3058
+        2921,
+        2921
       ],
       "x": [
         "2020-01-01",
@@ -1948,8 +1948,8 @@
     },
     {
       "y": [
-        3057,
-        3057
+        2978,
+        2978
       ],
       "x": [
         "2020-01-01",
@@ -1980,8 +1980,8 @@
     },
     {
       "y": [
-        2675,
-        2675
+        2624.5,
+        2624.5
       ],
       "x": [
         "2020-01-01",
@@ -2012,8 +2012,8 @@
     },
     {
       "y": [
-        2420,
-        2420
+        2865,
+        2865
       ],
       "x": [
         "2020-01-01",
