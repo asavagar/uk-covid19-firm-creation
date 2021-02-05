@@ -48,4 +48,5 @@ Weekends typically observe near zero firm registrations. An exception to this ru
 ### Postcode Areas
 Some postcodes have extraordinarily high levels of firm registrations. These postcodes are typically accountancy firm addresses that offer "set up a company" services. The median number of registrations at a postcode in the dataset is 1, which is also the lower bound as every postcode on the register has at least one registration.
 
+{{< chart data="postcode" >}}
 
