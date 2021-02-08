@@ -59,3 +59,8 @@ Some postcodes have extraordinarily high levels of firm registrations. These pos
 
 {{< chart data="postcode" >}}
 
+*Table:* Summary statistics of Companies Registrations at a postcode 
+|               | Mean  | SD    | Min | Q1 | Median | Q3 | Max |
+|---------------|-------|-------|-----|----|--------|----|-----|
+| registrations | 13.47 | 36.64 | 1   | 1  | 1      | 7  | 295 |
+<small> **Note**: For registrations recorded between January 2020 and January 2021. </small>
