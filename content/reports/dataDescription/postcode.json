@@ -1,13 +1,13 @@
 {
   "visdat": {
-    "38b03cdd2d92": [
+    "1de0393b26da": [
       "function () ",
       "plotlyVisDat"
     ]
   },
-  "cur_data": "38b03cdd2d92",
+  "cur_data": "1de0393b26da",
   "attrs": {
-    "38b03cdd2d92": {
+    "1de0393b26da": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -28,7 +28,7 @@
       ],
       "type": "scatter"
     },
-    "38b03cdd2d92.1": {
+    "1de0393b26da.1": {
       "x": 1,
       "y": 0,
       "mode": "lines",
@@ -52,7 +52,7 @@
       "yend": 2.36937206534495,
       "inherit": true
     },
-    "38b03cdd2d92.2": {
+    "1de0393b26da.2": {
       "x": 13.47,
       "y": 0,
       "mode": "lines",
@@ -90,7 +90,7 @@
         1
       ],
       "automargin": true,
-      "title": "Number of new daily registrations per postcode",
+      "title": "Number of Company Registrations at a Postcode",
       "showgrid": false
     },
     "yaxis": {
@@ -102,7 +102,9 @@
       "title": "Density",
       "showgrid": false
     },
-    "title": "Registrations per postcode",
+    "title": {
+      "text": "Registrations per Postcode<br><sup>(for registrations recorded Jan 2020 - Jan 2021)</sup>"
+    },
     "hovermode": "closest",
     "showlegend": true
   },

@@ -31,14 +31,23 @@ The chart below shows the density of daily company registrations in the UK for 2
 
 
 ## Outliers
-### EU-UK Trade and Cooperation Agreement (TCA)
-There is an outlier of extremely high firm creation on December 30 (and 31), 2020 when the [EU-UK Trade and Cooperation Agreement (TCA)]( https://www.gov.uk/government/publications/agreements-reached-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-european-union) was signed.
+### Week 53 2020
+Week 53 2020 experiences a 6-fold increase in business registrations relative to week 53 2019. There are two reasons for this.
+
+#### Leap year
+In a normal year there are 365 days which is 52 7-day weeks and a 53rd 1-day week. In a leap year, such as 2020, there are 366 days which is 52 7-day weeks (364 days) and a 53rd 2-day week. Therefore, comparing week 53 in 2020 to other (non-leap) years includes twice the number of days. This contributes to a high number of relative registrations in week 53 2020. 
+
+If we were to adjust for the leap year by halving the number of registrations in week 53 2020 so it represents one day, the comparison with 2019 still yield a 3-fold increase in firm registrations. 
+
+
+#### EU-UK Trade and Cooperation Agreement (TCA)
+Once adjusting for the leap year, the remaining 3-fold spike in firm registrations in week 53 2020 compared to week 53 2019 is likely due to a spike in registrations caused by the [EU-UK Trade and Cooperation Agreement (TCA)]( https://www.gov.uk/government/publications/agreements-reached-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-european-union), signed on December 30th 2020.
 
 Treating the excess firm registration of the last week as an outlier, we repeat the sectoral analysis, found [here]({{< relref "../jan2021/#i-classfas-fa-industryi-span-classml-1sectoral-analysisspan" >}}), *without* considering the activity of the last two days of December. The only noticeable difference regards the administrative and support services whose firm creation on average come behind the arts, entertainment, and recreation sector. 
 
 Looking only at the outliers, manufacturing, administrative and supportive services related businesses seem to register more than the same days in 2019. This static improve might be related to Brexit and the EU-UK TCA.
 
-In terms of the regional analysis, an over-activity is observed in London, England, and Wales.
+In terms of the regional analysis, an excess registration activity is observed in London, England, and Wales.
 
 ### Public Holidays and Weekends
 Public holidays do not occur in the same week every year. This can affect comparisons across years when we total daily registrations because the same week may have a different number of working days.
