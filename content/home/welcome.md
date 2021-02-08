@@ -20,7 +20,8 @@ advanced:
 The project explores the impact of COVID-19 on business creation in the UK.
 
 
-<small> <i class="fas fa-hand-holding-usd"></i> Funded by ESRC UKRI
-<i class="fas fa-university"></i> Hosted at the University of Kent, MaGHiC </small>
+<p><small> <i class="fas fa-university"></i> Hosted at the University of Kent, MaGHiC <br/>
+<i class="fas fa-hand-holding-usd"></i> Funded by ESRC
+</small></p>
 
 {{< cta cta_text="Latest report" cta_link="/reports/feb2021/"  cta_new_tab="true" >}}
