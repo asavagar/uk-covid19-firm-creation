@@ -1,10 +1,11 @@
-<ul>
-	ccc
-	{{ range  $.Page.Resources.Match "download/*.*" }}
-	<li>
-		<a target="_blank" href="{{ .Permalink }}">
-			<i class="far fa-file-{{ .Params.icon }}"></i> {{ .Title }}
-		</a>
-	</li>
-	{{ end }}
+<ul class="downloads">
+  {{ range .Page.Resources }}
+    {{ if isset .Params "download" }}
+    <li>
+      <a target="_blank" href="{{ .Permalink }}">
+        <i class="far fa-file-{{ .Params.icon }}"></i> {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  {{ end }}
 </ul>
