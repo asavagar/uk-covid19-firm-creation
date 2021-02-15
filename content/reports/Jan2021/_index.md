@@ -44,7 +44,7 @@ the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median busi
 | Median  | 2848.5   | 2581       | 2616     | 3058   | 3057        | 2675   | 2420              | 2563                 |
 | Mean    | 2662.076 | 2397.662   | 2582.545 | 2849.6 | 2942.905    | 2572.4 | 2529              | 2465.353             |
 
-Download table as: <a href="AvMedJan2021.csv" download="AvMedJan2021.csv"><i class="fas fa-file-csv"></i></a> <style="margin-left: 2em"> <a href="AvMedJan2021.xlsx" download="AvMedJan2021.xlsx"><i class="fas fa-file-excel"></i></a>
+Download table as: <a href="AvMedJan2021.csv" download="AvMedJan2021.csv"><i class="fas fa-file-csv"></i></a> <span style="margin-left: 2em"></span> <a href="AvMedJan2021.xlsx" download="AvMedJan2021.xlsx"><i class="fas fa-file-excel"></i></a>
 
 
 
