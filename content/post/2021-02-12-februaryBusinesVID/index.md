@@ -11,4 +11,4 @@ author:
 
 {{< video src="teaser_Feb2021_small.mp4" controls="yes" >}}
 
-Read all the report [here]({{< ref "/reports/feb2021/_index.md" >}}).
+Read the report [here]({{< ref "/reports/feb2021/_index.md" >}}).
