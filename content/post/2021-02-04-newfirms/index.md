@@ -1,4 +1,4 @@
-﻿---
+---
 title: 23% higher business creation during lockdown-III 
 date: 2021-02-04
 author: 
@@ -19,4 +19,4 @@ author:
 
 We analyse Companies House “basic company data” up to the January 31st, 2021. We find that business creation increases by 8.93% since December 2020. Business creation was 13.46% higher in January 2021 compared to January 2020. There is more firm creation in nearly every sector of the economy in January 2021 compared to January 2020 or 2019. The one exception is Accommodation and Food.
 
-Read all the report [here]({{< ref "/reports/feb2021/_index.md" >}}).
+Read the report [here]({{< ref "/reports/feb2021/_index.md" >}}).
