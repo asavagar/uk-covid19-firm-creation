@@ -240,6 +240,7 @@ RegRatio %>% layout(title = list(text = paste0('Company registrations Ratio',
                                 xaxis = list(title= "Weeks", showgrid = F),
                                 yaxis = list(title = "Ratio", showgrid = F))
 ```
+{{< chart data="RegRatio" >}}
 
 
 In a panel which includes more months than January, it would make sense to compare the firms creation in a particular month relative to the same month in the base year (2019). To do so, we compare the median of January 2021 and January 2019.
@@ -261,6 +262,7 @@ JanChange %>%
          xaxis = list(title = "", showgrid=F),
          yaxis = list(title = "", showgrid=F))
 ```
+{{< chart data="JanChange" >}}
 
 
 ### <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>

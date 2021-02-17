@@ -1,0 +1,196 @@
+{
+  "visdat": {
+    "25882af81000": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "25882af81000",
+  "attrs": {
+    "25882af81000": {
+      "y": [
+        1.91549295774648,
+        1.69767441860465,
+        1.58035714285714,
+        1.49122807017544,
+        0.4
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "mode": "lines",
+      "name": "2021/2019",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    },
+    "25882af81000.1": {
+      "y": 1,
+      "x": 1,
+      "mode": "lines",
+      "name": "2021/2019",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter",
+      "xend": 5,
+      "yend": 1,
+      "line": {
+        "dash": "dash"
+      },
+      "showlegend": false,
+      "inherit": true
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Company registrations Ratio<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Ratio",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "y": [
+        1.91549295774648,
+        1.69767441860465,
+        1.58035714285714,
+        1.49122807017544,
+        0.4
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "mode": "lines",
+      "name": "2021/2019",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "line": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        1,
+        1
+      ],
+      "x": [
+        1,
+        5
+      ],
+      "mode": "lines",
+      "name": "2021/2019",
+      "type": "scatter",
+      "line": {
+        "color": "rgba(255,127,14,0.5)",
+        "dash": "dash"
+      },
+      "showlegend": false,
+      "marker": {
+        "color": "rgba(255,127,14,0.5)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
