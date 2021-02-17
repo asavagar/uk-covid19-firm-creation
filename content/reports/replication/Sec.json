@@ -1,0 +1,1115 @@
+{
+  "visdat": {
+    "258871ce1d2f": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "258871ce1d2f",
+  "attrs": {
+    "258871ce1d2f": {
+      "x": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        5,
+        2,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        3200,
+        -88.8888888888889,
+        -94.2857142857143,
+        -93.4640522875817,
+        -24.6913580246914,
+        275,
+        1842.85714285714,
+        200,
+        -92.0529801324503,
+        266.153846153846,
+        2.90697674418605,
+        5.49450549450549,
+        184.722222222222,
+        -96.8045112781955,
+        157.676348547718,
+        168.037974683544,
+        118.055555555556,
+        623.076923076923,
+        900,
+        166.666666666667,
+        620,
+        66.6666666666667,
+        127.777777777778,
+        -92.3076923076923,
+        -56.4285714285714,
+        94,
+        1200,
+        1185.71428571429,
+        46.6666666666667,
+        29.4117647058824,
+        3085.71428571429,
+        165.573770491803,
+        150,
+        50,
+        55.5555555555556,
+        20,
+        -75,
+        -9.85915492957746,
+        62.6666666666667,
+        83.1168831168831,
+        28.735632183908,
+        -13.5135135135135,
+        23.75,
+        -19.6969696969697,
+        -5.08474576271187,
+        16.8831168831169,
+        -45,
+        0,
+        -86.1538461538462,
+        50,
+        -50,
+        271.428571428571,
+        209.52380952381,
+        172.222222222222,
+        65.3846153846154,
+        425,
+        50,
+        -70.8333333333333,
+        -11.1111111111111,
+        -70,
+        -4.65116279069767,
+        -68,
+        -68,
+        3400,
+        4400,
+        3250,
+        11.3636363636364,
+        -97.1830985915493,
+        -91.304347826087,
+        -95.0617283950617,
+        -93.8461538461538,
+        -75,
+        -77.7777777777778,
+        -91.4285714285714,
+        -98.6928104575163,
+        -23.4567901234568,
+        187.5,
+        800,
+        750,
+        -96.0264900662252
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "color": [
+        "Agriculture, forestry and fishing",
+        "Mining and quarrying",
+        "Mining and quarrying",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Professional, scientific and technical activities",
+        "Professional, scientific and technical activities",
+        "Professional, scientific and technical activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Education",
+        "Education",
+        "Education",
+        "Human health and social work activities",
+        "Human health and social work activities",
+        "Human health and social work activities",
+        "Human health and social work activities",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Other service activities",
+        "Other service activities",
+        "Other service activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Activities of extraterritorial organisations and bodies",
+        "Activities of extraterritorial organisations and bodies",
+        "Activities of extraterritorial organisations and bodies",
+        "Activities of extraterritorial organisations and bodies",
+        "Information and communication",
+        "Information and communication",
+        "Information and communication",
+        "Information and communication",
+        "Information and communication"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "autosize": true,
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "showgrid": false,
+      "title": []
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change to 2019",
+      "showgrid": false
+    },
+    "title": {
+      "text": "Change in company registrations<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        -56.4285714285714,
+        94,
+        1200,
+        1185.71428571429
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Accommodation and food service activities",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        -75,
+        -77.7777777777778,
+        -91.4285714285714,
+        -98.6928104575163
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Activities of extraterritorial organisations and bodies",
+      "marker": {
+        "color": "rgba(175,178,140,0.5)",
+        "line": {
+          "color": "rgba(175,178,140,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(175,178,140,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(175,178,140,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(175,178,140,0.5)"
+      },
+      "line": {
+        "color": "rgba(175,178,140,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        -97.1830985915493,
+        -91.304347826087,
+        -95.0617283950617,
+        -93.8461538461538
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+      "marker": {
+        "color": "rgba(223,158,115,0.5)",
+        "line": {
+          "color": "rgba(223,158,115,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(223,158,115,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(223,158,115,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(223,158,115,0.5)"
+      },
+      "line": {
+        "color": "rgba(223,158,115,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        23.75,
+        -19.6969696969697,
+        -5.08474576271187,
+        16.8831168831169,
+        -45
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Administrative and support service activities",
+      "marker": {
+        "color": "rgba(243,143,109,0.5)",
+        "line": {
+          "color": "rgba(243,143,109,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(243,143,109,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(243,143,109,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(243,143,109,0.5)"
+      },
+      "line": {
+        "color": "rgba(243,143,109,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        4
+      ],
+      "y": [
+        3200
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Agriculture, forestry and fishing",
+      "marker": {
+        "color": "rgba(210,151,148,0.5)",
+        "line": {
+          "color": "rgba(210,151,148,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(210,151,148,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(210,151,148,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(210,151,148,0.5)"
+      },
+      "line": {
+        "color": "rgba(210,151,148,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        -11.1111111111111,
+        -70,
+        -4.65116279069767,
+        -68,
+        -68
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Arts, entertainment and recreation",
+      "marker": {
+        "color": "rgba(166,157,187,0.5)",
+        "line": {
+          "color": "rgba(166,157,187,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(166,157,187,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(166,157,187,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(166,157,187,0.5)"
+      },
+      "line": {
+        "color": "rgba(166,157,187,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        266.153846153846,
+        2.90697674418605,
+        5.49450549450549,
+        184.722222222222,
+        -96.8045112781955
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Construction",
+      "marker": {
+        "color": "rgba(163,156,201,0.5)",
+        "line": {
+          "color": "rgba(163,156,201,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(163,156,201,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(163,156,201,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(163,156,201,0.5)"
+      },
+      "line": {
+        "color": "rgba(163,156,201,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        50,
+        -50,
+        271.428571428571,
+        209.52380952381
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Education",
+      "marker": {
+        "color": "rgba(197,149,198,0.5)",
+        "line": {
+          "color": "rgba(197,149,198,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(197,149,198,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(197,149,198,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(197,149,198,0.5)"
+      },
+      "line": {
+        "color": "rgba(197,149,198,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        46.6666666666667,
+        29.4117647058824,
+        3085.71428571429,
+        165.573770491803
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Financial and insurance activities",
+      "marker": {
+        "color": "rgba(227,140,195,0.5)",
+        "line": {
+          "color": "rgba(227,140,195,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(227,140,195,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(227,140,195,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(227,140,195,0.5)"
+      },
+      "line": {
+        "color": "rgba(227,140,195,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        172.222222222222,
+        65.3846153846154,
+        425,
+        50,
+        -70.8333333333333
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Human health and social work activities",
+      "marker": {
+        "color": "rgba(216,166,163,0.5)",
+        "line": {
+          "color": "rgba(216,166,163,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(216,166,163,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(216,166,163,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(216,166,163,0.5)"
+      },
+      "line": {
+        "color": "rgba(216,166,163,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        -23.4567901234568,
+        187.5,
+        800,
+        750,
+        -96.0264900662252
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Information and communication",
+      "marker": {
+        "color": "rgba(193,194,124,0.5)",
+        "line": {
+          "color": "rgba(193,194,124,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(193,194,124,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(193,194,124,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(193,194,124,0.5)"
+      },
+      "line": {
+        "color": "rgba(193,194,124,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        -93.4640522875817,
+        -24.6913580246914,
+        275,
+        1842.85714285714,
+        200
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Manufacturing",
+      "marker": {
+        "color": "rgba(171,216,82,0.5)",
+        "line": {
+          "color": "rgba(171,216,82,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(171,216,82,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(171,216,82,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(171,216,82,0.5)"
+      },
+      "line": {
+        "color": "rgba(171,216,82,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        2,
+        3
+      ],
+      "y": [
+        -88.8888888888889,
+        -94.2857142857143
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Mining and quarrying",
+      "marker": {
+        "color": "rgba(206,217,70,0.5)",
+        "line": {
+          "color": "rgba(206,217,70,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(206,217,70,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(206,217,70,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(206,217,70,0.5)"
+      },
+      "line": {
+        "color": "rgba(206,217,70,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        3400,
+        4400,
+        3250,
+        11.3636363636364
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Other service activities",
+      "marker": {
+        "color": "rgba(238,217,57,0.5)",
+        "line": {
+          "color": "rgba(238,217,57,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(238,217,57,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(238,217,57,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(238,217,57,0.5)"
+      },
+      "line": {
+        "color": "rgba(238,217,57,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        -9.85915492957746,
+        62.6666666666667,
+        83.1168831168831,
+        28.735632183908,
+        -13.5135135135135
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Professional, scientific and technical activities",
+      "marker": {
+        "color": "rgba(252,214,69,0.5)",
+        "line": {
+          "color": "rgba(252,214,69,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(252,214,69,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(252,214,69,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(252,214,69,0.5)"
+      },
+      "line": {
+        "color": "rgba(252,214,69,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        2,
+        4
+      ],
+      "y": [
+        0,
+        -86.1538461538462
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Public administration and defence; compulsory social security",
+      "marker": {
+        "color": "rgba(243,206,108,0.5)",
+        "line": {
+          "color": "rgba(243,206,108,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(243,206,108,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(243,206,108,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(243,206,108,0.5)"
+      },
+      "line": {
+        "color": "rgba(243,206,108,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        150,
+        50,
+        55.5555555555556,
+        20,
+        -75
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Real estate activities",
+      "marker": {
+        "color": "rgba(232,198,139,0.5)",
+        "line": {
+          "color": "rgba(232,198,139,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(232,198,139,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(232,198,139,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(232,198,139,0.5)"
+      },
+      "line": {
+        "color": "rgba(232,198,139,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        166.666666666667,
+        620,
+        66.6666666666667,
+        127.777777777778,
+        -92.3076923076923
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Transportation and storage",
+      "marker": {
+        "color": "rgba(217,191,156,0.5)",
+        "line": {
+          "color": "rgba(217,191,156,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(217,191,156,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(217,191,156,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(217,191,156,0.5)"
+      },
+      "line": {
+        "color": "rgba(217,191,156,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1
+      ],
+      "y": [
+        -92.0529801324503
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Water supply; sewerage, waste management and remediation activities",
+      "marker": {
+        "color": "rgba(199,185,168,0.5)",
+        "line": {
+          "color": "rgba(199,185,168,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(199,185,168,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(199,185,168,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(199,185,168,0.5)"
+      },
+      "line": {
+        "color": "rgba(199,185,168,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        157.676348547718,
+        168.037974683544,
+        118.055555555556,
+        623.076923076923,
+        900
+      ],
+      "mode": "line",
+      "showlegend": false,
+      "type": "scatter",
+      "name": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+      "marker": {
+        "color": "rgba(179,179,179,0.5)",
+        "line": {
+          "color": "rgba(179,179,179,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "line": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}

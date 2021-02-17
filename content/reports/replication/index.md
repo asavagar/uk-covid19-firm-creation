@@ -14,6 +14,8 @@ menu:
 weight: 0.4
 ---
 
+[<i class="fab fa-github"></i>](https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo)
+
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/subscription" data-icon="octicon-eye" aria-label="Watch ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Watch</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo" data-icon="octicon-star" aria-label="Star ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Star</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/fork" data-icon="octicon-repo-forked" aria-label="Fork ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Fork</a>
@@ -388,6 +390,7 @@ aveMap <-
         plot.subtitle = element_text(hjust = 0.5))
 ggplotly(aveMap)
 ```
+{{< chart data="aveMap" >}}
 
 
 #### Country
@@ -454,6 +457,7 @@ Country %>%
          xaxis = list(title= "Weeks", showgrid = F),
          yaxis = list(title = "% change", showgrid = F))
 ```
+{{< chart data="Country" >}}
 
 
 #### London
@@ -487,6 +491,7 @@ LDN %>%
          xaxis = list(title= "Weeks", showgrid = F),
          yaxis = list(title = "% change", showgrid = F))
 ```
+{{< chart data="LDN" >}}
 
 
 ### <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
@@ -608,6 +613,7 @@ Sec %>%
 ```
 
 
+{{< chart data="Sec" >}}
 
 We see the daily registrations within a particular month and compare it between 2019 and 2021. We calculate the monthly registrations by sector as earlier.
 
@@ -639,4 +645,5 @@ DSJan %>%
          yaxis = list(title = "# of registations in January", showgrid = F),
          title = list(text = paste0('Daily company registrations in January by sector')))
 ```
+{{< chart data="DSJan" >}}
 

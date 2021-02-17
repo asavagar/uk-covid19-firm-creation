@@ -1,0 +1,327 @@
+{
+  "visdat": {
+    "25881383c44": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "25881383c44",
+  "attrs": {
+    "25881383c44": {
+      "x": [
+        "Agriculture, forestry and fishing",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Activities of extraterritorial organisations and bodies",
+        "Information and communication"
+      ],
+      "y": [
+        4,
+        311,
+        13,
+        642,
+        2430,
+        142,
+        251,
+        203,
+        266,
+        347,
+        401,
+        9,
+        117,
+        79,
+        60,
+        178,
+        4,
+        284
+      ],
+      "name": "2019",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "bar"
+    },
+    "25881383c44.1": {
+      "x": [
+        "Agriculture, forestry and fishing",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Activities of extraterritorial organisations and bodies",
+        "Information and communication"
+      ],
+      "y": [
+        132,
+        315,
+        12,
+        829,
+        5996,
+        292,
+        365,
+        561,
+        364,
+        471,
+        387,
+        18,
+        169,
+        183,
+        109,
+        196,
+        10,
+        251
+      ],
+      "name": "2021",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "bar",
+      "inherit": true
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "autosize": true,
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "tickfont": {
+        "size": 7
+      },
+      "tickwidth": 3,
+      "tickangle": 90,
+      "title": [],
+      "type": "category",
+      "categoryorder": "array",
+      "categoryarray": [
+        "Accommodation and food service activities",
+        "Activities of extraterritorial organisations and bodies",
+        "Administrative and support service activities",
+        "Agriculture, forestry and fishing",
+        "Arts, entertainment and recreation",
+        "Construction",
+        "Education",
+        "Financial and insurance activities",
+        "Human health and social work activities",
+        "Information and communication",
+        "Manufacturing",
+        "Other service activities",
+        "Professional, scientific and technical activities",
+        "Public administration and defence; compulsory social security",
+        "Real estate activities",
+        "Transportation and storage",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+      ]
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "# of registations in January",
+      "showgrid": false
+    },
+    "title": {
+      "text": "Daily company registrations in January by sector"
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        "Agriculture, forestry and fishing",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Activities of extraterritorial organisations and bodies",
+        "Information and communication"
+      ],
+      "y": [
+        4,
+        311,
+        13,
+        642,
+        2430,
+        142,
+        251,
+        203,
+        266,
+        347,
+        401,
+        9,
+        117,
+        79,
+        60,
+        178,
+        4,
+        284
+      ],
+      "name": "2019",
+      "type": "bar",
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        "Agriculture, forestry and fishing",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Activities of extraterritorial organisations and bodies",
+        "Information and communication"
+      ],
+      "y": [
+        132,
+        315,
+        12,
+        829,
+        5996,
+        292,
+        365,
+        561,
+        364,
+        471,
+        387,
+        18,
+        169,
+        183,
+        109,
+        196,
+        10,
+        251
+      ],
+      "name": "2021",
+      "type": "bar",
+      "marker": {
+        "color": "rgba(255,127,14,0.5)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
