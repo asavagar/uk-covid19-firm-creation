@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 0.4
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 ---
 
 [<i class="fab fa-github"></i>](https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo)
