@@ -13,11 +13,11 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 0.4
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 ---
 
 [<i class="fab fa-github"></i>](https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo)
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/subscription" data-icon="octicon-eye" aria-label="Watch ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Watch</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo" data-icon="octicon-star" aria-label="Star ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Star</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/fork" data-icon="octicon-repo-forked" aria-label="Fork ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Fork</a>
