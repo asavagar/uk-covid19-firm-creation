@@ -68,7 +68,7 @@ repD2021 <- repD2021[c(2,10:15,27:30)]
 write_csv(repD2021,'output/replicData2021.csv')
 ```
 
-Download the resulting sample: <a href="replicData.csv" download="replicData.csv"><i class="fas fa-file-csv"></i></a> 
+Download the resulting sample: <a href="replicData2021.csv" download="replicData2021.csv"><i class="fas fa-file-csv"></i></a> 
 
 
 ## Analysis
