@@ -14,9 +14,8 @@ image:
 
 ---
 
-{{% callout note %}}
-Monthly reports and data description are available in the sidebar.
-{{% /callout %}}
+
+<i class="fas fa-info-circle"></i> Monthly reports and data description are available in the sidebar.
 
 
 
