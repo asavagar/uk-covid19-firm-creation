@@ -6,6 +6,7 @@ UK Firm Dynamics Research Project is funded by ESRC
 Please replace the demo images with your own.
 
 - [LondonCity](https://images.unsplash.com/photo-1587287006154-2a30270fdee3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
+- [Open for business-welcome](https://unsplash.com/photos/Np7V88Hd8Es)
 - [Analytics](https://www.pexels.com/photo/person-holding-blue-ballpoint-pen-on-white-notebook-669610/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 - [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
 
