@@ -26,7 +26,7 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "Team"
-  description = "Members of macroeconomic research centre ([MaGHiC]( https://research.kent.ac.uk/maghic/))"
+  description = "Members of Macroeconomics, Growth and History Centre ([MaGHiC]( https://research.kent.ac.uk/maghic/))"
 
   
 [[feature]]
