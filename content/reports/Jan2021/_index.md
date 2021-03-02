@@ -69,11 +69,11 @@ The following graph aggregates the business creation by country. We separate Lon
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 ### SIC Sections
-The following graph illustrates the cumulative company registrations in 2020 by industrial sector relative to 2019 values. For the analysis, we use the 2-digit SIC level and convert it to sectors, following the [ONS classification](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007).
-
-In December 2020, all sectors observe higher firm creation than December 2019. Mining and quarrying, arts, entertainment and recreation sectors present the smallest change relative to their 2019 levels. Manufacturing, wholesale, and retail trade sectors present the greatest increase in firm creation. Accommodation and food services observe a significant drop after the introduction of Tier-4 scheme.
+The following graph illustrates the company registrations in 2020 by industrial sector relative to 2019 values. For the analysis, we use the 2-digit SIC level and convert it to sectors, following the [ONS classification](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007).
 
 {{< chart data="sector" >}}
+
+In December 2020, all sectors observe higher firm creation than December 2019. Mining and quarrying, arts, entertainment and recreation sectors present the smallest change relative to their 2019 levels. Manufacturing, wholesale, and retail trade sectors present the greatest increase in firm creation. Accommodation and food services observe a significant drop after the introduction of Tier-4 scheme.
 
 {{% callout note %}}
 Read more about the [EU-UK Trade and Cooperation Agreement (TCA)]({{< relref "../datadescription/#eu-uk-trade-and-cooperation-agreement-tca" >}}).
