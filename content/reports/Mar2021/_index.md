@@ -48,12 +48,13 @@ Download statistics as: <a href="data/02statsLockdown.csv" download="02statistic
 Company registrations persistently exceed their 2019 and 2020 levels. The extensive business activity observed during the first 2 weeks of January 2021 slows down in February. This might be a signal of adjustment after Brexit. The ratio between 2021/2020 is lower than 2021/2020. This is because of the timing of the first cases of COVID-19 traced in the UK in February 2020 affecting lower business creation.
 
 {{< chart data="total" >}}
+<small>Download data as: <a href="data/04ratio.csv" download="03ratio.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### February 
 Average company registrations in February 2021 are 31% higher than February 2020 and 67% higher than February 2019.
 
 {{< chart data="february" >}}
-
+<small>Download data as: <a href="data/03statsFeb.csv" download="04february.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 ### Postcode Area
@@ -65,18 +66,21 @@ The map shows the percentage change in new registrations in February 2021 compar
 The following graph aggregates business creation by country. We separate London from England. In February 2021, firm creation remains higher in all regions than it was in 2019. On average, Scotland experiences the fewest new daily registrations. 
 
 {{< chart data="country" >}}
+<small>Download data as: <a href="data/05country.csv" download="05country.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### London
 London persists the dominance in firm creation. The majority of the February 2021 business creation comes from Central and North London.
 
 {{< chart data="london" >}}
+<small>Download data as: <a href="data/06London.csv" download="06london.csv"><i class="fas fa-file-csv"></i></a></small>
 
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 ### SIC Sections
-The graph illustrates company registrations in February 2021 relative to 2019 values by industrial sector. We use 4-digit SIC levels (ONS "Classes") and group into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We present a selection of notable sectors. 
+The graph illustrates company registrations in February 2021 relative to 2019 values by industrial sector. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We present a selection of notable sectors. 
 
 {{< chart data="sectors" >}}
+<small>Download data as: <a href="data/07sections.csv" download="07sections.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - February 2021 has higher firm creation in most sectors than February 2019.
 - 'Wholesale, and Retail Trade', 'Manufacturing' and 'Real Estate' sectors show the greatest increase in firm creation in February 2021.
@@ -88,6 +92,7 @@ The graph illustrates company registrations in February 2021 relative to 2019 va
 The following graph plots the ratio of registrations in 2021 over the registrations in the same week of reference in 2019 by holding mortgage charges. During 2021, the number of business registrations that also included a mortgage charge was significantly lower than the same reference period in 2019. This follows the pattern of the two previous lockdown periods, when most new firms registered did not hold any mortgage charges. 
 
 {{< chart data="mortgage" >}}
+<small>Download data as: <a href="data/08mortgage.csv" download="08mortgage.csv"><i class="fas fa-file-csv"></i></a></small>
 
 Most of the businesses which hold mortgage charges belong to 
 'Real estate activities' and 'Financial and Insurance activities'. Some new registrations regard the development of building projects in Construction sector. Available results by 4-digit SIC classification upon request.
