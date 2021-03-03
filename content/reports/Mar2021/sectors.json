@@ -1,0 +1,732 @@
+{
+  "visdat": {
+    "58ac58b26bb4": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "58ac58b26bb4",
+  "attrs": {
+    "58ac58b26bb4": {
+      "y": [
+        140.694789081886,
+        98.3673469387755,
+        70,
+        86.7132867132867,
+        96.3809523809524,
+        100.36231884058,
+        59.5113438045375,
+        84.3373493975904,
+        117.981651376147,
+        65.0948821161587,
+        58.1883316274309,
+        41.1764705882353,
+        61.7222222222222,
+        47.2760849492151,
+        47.8627968337731,
+        54.6766169154229,
+        247.166361974406,
+        157.80487804878,
+        167.211131276467,
+        135.971223021583,
+        162.981366459627,
+        156.578234975636,
+        116.98735568994,
+        139.323349972268,
+        110.140845070423,
+        70.3636363636364,
+        70.1219512195122,
+        1.96759259259258,
+        104.703476482618,
+        41.06463878327,
+        21.4402618657938,
+        26.9720101781171,
+        87.4469889737065,
+        36.1151079136691,
+        19.6192052980132,
+        14.2310960067969,
+        40.7048008171604,
+        15.2713178294574,
+        18.680832226649,
+        46.7000835421888,
+        147.076612903226,
+        123.706896551724,
+        105.561797752809,
+        78.3728115345005,
+        69.0864197530864,
+        77.2477838750528,
+        84.6525096525097,
+        111.293345829428,
+        117.641228939544,
+        78.82797731569,
+        77.7596519847743,
+        69.0625,
+        62.3799359658485,
+        48.5581000848176,
+        64.3465197796695,
+        70.4523107177974,
+        135.524256651017,
+        33.8028169014084,
+        48.9051094890511,
+        50.1785714285714,
+        38.8790035587189,
+        38.1708238851096,
+        36.7826086956522,
+        72.9779411764706,
+        121.142857142857,
+        42.7244582043344,
+        28.6501377410468,
+        23.8095238095238,
+        18.452380952381,
+        32.3943661971831,
+        37.9603399433428,
+        38.4393063583815
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "color": [
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Manufacturing",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Accommodation and food service activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Real estate activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Administrative and support service activities",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation",
+        "Arts, entertainment and recreation"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Change of company registrations by sector<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change",
+      "showgrid": false
+    },
+    "legend": {
+      "orientation": "h",
+      "font": {
+        "size": 7
+      },
+      "xanchor": "center",
+      "x": 0.5,
+      "yanchor": -0.7
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "y": [
+        87.4469889737065,
+        36.1151079136691,
+        19.6192052980132,
+        14.2310960067969,
+        40.7048008171604,
+        15.2713178294574,
+        18.680832226649,
+        46.7000835421888
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Accommodation and food service activities",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        135.524256651017,
+        33.8028169014084,
+        48.9051094890511,
+        50.1785714285714,
+        38.8790035587189,
+        38.1708238851096,
+        36.7826086956522,
+        72.9779411764706
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Administrative and support service activities",
+      "marker": {
+        "color": "rgba(239,150,106,0.5)",
+        "line": {
+          "color": "rgba(239,150,106,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(239,150,106,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(239,150,106,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(239,150,106,0.5)"
+      },
+      "line": {
+        "color": "rgba(239,150,106,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        121.142857142857,
+        42.7244582043344,
+        28.6501377410468,
+        23.8095238095238,
+        18.452380952381,
+        32.3943661971831,
+        37.9603399433428,
+        38.4393063583815
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Arts, entertainment and recreation",
+      "marker": {
+        "color": "rgba(178,156,177,0.5)",
+        "line": {
+          "color": "rgba(178,156,177,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(178,156,177,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(178,156,177,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(178,156,177,0.5)"
+      },
+      "line": {
+        "color": "rgba(178,156,177,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        117.981651376147,
+        65.0948821161587,
+        58.1883316274309,
+        41.1764705882353,
+        61.7222222222222,
+        47.2760849492151,
+        47.8627968337731,
+        54.6766169154229
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Construction",
+      "marker": {
+        "color": "rgba(201,148,198,0.5)",
+        "line": {
+          "color": "rgba(201,148,198,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(201,148,198,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(201,148,198,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(201,148,198,0.5)"
+      },
+      "line": {
+        "color": "rgba(201,148,198,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        147.076612903226,
+        123.706896551724,
+        105.561797752809,
+        78.3728115345005,
+        69.0864197530864,
+        77.2477838750528,
+        84.6525096525097,
+        111.293345829428
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Financial and insurance activities",
+      "marker": {
+        "color": "rgba(205,180,144,0.5)",
+        "line": {
+          "color": "rgba(205,180,144,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(205,180,144,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(205,180,144,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(205,180,144,0.5)"
+      },
+      "line": {
+        "color": "rgba(205,180,144,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        140.694789081886,
+        98.3673469387755,
+        70,
+        86.7132867132867,
+        96.3809523809524,
+        100.36231884058,
+        59.5113438045375,
+        84.3373493975904
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Manufacturing",
+      "marker": {
+        "color": "rgba(202,217,72,0.5)",
+        "line": {
+          "color": "rgba(202,217,72,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(202,217,72,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(202,217,72,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(202,217,72,0.5)"
+      },
+      "line": {
+        "color": "rgba(202,217,72,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        117.641228939544,
+        78.82797731569,
+        77.7596519847743,
+        69.0625,
+        62.3799359658485,
+        48.5581000848176,
+        64.3465197796695,
+        70.4523107177974
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Real estate activities",
+      "marker": {
+        "color": "rgba(250,212,80,0.5)",
+        "line": {
+          "color": "rgba(250,212,80,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(250,212,80,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(250,212,80,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(250,212,80,0.5)"
+      },
+      "line": {
+        "color": "rgba(250,212,80,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        110.140845070423,
+        70.3636363636364,
+        70.1219512195122,
+        1.96759259259258,
+        104.703476482618,
+        41.06463878327,
+        21.4402618657938,
+        26.9720101781171
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Transportation and storage",
+      "marker": {
+        "color": "rgba(223,194,152,0.5)",
+        "line": {
+          "color": "rgba(223,194,152,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(223,194,152,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(223,194,152,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(223,194,152,0.5)"
+      },
+      "line": {
+        "color": "rgba(223,194,152,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        247.166361974406,
+        157.80487804878,
+        167.211131276467,
+        135.971223021583,
+        162.981366459627,
+        156.578234975636,
+        116.98735568994,
+        139.323349972268
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+      "marker": {
+        "color": "rgba(179,179,179,0.5)",
+        "line": {
+          "color": "rgba(179,179,179,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "line": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}

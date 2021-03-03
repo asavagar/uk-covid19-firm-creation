@@ -1,0 +1,293 @@
+{
+  "visdat": {
+    "35947313195": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "35947313195",
+  "attrs": {
+    "35947313195": {
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "y": [
+        2.75643143733774,
+        2.08697055264219,
+        2.25857033051499,
+        1.82108709888671,
+        1.95334055615746,
+        2.05893019038985,
+        1.98850250405587,
+        2.29062921188905
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "without mortgage",
+      "type": "scatter",
+      "mode": "lines",
+      "showlegend": true,
+      "inherit": true
+    },
+    "35947313195.1": {
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "y": [
+        0.0631578947368421,
+        0.0831024930747922,
+        0.0348993288590604,
+        0.0292504570383912,
+        0.0341614906832298,
+        0.0147347740667976,
+        0.00536912751677852,
+        null
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "with mortgage",
+      "type": "scatter",
+      "mode": "lines",
+      "showlegend": true,
+      "inherit": true
+    },
+    "35947313195.2": {
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "x": 1,
+      "y": 1,
+      "xend": 8,
+      "yend": 1,
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "dash": "dash"
+      },
+      "showlegend": false,
+      "inherit": true
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Company registrations<br><sup>(Ratio relative to the same week of reference in 2019)</sup>"
+    },
+    "legend": {
+      "title": {
+        "text": "<b> Ratio </b>"
+      }
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Ratio 2021/2019",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "y": [
+        2.75643143733774,
+        2.08697055264219,
+        2.25857033051499,
+        1.82108709888671,
+        1.95334055615746,
+        2.05893019038985,
+        1.98850250405587,
+        2.29062921188905
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "without mortgage",
+      "type": "scatter",
+      "mode": "lines",
+      "showlegend": true,
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "line": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        0.0631578947368421,
+        0.0831024930747922,
+        0.0348993288590604,
+        0.0292504570383912,
+        0.0341614906832298,
+        0.0147347740667976,
+        0.00536912751677852
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "with mortgage",
+      "type": "scatter",
+      "mode": "lines",
+      "showlegend": true,
+      "marker": {
+        "color": "rgba(255,127,14,0.5)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "line": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        8
+      ],
+      "y": [
+        1,
+        1
+      ],
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "color": "rgba(44,160,44,0.5)",
+        "dash": "dash"
+      },
+      "showlegend": false,
+      "marker": {
+        "color": "rgba(44,160,44,0.5)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}

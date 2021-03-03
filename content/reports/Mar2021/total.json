@@ -1,0 +1,284 @@
+{
+  "visdat": {
+    "25d459a62e40": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "25d459a62e40",
+  "attrs": {
+    "25d459a62e40": {
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "y": [
+        2.08328211432084,
+        1.61677379859198,
+        1.6044611095087,
+        1.46428898033836,
+        1.61715647339158,
+        1.50455311973019,
+        1.46082817705854,
+        1.61240882651648
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "2021/2019",
+      "mode": "lines",
+      "inherit": true
+    },
+    "25d459a62e40.1": {
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "y": [
+        1.45503326894183,
+        1.16841173868161,
+        1.14994487320838,
+        1.1625644376679,
+        1.28769072653965,
+        1.1925416026198,
+        1.08161826895968,
+        1.2820437527529
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "2021/2020",
+      "mode": "lines",
+      "inherit": true
+    },
+    "25d459a62e40.2": {
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "x": 1,
+      "y": 1,
+      "xend": 8,
+      "yend": 1,
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "dash": "dash"
+      },
+      "showlegend": false,
+      "inherit": true
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Company registrations Ratio<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Ratio",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "y": [
+        2.08328211432084,
+        1.61677379859198,
+        1.6044611095087,
+        1.46428898033836,
+        1.61715647339158,
+        1.50455311973019,
+        1.46082817705854,
+        1.61240882651648
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "2021/2019",
+      "mode": "lines",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "line": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        1.45503326894183,
+        1.16841173868161,
+        1.14994487320838,
+        1.1625644376679,
+        1.28769072653965,
+        1.1925416026198,
+        1.08161826895968,
+        1.2820437527529
+      ],
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "2021/2020",
+      "mode": "lines",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,0.5)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "line": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        8
+      ],
+      "y": [
+        1,
+        1
+      ],
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "color": "rgba(44,160,44,0.5)",
+        "dash": "dash"
+      },
+      "showlegend": false,
+      "marker": {
+        "color": "rgba(44,160,44,0.5)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
