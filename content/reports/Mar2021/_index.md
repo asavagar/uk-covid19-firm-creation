@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report February 2021
 linktitle: March 2021
 toc: true
@@ -24,7 +24,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Business creation increased 8% from January 2021 to February 2021.
 2. Business creation was 22.3% higher in February 2021 compared to February 2020.
-3. The largest number of registrations occur in �Retail sale via mail order houses or via Internet� sector.
+3. The largest number of registrations occur in 'Retail sale via mail order houses or via Internet' sector.
 4. Significant increases in retail sales and wholesales related to food and drink given the lower activity in the Accommodation and Food services.
 
 
@@ -77,10 +77,10 @@ The graph illustrates company registrations in February 2021 relative to 2019 va
 {{< chart data="sectors" >}}
 
 - February 2021 has higher firm creation in most sectors than February 2019.
-- 'Wholesale, and Retail Trade', �Manufacturing� and �Real Estate� sectors show the greatest increase in firm creation in February 2021.
-- Compared to February 2019, in February 2021 there is over a 300% increase in business creation for �Retail sale via mail order houses or via Internet� and �Retail sale of sporting equipment in specialised stores�. This comes as a result of lockdown-III and stores closure.
-- Significant increases in food-related retail sales and wholesales sectors. More than 200% increase in the sectors of �retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores� and �wholesale of fruit and vegetables� in February 2021 to February 2019.
-- Lower registrations relative to February 2019 are met in �taxi operations�, �tour operator activities� and �packaging activities�. 
+- 'Wholesale, and Retail Trade', 'Manufacturing' and 'Real Estate' sectors show the greatest increase in firm creation in February 2021.
+- Compared to February 2019, in February 2021 there is over a 300% increase in business creation for 'Retail sale via mail order houses or via Internet' and 'Retail sale of sporting equipment in specialised stores'. This comes as a result of lockdown-III and stores closure.
+- Significant increases in food-related retail sales and wholesales sectors. More than 200% increase in the sectors of 'retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and 'wholesale of fruit and vegetables' in February 2021 to February 2019.
+- Lower registrations relative to February 2019 are met in 'taxi operations', 'tour operator activities' and 'packaging activities'. 
 
 ## Mortgage
 The following graph plots the ratio of registrations in 2021 over the registrations in the same week of reference in 2019 by holding mortgage charges. During 2021, the number of business registrations that also included a mortgage charge was significantly lower than the same reference period in 2019. This follows the pattern of the two previous lockdown periods, when most new firms registered did not hold any mortgage charges. 
@@ -88,5 +88,5 @@ The following graph plots the ratio of registrations in 2021 over the registrati
 {{< chart data="mortgage" >}}
 
 Most of the businesses which hold mortgage charges belong to 
-�Real estate activities� and �Financial and Insurance activities�. Some new registrations regard the development of building projects in Construction sector. Available results by 4-digit SIC classification upon request.
+'Real estate activities' and 'Financial and Insurance activities'. Some new registrations regard the development of building projects in Construction sector. Available results by 4-digit SIC classification upon request.
 
