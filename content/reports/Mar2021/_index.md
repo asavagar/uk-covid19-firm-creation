@@ -33,7 +33,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 The charts below show the daily company incorporations in the UK since January 2020. The lockdown periods correspond to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
 
 {{< chart data="dailyagg" >}}
-Download data as: <a href="data/01histogram.csv" download="01histogram.csv"><i class="fas fa-file-csv"></i></a>
+<small>Download data as: <a href="data/01histogram.csv" download="01histogram.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - Business creation increased 8% between January and February 2021. 
 - 26,600 additional companies were registered in February 2021 relative to February 2019. 
