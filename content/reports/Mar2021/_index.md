@@ -1,5 +1,5 @@
-﻿---
-title: Report February 2021
+---
+title: Report March 2021
 linktitle: March 2021
 toc: true
 type: docs
@@ -24,7 +24,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Business creation increased 8% from January 2021 to February 2021.
 2. Business creation was 22.3% higher in February 2021 compared to February 2020.
-3. The largest number of registrations occur in �Retail sale via mail order houses or via Internet� sector.
+3. The largest number of registrations occur in 'Retail sale via mail order houses or via Internet' sector.
 4. Significant increases in retail sales and wholesales related to food and drink given the lower activity in the Accommodation and Food services.
 
 
@@ -33,7 +33,9 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 The charts below show the daily company incorporations in the UK since January 2020. The lockdown periods correspond to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
 
 {{< chart data="dailyagg" >}}
-Download data as: <a href="data/01histogram.csv" download="01histogram.csv"><i class="fas fa-file-csv"></i></a>
+<small>Download histogram data as: <a href="data/01histogram.csv" download="01histogram.csv"><i class="fas fa-file-csv"></i></a>
+  <br>
+Download statistics as: <a href="data/02statsLockdown.csv" download="02statistics.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - Business creation increased 8% between January and February 2021. 
 - 26,600 additional companies were registered in February 2021 relative to February 2019. 
@@ -46,12 +48,13 @@ Download data as: <a href="data/01histogram.csv" download="01histogram.csv"><i c
 Company registrations persistently exceed their 2019 and 2020 levels. The extensive business activity observed during the first 2 weeks of January 2021 slows down in February. This might be a signal of adjustment after Brexit. The ratio between 2021/2020 is lower than 2021/2020. This is because of the timing of the first cases of COVID-19 traced in the UK in February 2020 affecting lower business creation.
 
 {{< chart data="total" >}}
+<small>Download data as: <a href="data/04ratio.csv" download="03ratio.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### February 
 Average company registrations in February 2021 are 31% higher than February 2020 and 67% higher than February 2019.
 
 {{< chart data="february" >}}
-
+<small>Download data as: <a href="data/03statsFeb.csv" download="04february.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 ### Postcode Area
@@ -63,30 +66,34 @@ The map shows the percentage change in new registrations in February 2021 compar
 The following graph aggregates business creation by country. We separate London from England. In February 2021, firm creation remains higher in all regions than it was in 2019. On average, Scotland experiences the fewest new daily registrations. 
 
 {{< chart data="country" >}}
+<small>Download data as: <a href="data/05country.csv" download="05country.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### London
 London persists the dominance in firm creation. The majority of the February 2021 business creation comes from Central and North London.
 
 {{< chart data="london" >}}
+<small>Download data as: <a href="data/06London.csv" download="06london.csv"><i class="fas fa-file-csv"></i></a></small>
 
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 ### SIC Sections
-The graph illustrates company registrations in February 2021 relative to 2019 values by industrial sector. We use 4-digit SIC levels (ONS "Classes") and group into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We present a selection of notable sectors. 
+The graph illustrates company registrations in February 2021 relative to 2019 values by industrial sector. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We present a selection of notable sectors. 
 
 {{< chart data="sectors" >}}
+<small>Download data as: <a href="data/07sections.csv" download="07sections.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - February 2021 has higher firm creation in most sectors than February 2019.
-- 'Wholesale, and Retail Trade', �Manufacturing� and �Real Estate� sectors show the greatest increase in firm creation in February 2021.
-- Compared to February 2019, in February 2021 there is over a 300% increase in business creation for �Retail sale via mail order houses or via Internet� and �Retail sale of sporting equipment in specialised stores�. This comes as a result of lockdown-III and stores closure.
-- Significant increases in food-related retail sales and wholesales sectors. More than 200% increase in the sectors of �retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores� and �wholesale of fruit and vegetables� in February 2021 to February 2019.
-- Lower registrations relative to February 2019 are met in �taxi operations�, �tour operator activities� and �packaging activities�. 
+- 'Wholesale, and Retail Trade', 'Manufacturing' and 'Real Estate' sectors show the greatest increase in firm creation in February 2021.
+- Compared to February 2019, in February 2021 there is over a 300% increase in business creation for 'Retail sale via mail order houses or via Internet' and 'Retail sale of sporting equipment in specialised stores'. This comes as a result of lockdown-III and stores closure.
+- Significant increases in food-related retail sales and wholesales sectors. More than 200% increase in the sectors of 'retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and 'wholesale of fruit and vegetables' in February 2021 to February 2019.
+- Lower registrations relative to February 2019 are met in 'taxi operations', 'tour operator activities' and 'packaging activities'. 
 
 ## Mortgage
 The following graph plots the ratio of registrations in 2021 over the registrations in the same week of reference in 2019 by holding mortgage charges. During 2021, the number of business registrations that also included a mortgage charge was significantly lower than the same reference period in 2019. This follows the pattern of the two previous lockdown periods, when most new firms registered did not hold any mortgage charges. 
 
 {{< chart data="mortgage" >}}
+<small>Download data as: <a href="data/08mortgage.csv" download="08mortgage.csv"><i class="fas fa-file-csv"></i></a></small>
 
 Most of the businesses which hold mortgage charges belong to 
-�Real estate activities� and �Financial and Insurance activities�. Some new registrations regard the development of building projects in Construction sector. Available results by 4-digit SIC classification upon request.
+'Real estate activities' and 'Financial and Insurance activities'. Some new registrations regard the development of building projects in Construction sector. Available results by 4-digit SIC classification upon request.
 
