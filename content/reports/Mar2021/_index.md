@@ -25,7 +25,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 1. Business creation increased 8% from January 2021 to February 2021.
 2. Business creation increased 22.3% from February 2021 to February 2020.
 3. The largest number of company registrations occurs in 'Retail sale via mail order houses or via Internet' sector.
-4. Company registrations in Accommodation and Food services remain supressed, but mitigated by significant increases in food-related retail and wholesale companies.
+4. Company registrations in 'Accommodation and Food services' remain supressed, but are buoyed by significant increases in food-related retail and wholesale companies.
 
 
 ## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
@@ -45,7 +45,7 @@ Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statisti
 
 ### Relative  
 
-Company registrations persistently exceed their 2019 and 2020 levels. The extensive business activity observed during the first 2 weeks of January 2021 slows down in February. This might be a signal of adjustment after Brexit. The ratio between 2021/2020 is lower than 2021/2020. This is because of the timing of the first cases of COVID-19 traced in the UK in February 2020 affecting lower business creation.
+Company registrations persistently exceed their 2019 and 2020 levels. The extensive business activity observed during the first 2 weeks of January 2021 slows down in February. This might be a signal of adjustment after Brexit. The ratio between 2021/2020 is lower than 2021/2019. 
 
 {{< chart data="total" >}}
 <small>Download data as: <a href="data/04ratio.csv" download="03ratio.csv"><i class="fas fa-file-csv"></i></a></small>
