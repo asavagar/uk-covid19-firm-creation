@@ -84,7 +84,7 @@ The graph illustrates company registrations in February 2021 relative to 2019 by
 
 - February 2021 has higher firm creation in most sectors than February 2019.
 - 'Wholesale, and Retail Trade', 'Manufacturing' and 'Real Estate' sectors show the greatest increase in firm creation in February 2021.
-- Compared to February 2019, in February 2021 there is over a 300% increase in business creation for 'Retail sale via mail order houses or via Internet' and 'Retail sale of sporting equipment in specialised stores'. This comes as a result of lockdown-III and stores closure.
-- Significant increases in food-related retail sales and wholesales sectors. More than 200% increase in the sectors of 'retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and 'wholesale of fruit and vegetables' in February 2021 to February 2019.
-- Lower registrations relative to February 2019 are met in 'taxi operations', 'tour operator activities' and 'packaging activities'. 
+- Compared to February 2019, in February 2021 there is over a 300% increase in business creation for 'Retail sale via mail order houses or via Internet' and 'Retail sale of sporting equipment in specialised stores'. This coincides with lockdown-III and store closures.
+- There are significant increases in food-related retail sales and wholesale sectors. There is over a 200% increase in the sectors of 'retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and 'wholesale of fruit and vegetables' in February 2021 to February 2019.
+- There are lower registrations relative to February 2019 in 'taxi operations', 'tour operator activities' and 'packaging activities'. 
 
