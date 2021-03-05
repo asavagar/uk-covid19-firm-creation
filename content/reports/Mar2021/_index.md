@@ -63,13 +63,13 @@ The map shows the percentage change in new registrations in February 2021 compar
 <iframe src="mapFeb2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
 ### Country 
-The following graph aggregates business creation by country. We separate London from England. In February 2021, firm creation remains higher in all regions than it was in 2019. On average, Scotland experiences the fewest new daily registrations. 
+The following graph aggregates business creation by country. We separate London from England. In February 2021, firm creation remains higher in all regions than it was in 2019. On average, Scotland experiences the fewest new daily registrations. London continues to dominate business registrations.  
 
 {{< chart data="country" >}}
 <small>Download data as: <a href="data/05country.csv" download="05country.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### London
-London persists the dominance in firm creation. The majority of the February 2021 business creation comes from Central and North London.
+Within London, the majority of business creation in February 2021 comes from Central and North London.
 
 {{< chart data="london" >}}
 <small>Download data as: <a href="data/06London.csv" download="06london.csv"><i class="fas fa-file-csv"></i></a></small>
@@ -77,7 +77,7 @@ London persists the dominance in firm creation. The majority of the February 202
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 ### SIC Sections
-The graph illustrates company registrations in February 2021 relative to 2019 values by industrial sector. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We present a selection of notable sectors. 
+The graph illustrates company registrations in February 2021 relative to 2019 by industrial sector. It compares the percentage change in 2021 relative to 2019 for each week of the year. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We show a selection of sectors that present notable increases. 
 
 {{< chart data="sectors" >}}
 <small>Download data as: <a href="data/07sections.csv" download="07sections.csv"><i class="fas fa-file-csv"></i></a></small>
@@ -87,13 +87,4 @@ The graph illustrates company registrations in February 2021 relative to 2019 va
 - Compared to February 2019, in February 2021 there is over a 300% increase in business creation for 'Retail sale via mail order houses or via Internet' and 'Retail sale of sporting equipment in specialised stores'. This comes as a result of lockdown-III and stores closure.
 - Significant increases in food-related retail sales and wholesales sectors. More than 200% increase in the sectors of 'retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and 'wholesale of fruit and vegetables' in February 2021 to February 2019.
 - Lower registrations relative to February 2019 are met in 'taxi operations', 'tour operator activities' and 'packaging activities'. 
-
-## Mortgage
-The following graph plots the ratio of registrations in 2021 over the registrations in the same week of reference in 2019 by holding mortgage charges. During 2021, the number of business registrations that also included a mortgage charge was significantly lower than the same reference period in 2019. This follows the pattern of the two previous lockdown periods, when most new firms registered did not hold any mortgage charges. 
-
-{{< chart data="mortgage" >}}
-<small>Download data as: <a href="data/08mortgage.csv" download="08mortgage.csv"><i class="fas fa-file-csv"></i></a></small>
-
-Most of the businesses which hold mortgage charges belong to 
-'Real estate activities' and 'Financial and Insurance activities'. Some new registrations regard the development of building projects in Construction sector. Available results by 4-digit SIC classification upon request.
 
