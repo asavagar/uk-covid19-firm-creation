@@ -22,7 +22,7 @@ cta_note:
  
 ---
 
-The project explores the impact of COVID-19 on business creation in the UK. The project is funded by the ESRC and based at the University of Kent, School of Economics.
+The project explores the impact of COVID-19 on business creation in the UK. 
 
 
 {{< cta cta_text="Latest report" cta_link="/reports/mar2021/"  cta_new_tab="true" >}}
