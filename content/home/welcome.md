@@ -15,7 +15,9 @@ design:
 advanced:
   css_style:
   css_class:
- 
+
+cta_note:
+  label: Funded by ESRC <br> Based at the University of Kent 
 
  
 ---
@@ -24,5 +26,4 @@ The project explores the impact of COVID-19 on business creation in the UK. The 
 
 
 {{< cta cta_text="Latest report" cta_link="/reports/mar2021/"  cta_new_tab="true" >}}
-{{<  cta_note cta_note_label: 'ESRC-funded project <br> Based at the University of Kent'>}}
 
