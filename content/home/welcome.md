@@ -16,11 +16,12 @@ advanced:
   css_style:
   css_class:
  
- cta_note:
-  label: ESRC-funded project <br> Based at the University of Kent
 ---
 
 The project explores the impact of COVID-19 on business creation in the UK. The project is funded by the ESRC and based at the University of Kent, School of Economics.
 
 
 {{< cta cta_text="Latest report" cta_link="/reports/mar2021/"  cta_new_tab="true" >}}
+
+ cta_note:
+  label: ESRC-funded project <br> Based at the University of Kent
