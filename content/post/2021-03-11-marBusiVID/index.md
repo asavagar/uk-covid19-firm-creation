@@ -1,6 +1,6 @@
 ---
 title: 26,600 new registrations in February 2021 [vid]
-date: 2021-02-12
+date: 2021-03-11
 author: 
  - Yannis Galanakis
 ---
