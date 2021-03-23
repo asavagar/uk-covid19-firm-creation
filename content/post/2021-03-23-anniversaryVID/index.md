@@ -1,6 +1,6 @@
 ---
 title: First lockdown anniversary vs. firm creation [vid]
-date: 2021-03-26
+date: 2021-03-23
 author: 
  - Yannis Galanakis
 ---
