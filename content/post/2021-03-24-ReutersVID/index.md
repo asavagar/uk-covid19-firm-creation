@@ -1,7 +1,6 @@
 ---
 title: Does pandemic influence new businesses? [vid]
 date: 2021-03-24
-draft: true
 author: 
  - Yannis Galanakis
 ---
@@ -10,7 +9,7 @@ Companies birth rates keeps increasing despite the significant drop during the f
 <!--more-->
 
 
-{{< vimeo 520899387 >}}
+{{< tweet 1374642819931996161 >}}
 
 
 
