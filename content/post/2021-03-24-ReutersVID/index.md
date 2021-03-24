@@ -1,6 +1,7 @@
 ---
 title: Does pandemic influence new businesses? [vid]
 date: 2021-03-24
+draft: true
 author: 
  - Yannis Galanakis
 ---
