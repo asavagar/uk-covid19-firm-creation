@@ -36,6 +36,11 @@ The chart below shows the daily company incorporations in the UK since January 2
   <br>
 Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statistics.xlsx"><i class="fas fa-file-excel"></i></a></small>
 
+The chart below shows the 7-day rolling average of company registrations in the UK since January 2019. Gray shaded areas correspond to the national lockdown periods, as show to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline). 
+
+{{< chart data="rollAv" >}}
+<small> Download 7-day rolling average data as: <a href="data/08rollAv.csv" download="08rollAv.csv"><i class="fas fa-file-csv"></i></a></small>
+
 - Business creation increased 13.22% between February and March 2021. 
 - 28,662 additional companies were registered in March 2021 relative to March 2019. 
 - The median daily registrations were 48.1% higher in March 2021 than March 2019.
