@@ -1,5 +1,5 @@
-﻿---
-title: 8% higher business creation since February 2021 
+---
+title: 13.22% higher business creation since February 2021 
 date: 2021-04-02
 author: 
  - Yannis Galanakis
