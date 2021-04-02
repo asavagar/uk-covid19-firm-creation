@@ -38,7 +38,7 @@ Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statisti
 
 The chart below shows the 7-day rolling average of company registrations in the UK since January 2019. Gray shaded areas correspond to the national lockdown periods, as show to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline). 
 
-{{< chart data="rollAv" >}}
+{{< chart data="rollav" >}}
 <small> Download 7-day rolling average data as: <a href="data/08rollAv.csv" download="08rollAv.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - Business creation increased 13.22% between February and March 2021. 
