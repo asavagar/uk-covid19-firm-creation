@@ -88,4 +88,3 @@ The graph illustrates company registrations in February 2021 relative to 2019 by
 - There are significant increases in food-related retail sales and wholesale sectors. There is over a 200% increase in the sectors of 'Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and 'Wholesale of fruit and vegetables' in February 2021 to February 2019.
 - There are lower registrations relative to February 2019 in 'Taxi Operations', 'Tour Operator activities' and 'Packaging activities'. 
 
-{{< cta cta_text="Summary" cta_link="data/summaryMar2021.pdf" cta_new_tab="true" cta_icon="file-pdf" cta_icon_pack="far" >}}
