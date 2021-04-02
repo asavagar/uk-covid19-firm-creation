@@ -14,7 +14,7 @@ menu:
 weight: 5
 
 cta:
-  url: ' '
+  url: 'data/summaryApr2021.pdf'
   label: Summary
   icon_pack: far
   icon: file-pdf
