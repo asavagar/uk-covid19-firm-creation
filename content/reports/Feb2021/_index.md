@@ -78,4 +78,4 @@ The graph illustrates company registrations in January 2021, January 2020 and Ja
 - 'Accommodation and Food Services' is the only sector with fewer registrations in January 2021 than January 2020. 
 
 
-
+{{< cta cta_text="Summary" cta_link="data/summaryFeb2021.pdf" cta_new_tab="true" cta_icon="file-pdf" cta_icon_pack="far" >}}
