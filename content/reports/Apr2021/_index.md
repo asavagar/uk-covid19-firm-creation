@@ -12,6 +12,13 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
+
+cta:
+  url: ' '
+  label: Summary
+  icon_pack: far
+  icon: file-pdf
+  
 ---
 
 ## In a nutshell
