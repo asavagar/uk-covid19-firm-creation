@@ -12,12 +12,6 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
-
-cta:
-  url: 'data/summaryApr2021.pdf'
-  label: Summary
-  icon_pack: far
-  icon: file-pdf
   
 ---
 
