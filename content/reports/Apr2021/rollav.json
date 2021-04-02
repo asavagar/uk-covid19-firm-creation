@@ -1,13 +1,13 @@
 {
   "visdat": {
-    "5c8074635513": [
+    "5c80541c7552": [
       "function () ",
       "plotlyVisDat"
     ]
   },
-  "cur_data": "5c8074635513",
+  "cur_data": "5c80541c7552",
   "attrs": {
-    "5c8074635513": {
+    "5c80541c7552": {
       "x": [
         "2019-01-01",
         "2019-01-02",
@@ -1692,7 +1692,7 @@
         1
       ],
       "automargin": true,
-      "title": "New Regristrations",
+      "title": "New Registrations",
       "showgrid": false
     },
     "shapes": [
