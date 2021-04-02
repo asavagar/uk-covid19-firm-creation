@@ -35,7 +35,7 @@ The chart below shows the daily company incorporations in the UK since January 2
   <br>
 Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statistics.xlsx"><i class="fas fa-file-excel"></i></a></small>
 
-- Business creation increased 13.22% between January and February 2021. 
+- Business creation increased 13.22% between February and March 2021. 
 - 28,662 additional companies were registered in March 2021 relative to March 2019. 
 - The median daily registrations were 48.1% higher in March 2021 than March 2019.
 - The median daily registrations during lockdown-III is 31.73% higher than in lockdown-I, but almost the same as lockdown-II.  
