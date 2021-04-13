@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Report April 2021
 linktitle: April 2021
 toc: true
@@ -58,7 +58,7 @@ Average company registrations in March 2021 are 48.12% higher than March 2020 an
 ### Postcode Area
 The map shows the percentage change in new registrations in March 2021 compared to March 2019.  
 
-<iframe src="mapMap2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
+<iframe src="mapMar2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
 ### Country 
 The following graph aggregates business creation by country. We separate London from England. In March 2021, firm creation remains higher in all regions than it was in 2019. On average, Scotland keeps experiencing the fewest new daily registrations. London continues to dominate business registrations.  
@@ -81,8 +81,8 @@ The graph illustrates company registrations in March 2021 relative to 2019 by in
 <small>Download data as: <a href="data/07sections.csv" download="07sections.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - March 2021 has higher firm creation in most sectors than March 2019.
-- ‘Activities of households as employers; undifferentiated goods-and services-producing activities’, 'Wholesale, and Retail Trade' and 'Manufacturing' sectors show the greatest increase in firm creation in February 2021. 
-- Compared to March 2019, in March 2021 there is over a 300% increase in business creation for ‘Raising other animals’, ‘Wholesale of waste and scrap’, 'Retail sale via mail order houses or via Internet', ‘Agents involved in the sale of furniture, household goods, hardware and ironmongery' and ‘Renting and leasing of recreational and sports goods’. 
-- The increasing business creation in food-related retail sales and wholesale sectors persists. There is over a 200% increase in the sectors of ‘Wholesale of food, beverages and tobacco’, 'Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and ‘Manufacture of bakery and farinaceous products' in March 2021 to March 2019.
-- There are lower registrations relative to March 2019 in 'Packaging activities', ‘Warehousing and storage’, ‘Specialist medical practice activities’. 
+- â€˜Activities of households as employers; undifferentiated goods-and services-producing activitiesâ€™, 'Wholesale, and Retail Trade' and 'Manufacturing' sectors show the greatest increase in firm creation in February 2021. 
+- Compared to March 2019, in March 2021 there is over a 300% increase in business creation for â€˜Raising other animalsâ€™, â€˜Wholesale of waste and scrapâ€™, 'Retail sale via mail order houses or via Internet', â€˜Agents involved in the sale of furniture, household goods, hardware and ironmongery' and â€˜Renting and leasing of recreational and sports goodsâ€™. 
+- The increasing business creation in food-related retail sales and wholesale sectors persists. There is over a 200% increase in the sectors of â€˜Wholesale of food, beverages and tobaccoâ€™, 'Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and â€˜Manufacture of bakery and farinaceous products' in March 2021 to March 2019.
+- There are lower registrations relative to March 2019 in 'Packaging activities', â€˜Warehousing and storageâ€™, â€˜Specialist medical practice activitiesâ€™. 
 
