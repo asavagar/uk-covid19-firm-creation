@@ -1,4 +1,4 @@
----
+﻿---
 title: Report April 2021
 linktitle: April 2021
 toc: true
@@ -38,6 +38,10 @@ Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statisti
 - 28,662 additional companies were registered in March 2021 relative to March 2019. 
 - The median daily registrations were 48.1% higher in March 2021 than March 2019.
 - The median daily registrations during lockdown-III is 31.73% higher than in lockdown-I, but almost the same as lockdown-II.  
+
+The chart below shows the rolling average of firm creation since January 2019. Shaded areas correspond to lockdown periods as shown our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
+
+{{< chart data="rollAv" >}}
 
 
 ### Relative  
