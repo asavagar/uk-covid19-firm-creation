@@ -2,8 +2,8 @@
   "data": [
     {
       "x": [
-        18209.6,
-        18680.4
+        18286.75,
+        18754.25
       ],
       "y": [
         0,
@@ -26,12 +26,6 @@
     },
     {
       "x": [
-        18262,
-        18262,
-        null,
-        18292,
-        18292,
-        null,
         18337,
         18337,
         null,
@@ -60,15 +54,12 @@
         18626,
         null,
         18632,
-        18632
+        18632,
+        null,
+        18729,
+        18729
       ],
       "y": [
-        0,
-        0,
-        null,
-        -0.8,
-        0,
-        null,
         0.5,
         0,
         null,
@@ -84,28 +75,25 @@
         1.25,
         0,
         null,
-        -1.2,
+        -1.25,
         0,
         null,
         1.5,
         0,
         null,
-        -1.9,
+        -1.7,
         0,
         null,
-        2.3,
+        2,
         0,
         null,
-        -1.5,
+        -1.3,
+        0,
+        null,
+        1.5,
         0
       ],
       "text": [
-        "date: 18262<br />date: 2020-01-01<br />Milestones: ",
-        "date: 18262<br />date: 2020-01-01<br />Milestones: ",
-        null,
-        "date: 18292<br />date: 2020-01-31<br />Milestones: First 2 confirmed cases",
-        "date: 18292<br />date: 2020-01-31<br />Milestones: First 2 confirmed cases",
-        null,
         "date: 18337<br />date: 2020-03-16<br />Milestones: Non-essential travel prohibited",
         "date: 18337<br />date: 2020-03-16<br />Milestones: Non-essential travel prohibited",
         null,
@@ -124,17 +112,20 @@
         "date: 18598<br />date: 2020-12-02<br />Milestones: End Lockdown #2",
         "date: 18598<br />date: 2020-12-02<br />Milestones: End Lockdown #2",
         null,
-        "date: 18604<br />date: 2020-12-08<br />Milestones: First Pfizer/BioNTech  Vaccine",
-        "date: 18604<br />date: 2020-12-08<br />Milestones: First Pfizer/BioNTech  Vaccine",
+        "date: 18604<br />date: 2020-12-08<br />Milestones: First Pfizer Vaccine",
+        "date: 18604<br />date: 2020-12-08<br />Milestones: First Pfizer Vaccine",
         null,
         "date: 18616<br />date: 2020-12-20<br />Milestones: New Tier-4 scheme",
         "date: 18616<br />date: 2020-12-20<br />Milestones: New Tier-4 scheme",
         null,
-        "date: 18626<br />date: 2020-12-30<br />Milestones: EU-UK Trade and Cooperation Agreement",
-        "date: 18626<br />date: 2020-12-30<br />Milestones: EU-UK Trade and Cooperation Agreement",
+        "date: 18626<br />date: 2020-12-30<br />Milestones: EU-UK Trade Cooperation Agreement",
+        "date: 18626<br />date: 2020-12-30<br />Milestones: EU-UK Trade Cooperation Agreement",
         null,
         "date: 18632<br />date: 2021-01-05<br />Milestones: Lockdown #3",
-        "date: 18632<br />date: 2021-01-05<br />Milestones: Lockdown #3"
+        "date: 18632<br />date: 2021-01-05<br />Milestones: Lockdown #3",
+        null,
+        "date: 18729<br />date: 2021-04-12<br />Milestones: End lockdown #3",
+        "date: 18729<br />date: 2021-04-12<br />Milestones: End lockdown #3"
       ],
       "type": "scatter",
       "mode": "lines",
@@ -152,17 +143,14 @@
     },
     {
       "x": [
-        18292,
         18337,
         18341
       ],
       "y": [
-        -0.8,
         0.5,
         -0.5
       ],
       "text": [
-        "date: 2020-01-31<br />Milestones: First 2 confirmed cases",
         "date: 2020-03-16<br />Milestones: Non-essential travel prohibited",
         "date: 2020-03-20<br />Milestones: Pubs etc. closed"
       ],
@@ -185,7 +173,7 @@
       "showlegend": true,
       "xaxis": "x",
       "yaxis": "y",
-      "hoverinfo": "text",
+      "hoverinfo": "none",
       "frame": null
     },
     {
@@ -198,8 +186,8 @@
       "y": [
         1,
         1.25,
-        -1.9,
-        -1.5
+        -1.7,
+        -1.3
       ],
       "text": [
         "date: 2020-03-23<br />Milestones: Lockdown #1",
@@ -232,15 +220,18 @@
     {
       "x": [
         18447,
-        18598
+        18598,
+        18729
       ],
       "y": [
         -1,
-        -1.2
+        -1.25,
+        1.5
       ],
       "text": [
         "date: 2020-07-04<br />Milestones: End Lockdown #1",
-        "date: 2020-12-02<br />Milestones: End Lockdown #2"
+        "date: 2020-12-02<br />Milestones: End Lockdown #2",
+        "date: 2021-04-12<br />Milestones: End lockdown #3"
       ],
       "type": "scatter",
       "mode": "markers",
@@ -271,7 +262,7 @@
       "y": [
         1.5
       ],
-      "text": "date: 2020-12-08<br />Milestones: First Pfizer/BioNTech  Vaccine",
+      "text": "date: 2020-12-08<br />Milestones: First Pfizer Vaccine",
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -299,25 +290,25 @@
         18626
       ],
       "y": [
-        2.3
+        2
       ],
-      "text": "date: 2020-12-30<br />Milestones: EU-UK Trade and Cooperation Agreement",
+      "text": "date: 2020-12-30<br />Milestones: EU-UK Trade Cooperation Agreement",
       "type": "scatter",
       "mode": "markers",
       "marker": {
         "autocolorscale": false,
-        "color": "rgba(59,66,82,1)",
+        "color": "rgba(46,52,64,1)",
         "opacity": 1,
         "size": 11.3385826771654,
         "symbol": "circle",
         "line": {
           "width": 1.88976377952756,
-          "color": "rgba(59,66,82,1)"
+          "color": "rgba(46,52,64,1)"
         }
       },
       "hoveron": "points",
-      "name": "EU",
-      "legendgroup": "EU",
+      "name": "VB",
+      "legendgroup": "VB",
       "showlegend": true,
       "xaxis": "x",
       "yaxis": "y",
@@ -326,51 +317,21 @@
     },
     {
       "x": [
-        18262
-      ],
-      "y": [
-        0
-      ],
-      "text": "date: 2020-01-01<br />Milestones: ",
-      "type": "scatter",
-      "mode": "markers",
-      "marker": {
-        "autocolorscale": false,
-        "color": "transparent",
-        "opacity": 1,
-        "size": 11.3385826771654,
-        "symbol": "circle",
-        "line": {
-          "width": 1.88976377952756,
-          "color": "transparent"
-        }
-      },
-      "hoveron": "points",
-      "name": "NA",
-      "legendgroup": "NA",
-      "showlegend": true,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [
-        18231,
-        18262,
-        18293,
-        18322,
-        18353,
-        18383,
-        18414,
-        18444,
-        18475,
-        18506,
-        18536,
-        18567,
-        18597,
-        18628,
-        18659
+        18308,
+        18337,
+        18368,
+        18398,
+        18429,
+        18459,
+        18490,
+        18521,
+        18551,
+        18582,
+        18612,
+        18643,
+        18674,
+        18702,
+        18733
       ],
       "y": [
         -0.15,
@@ -390,8 +351,6 @@
         -0.15
       ],
       "text": [
-        "Dec",
-        "Jan",
         "Feb",
         "Mar",
         "Apr",
@@ -404,24 +363,26 @@
         "Nov",
         "Dec",
         "Jan",
-        "Feb"
+        "Feb",
+        "Mar",
+        "Apr"
       ],
       "hovertext": [
-        "date: 2019-12-01<br />Milestones: Dec",
-        "date: 2020-01-01<br />Milestones: Jan",
-        "date: 2020-02-01<br />Milestones: Feb",
-        "date: 2020-03-01<br />Milestones: Mar",
-        "date: 2020-04-01<br />Milestones: Apr",
-        "date: 2020-05-01<br />Milestones: May",
-        "date: 2020-06-01<br />Milestones: Jun",
-        "date: 2020-07-01<br />Milestones: Jul",
-        "date: 2020-08-01<br />Milestones: Aug",
-        "date: 2020-09-01<br />Milestones: Sep",
-        "date: 2020-10-01<br />Milestones: Oct",
-        "date: 2020-11-01<br />Milestones: Nov",
-        "date: 2020-12-01<br />Milestones: Dec",
-        "date: 2021-01-01<br />Milestones: Jan",
-        "date: 2021-02-01<br />Milestones: Feb"
+        "date: 2020-02-16<br />Milestones: Feb",
+        "date: 2020-03-16<br />Milestones: Mar",
+        "date: 2020-04-16<br />Milestones: Apr",
+        "date: 2020-05-16<br />Milestones: May",
+        "date: 2020-06-16<br />Milestones: Jun",
+        "date: 2020-07-16<br />Milestones: Jul",
+        "date: 2020-08-16<br />Milestones: Aug",
+        "date: 2020-09-16<br />Milestones: Sep",
+        "date: 2020-10-16<br />Milestones: Oct",
+        "date: 2020-11-16<br />Milestones: Nov",
+        "date: 2020-12-16<br />Milestones: Dec",
+        "date: 2021-01-16<br />Milestones: Jan",
+        "date: 2021-02-16<br />Milestones: Feb",
+        "date: 2021-03-16<br />Milestones: Mar",
+        "date: 2021-04-16<br />Milestones: Apr"
       ],
       "textfont": {
         "size": 13.2283464566929,
@@ -438,13 +399,13 @@
     },
     {
       "x": [
-        18262
+        18628
       ],
       "y": [
-        -0.3
+        -0.25
       ],
-      "text": "2020",
-      "hovertext": "date: 2020-01-01<br />Milestones: 2020",
+      "text": "2021",
+      "hovertext": "date: 2021-01-01<br />Milestones: 2021",
       "textfont": {
         "size": 13.2283464566929,
         "color": "rgba(0,0,0,1)"
@@ -460,22 +421,18 @@
     },
     {
       "x": [
-        18292,
         18337,
         18341
       ],
       "y": [
-        -1,
         0.7,
         -0.7
       ],
       "text": [
-        "First 2 confirmed cases",
         "Non-essential travel prohibited",
         "Pubs etc. closed"
       ],
       "hovertext": [
-        "date: 2020-01-31<br />Milestones: First 2 confirmed cases",
         "date: 2020-03-16<br />Milestones: Non-essential travel prohibited",
         "date: 2020-03-20<br />Milestones: Pubs etc. closed"
       ],
@@ -504,8 +461,8 @@
       "y": [
         1.2,
         1.45,
-        -2.1,
-        -1.7
+        -1.9,
+        -1.5
       ],
       "text": [
         "Lockdown #1",
@@ -537,19 +494,23 @@
     {
       "x": [
         18447,
-        18598
+        18598,
+        18729
       ],
       "y": [
         -1.2,
-        -1.4
+        -1.45,
+        1.7
       ],
       "text": [
         "End Lockdown #1",
-        "End Lockdown #2"
+        "End Lockdown #2",
+        "End lockdown #3"
       ],
       "hovertext": [
         "date: 2020-07-04<br />Milestones: End Lockdown #1",
-        "date: 2020-12-02<br />Milestones: End Lockdown #2"
+        "date: 2020-12-02<br />Milestones: End Lockdown #2",
+        "date: 2021-04-12<br />Milestones: End lockdown #3"
       ],
       "textfont": {
         "size": 11.3385826771654,
@@ -573,8 +534,8 @@
       "y": [
         1.7
       ],
-      "text": "First Pfizer/BioNTech  Vaccine",
-      "hovertext": "date: 2020-12-08<br />Milestones: First Pfizer/BioNTech  Vaccine",
+      "text": "First Pfizer Vaccine",
+      "hovertext": "date: 2020-12-08<br />Milestones: First Pfizer Vaccine",
       "textfont": {
         "size": 11.3385826771654,
         "color": "rgba(94,129,172,1)"
@@ -595,43 +556,19 @@
         18626
       ],
       "y": [
-        2.5
+        2.2
       ],
-      "text": "EU-UK Trade and Cooperation Agreement",
-      "hovertext": "date: 2020-12-30<br />Milestones: EU-UK Trade and Cooperation Agreement",
+      "text": "EU-UK Trade Cooperation Agreement",
+      "hovertext": "date: 2020-12-30<br />Milestones: EU-UK Trade Cooperation Agreement",
       "textfont": {
         "size": 11.3385826771654,
-        "color": "rgba(59,66,82,1)"
+        "color": "rgba(46,52,64,1)"
       },
       "type": "scatter",
       "mode": "text",
       "hoveron": "points",
-      "name": "EU",
-      "legendgroup": "EU",
-      "showlegend": false,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [
-        18262
-      ],
-      "y": [
-        0.2
-      ],
-      "text": "",
-      "hovertext": "date: 2020-01-01<br />Milestones: ",
-      "textfont": {
-        "size": 11.3385826771654,
-        "color": "transparent"
-      },
-      "type": "scatter",
-      "mode": "text",
-      "hoveron": "points",
-      "name": "NA",
-      "legendgroup": "NA",
+      "name": "VB",
+      "legendgroup": "VB",
       "showlegend": false,
       "xaxis": "x",
       "yaxis": "y",
@@ -641,9 +578,9 @@
   ],
   "layout": {
     "margin": {
-      "t": 23.3059360730594,
+      "t": 27.7234788149092,
       "r": 7.30593607305936,
-      "b": 10.958904109589,
+      "b": 15.3764468514389,
       "l": 10.958904109589
     },
     "plot_bgcolor": "rgba(255,255,255,1)",
@@ -662,31 +599,31 @@
       "type": "linear",
       "autorange": false,
       "range": [
-        18209.6,
-        18680.4
+        18286.75,
+        18754.25
       ],
       "tickmode": "array",
       "ticktext": [
-        "Jan 2020",
         "Apr 2020",
         "Jul 2020",
         "Oct 2020",
-        "Jan 2021"
+        "Jan 2021",
+        "Apr 2021"
       ],
       "tickvals": [
-        18262,
         18353,
         18444,
         18536,
-        18628
+        18628,
+        18718
       ],
       "categoryorder": "array",
       "categoryarray": [
-        "Jan 2020",
         "Apr 2020",
         "Jul 2020",
         "Oct 2020",
-        "Jan 2021"
+        "Jan 2021",
+        "Apr 2021"
       ],
       "nticks": null,
       "ticks": "",
@@ -727,8 +664,8 @@
       "type": "linear",
       "autorange": false,
       "range": [
-        -2.33,
-        2.73
+        -2.105,
+        2.405
       ],
       "tickmode": "array",
       "ticktext": [
@@ -820,11 +757,11 @@
   },
   "source": "A",
   "attrs": {
-    "84d8587d5119": {
+    "46b427262df3": {
       "yintercept": {},
       "type": "scatter"
     },
-    "84d822e151d8": {
+    "46b4336bb7": {
       "y": {},
       "yend": {},
       "xend": {},
@@ -833,14 +770,14 @@
       "colour": {},
       "label": {}
     },
-    "84d876247567": {
+    "46b446ad2c10": {
       "y": {},
       "x": {},
       "y.1": {},
       "colour": {},
       "label": {}
     },
-    "84d823ac6f71": {
+    "46b430592dc7": {
       "x": {},
       "y": {},
       "label": {},
@@ -849,26 +786,7 @@
       "colour": {},
       "label.1": {}
     },
-    "84d83f802e87": {
-      "x": {},
-      "y": {},
-      "label": {},
-      "fontface": {},
-      "x.1": {},
-      "y.1": {},
-      "colour": {},
-      "label.1": {}
-    },
-    "84d810fe3f64": {
-      "x": {},
-      "y": {},
-      "label": {},
-      "x.1": {},
-      "y.1": {},
-      "colour": {},
-      "label.1": {}
-    },
-    "84d866192b53": {
+    "46b4767d2aef": {
       "x": {},
       "y": {},
       "label": {},
@@ -878,7 +796,26 @@
       "colour": {},
       "label.1": {}
     },
-    "84d845b832ea": {
+    "46b429f95b55": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "x.1": {},
+      "y.1": {},
+      "colour": {},
+      "label.1": {}
+    },
+    "46b46fefb76": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "fontface": {},
+      "x.1": {},
+      "y.1": {},
+      "colour": {},
+      "label.1": {}
+    },
+    "46b42d551425": {
       "y": {},
       "label": {},
       "x": {},
@@ -887,37 +824,37 @@
       "label.1": {}
     }
   },
-  "cur_data": "84d8587d5119",
+  "cur_data": "46b427262df3",
   "visdat": {
-    "84d8587d5119": [
+    "46b427262df3": [
       "function (y) ",
       "x"
     ],
-    "84d822e151d8": [
+    "46b4336bb7": [
       "function (y) ",
       "x"
     ],
-    "84d876247567": [
+    "46b446ad2c10": [
       "function (y) ",
       "x"
     ],
-    "84d823ac6f71": [
+    "46b430592dc7": [
       "function (y) ",
       "x"
     ],
-    "84d83f802e87": [
+    "46b4767d2aef": [
       "function (y) ",
       "x"
     ],
-    "84d810fe3f64": [
+    "46b429f95b55": [
       "function (y) ",
       "x"
     ],
-    "84d866192b53": [
+    "46b46fefb76": [
       "function (y) ",
       "x"
     ],
-    "84d845b832ea": [
+    "46b42d551425": [
       "function (y) ",
       "x"
     ]
