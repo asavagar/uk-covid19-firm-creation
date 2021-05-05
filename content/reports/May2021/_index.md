@@ -21,7 +21,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Business creation decreased 14.64% between March 2021 and April 2021.
-2. Business creation increased 66.45% between April 2020 and April 2021.
+2. Business creation was 66.45% higher in April 2021 than in April 2020.
 3. The largest number of company registrations occurs in 'Wholesale and retail trade; repair of motor vehicles and motorcycles' sector. 
 
 
