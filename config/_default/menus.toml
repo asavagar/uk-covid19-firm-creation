@@ -29,6 +29,10 @@
   url = "reports/"
   weight = 35
 
+[[main]]
+  name = "Dashboard"
+  url = "https://asavagar.shinyapps.io/UKFirmCreation/"
+  weight = 36
 
 #[[main]]
 #  name = "Events"
