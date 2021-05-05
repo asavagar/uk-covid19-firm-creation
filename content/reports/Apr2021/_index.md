@@ -90,5 +90,5 @@ The graph illustrates company registrations in March 2021 relative to 2019 by in
 - There are lower registrations relative to March 2019 in 'Packaging activities', ‘Warehousing and storage’, ‘Specialist medical practice activities’. 
 
 
-{{< cta cta_text="PDF report" cta_link="/reports/apr2021/April2021.pdf"  cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/apr2021/April2021.pdf"  cta_new_tab="true" >}}
 
