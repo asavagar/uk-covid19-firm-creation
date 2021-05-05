@@ -1,4 +1,4 @@
----
+﻿---
 title: Report May 2021
 linktitle: May 2021
 toc: true
@@ -91,3 +91,4 @@ The graph illustrates company registrations in April 2021 relative to 2019 by in
 - The spike in week 16 coincides with the re-openning of pubs, gyms, restaurants and non-essential shops. 
 
 
+{{< cta cta_text="Snapshot" cta_link="/reports/may2021/May2021.pdf" cta_new_tab="true" >}}
