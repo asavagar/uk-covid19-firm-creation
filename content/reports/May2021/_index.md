@@ -65,13 +65,13 @@ The map shows the percentage change in new registrations in April 2021 compared 
 <iframe src="mapApr2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
 ### Country 
-The following graph aggregates business creation by country. In April 2021, firm creation remains higher in most of the regions than it was in 2019. On average, England (excl. London), for the first time in 2021, experiences the fewest new daily registrations. London, followed by Wales, dominate business registrations.  
+The following graph aggregates business creation by country. In April 2021, firm creation remains higher in most of the regions than it was in 2019. On average, England (excl. London), for the first time in 2021, experiences the fewest new daily registrations. London, followed by Wales, dominate business registrations. The spike in week 16 coincides with the re-openning of pubs, gyms, restaurants and non-essential shops. 
 
 {{< chart data="country" >}}
 <small>Download data as: <a href="data/05country.csv" download="05country.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### London
-Within London, most of the business creation in April 2021 comes from Central and East London.
+Within London, most of the business creation in April 2021 comes from Central and East London. The spike in week 16 coincides with the re-openning of pubs, gyms, restaurants and non-essential shops. 
 
 {{< chart data="london" >}}
 <small>Download data as: <a href="data/06London.csv" download="06london.csv"><i class="fas fa-file-csv"></i></a></small>
@@ -88,5 +88,6 @@ The graph illustrates company registrations in April 2021 relative to 2019 by in
 - 'Wholesale, and Retail Trade', 'Manufacturing', ‘Activities of households as employers; undifferentiated goods-and services-producing activities’, and ‘Financial and insurance activities’ sectors show the greatest increase in firm creation in April 2021. 
 - Compared to April 2019, in April 2021 there is more than a 200% increase in business creation for ‘Retail trade not in stores, stalls or markets’, ‘Retail sale of food, beverages and tobacco in specialised stores’, ‘Agents involved in the sale of furniture, household goods, hardware and ironmongery’, and ‘Retail sale of sporting equipment in specialised stores’. 
 - There are lower registrations relative to March 2019 in Service activities incidental to land transportation’, ‘Manufacture of metal structures and parts of structures’, ‘Combined facilities support activities’ and ‘Washing and (dry-)cleaning of textile and fur products’. 
+- The spike in week 16 coincides with the re-openning of pubs, gyms, restaurants and non-essential shops. 
 
 
