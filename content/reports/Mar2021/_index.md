@@ -89,4 +89,4 @@ The graph illustrates company registrations in February 2021 relative to 2019 by
 - There are lower registrations relative to February 2019 in 'Taxi Operations', 'Tour Operator activities' and 'Packaging activities'. 
 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/apr2021/Mar2021.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/mar2021/Mar2021.pdf" cta_new_tab="true" >}}
