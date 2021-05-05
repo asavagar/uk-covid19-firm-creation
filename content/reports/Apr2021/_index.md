@@ -89,3 +89,6 @@ The graph illustrates company registrations in March 2021 relative to 2019 by in
 - The increasing business creation in food-related retail sales and wholesale sectors persists. There is more than a 200% increase in the sectors of ‘Wholesale of food, beverages and tobacco’, 'Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores' and ‘Manufacture of bakery and farinaceous products' in March 2021 to March 2019.
 - There are lower registrations relative to March 2019 in 'Packaging activities', ‘Warehousing and storage’, ‘Specialist medical practice activities’. 
 
+
+{{< cta cta_text="PDF report" cta_link="/reports/apr2021/Apr2021.pdf"  cta_new_tab="true" >}}
+
