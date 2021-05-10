@@ -36,7 +36,7 @@ links:
   - icon: link
     icon_pack: fas
     name: Link
-    url: https://www.niesr.ac.uk/publications/trough-boom-uk-firm-creation-during-covid-19-pandemic'
+    url: https://www.niesr.ac.uk/publications/trough-boom-uk-firm-creation-during-covid-19-pandemic
   - icon: file-pdf
     icon_pack: far
     name: PDF
