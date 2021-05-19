@@ -29,6 +29,11 @@ The chart below shows the density of daily company registrations in the UK for 2
 
 {{< chart data="density" >}}
 
+## Non-UK Country of Origin Registrations
+The chart below shows the non-UK Country of Origin Registrations in Basic Companies Data since January 2019.
+
+{{< chart data="non-UK" >}}
+
 
 ## Outliers
 ### Week 53 2020
