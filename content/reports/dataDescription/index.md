@@ -30,9 +30,9 @@ The chart below shows the density of daily company registrations in the UK for 2
 {{< chart data="density" >}}
 
 ## Country of Origin Registrations
-The chart below shows the UK and non-UK Country of Origin Registrations in Basic Companies Data since January 2019. For the share of non-UK Country of Origin Registrations de-select the UK.
+The chart below shows the UK and non-UK Country of Origin Registrations in Basic Companies Data since January 2019. 
 
-{{< chart data="nonUK" >}}
+{{< chart data="sunburst" >}}
 
 
 ## Outliers
