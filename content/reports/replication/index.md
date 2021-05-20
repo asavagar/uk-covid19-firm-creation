@@ -17,7 +17,7 @@ highlight_style: "nord"
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/generate" data-icon="octicon-repo-template" aria-label="Use this template ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Use this template</a>
+<a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/generate" data-icon="octicon-repo-template" aria-label="Use this template ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">ReplicateMe</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/subscription" data-icon="octicon-eye" aria-label="Watch ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Watch</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo" data-icon="octicon-star" aria-label="Star ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Star</a>
 <a class="github-button" href="https://github.com/ygalanak/UKCovid19FirmCreation_replicRepo/fork" data-icon="octicon-repo-forked" aria-label="Fork ygalanak/UKCovid19FirmCreation_replicRepo on GitHub">Fork</a>
