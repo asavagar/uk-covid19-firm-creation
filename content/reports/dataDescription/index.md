@@ -36,6 +36,7 @@ The chart below shows the density of daily company registrations in the UK for 2
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ygalanak/CH-CountryOfOrigin/fork" aria-label="Fork ygalanak/CH-CountryOfOrigin on GitHub">ReplicateMe</a>
+
 The chart below shows the UK and non-UK Country of Origin Registrations in Basic Companies Data since January 2019. 
 
 {{< chart data="sunburst" >}}
