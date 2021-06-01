@@ -90,4 +90,4 @@ The graph illustrates company registrations in May 2021 relative to 2019 by indu
 - There are lower registrations relative to May 2019 in 'Warehousing and storage’, ‘Activities of head offices’, ‘Service activities incidental to land transportation’ and ‘Legal activities’. 
 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/may2021/June2021.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/jun2021/June2021.pdf" cta_new_tab="true" >}}
