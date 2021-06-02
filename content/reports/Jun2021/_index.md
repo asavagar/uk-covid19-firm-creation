@@ -54,8 +54,8 @@ Company registrations persistently exceed their 2019 and 2020 levels. This effec
 ### May
 Daily average company registrations in May 2021 are 13.5% higher than May2020 and 41% higher than May 2019.
 
-{{< chart data="april" >}}
-<small>Download data as: <a href="data/03statsApr.csv" download="04march.csv"><i class="fas fa-file-csv"></i></a></small>
+{{< chart data="may" >}}
+<small>Download data as: <a href="data/03statsMay.csv" download="04march.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
