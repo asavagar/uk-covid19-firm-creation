@@ -24,4 +24,3 @@ The chart below shows the rolling average of firm creation since January 2019. S
 {{< chart data="rollAv" >}}
 
 Read the report [here]({{< ref "/reports/jul2021/_index.md" >}}).
-Download the snapshot report, [here]({{< ref "/reports/jul2021/July2021.pdf" >}}).
