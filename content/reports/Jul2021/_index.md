@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report July 2021
 linktitle: July 2021
 toc: true
