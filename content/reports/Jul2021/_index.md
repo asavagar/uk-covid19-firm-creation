@@ -90,8 +90,9 @@ The graph illustrates company registrations in June 2021 relative to 2019 by ind
 
 - June 2021 retains higher firm creation in most sectors than June 2019.
 - 'Wholesale, and Retail Trade', 'Manufacturing', and ‘Financial and insurance activities’ sectors keep showing the greatest increase in firm creation in June 2021. 
-- Compared to June 2019, in June 2021 there is more than a 300% increase in business creation for ‘Removal services’, ‘Wholesale on a fee or contract basis’^[It regards the classes of ‘Agents involved in the sale of furniture, household goods, hardware and ironmongery’ and ‘Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods’.], ‘Retail sale via mail order houses or via Internet’ and ‘Wholesale of electrical household appliances’. 
+- Compared to June 2019, in June 2021 there is more than a 300% increase in business creation for ‘Removal services’, ‘Wholesale on a fee or contract basis’[^1], ‘Retail sale via mail order houses or via Internet’ and ‘Wholesale of electrical household appliances’. 
 - There are lower registrations relative to June 2019 in ‘Packaging activities’, ‘Warehousing and storage’ and ‘Service activities incidental to land transportation’. 
 
+[^1]: It regards the classes of ‘Agents involved in the sale of furniture, household goods, hardware and ironmongery’ and ‘Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods’.
 
 {{< cta cta_text="Snapshot" cta_link="/reports/jul2021/July2021.pdf" cta_new_tab="true" >}}
