@@ -19,6 +19,7 @@ content:
   - Principal Investigator
   - Co-Investigators
   - Postdoctoral Research Associate
+  - Research Assistants
   - Researchers
   - Grad Students
   - Administration
