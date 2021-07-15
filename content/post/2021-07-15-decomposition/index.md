@@ -13,7 +13,7 @@ Our monthly reports, the last few months, show that Wholesale and Retail sector 
 
 The following graph shows the decomposition of the aggregated company registrations by month and 4-digit Class.
 
-{{< chart data="monthly" >}}
+{{< chart data="" >}}
 
 <small>Download daily data as: <a href="data/daily.csv" download="Decomposition_daily.csv"><i class="fas fa-file-csv"></i></a>
   <br>
