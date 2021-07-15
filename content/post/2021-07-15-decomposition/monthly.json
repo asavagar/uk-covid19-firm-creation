@@ -1,13 +1,13 @@
 {
   "visdat": {
-    "1e283a20354d": [
+    "45541c02747": [
       "function () ",
       "plotlyVisDat"
     ]
   },
-  "cur_data": "1e283a20354d",
+  "cur_data": "45541c02747",
   "attrs": {
-    "1e283a20354d": {
+    "45541c02747": {
       "x": {},
       "y": {},
       "color": {},
@@ -40,9 +40,13 @@
     },
     "barmode": "stack",
     "legend": {
+      "orientation": "h",
       "font": {
-        "size": 10
-      }
+        "size": 7
+      },
+      "xanchor": "center",
+      "x": 0.5,
+      "yanchor": -0.7
     },
     "xaxis": {
       "domain": [
