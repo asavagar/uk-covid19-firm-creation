@@ -1,14 +1,14 @@
 ﻿---
 # Display name
-title: Mason Veilleux 
+title: Jonathan Hobbs 
 
 # Username (this should match the folder name)
 #authors:
-#- Mason Veilleux 
+#- Jonathan Hobbs 
 
 # Is this the primary user of the site?
 superuser: false
-weight: 5
+weight: 6
 
 # Role/position
 role: Research Assistant
@@ -31,7 +31,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mv308@kent.ac.uk'
+  link: 'mailto:jph37@kent.ac.uk'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -40,7 +40,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mv308@kent.ac.uk"
+email: "jph37@kent.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -49,6 +49,6 @@ user_groups:
 
 ---
 
-Mason Veilleux is a master's student at the University of Kent's School of Economics. He was awarded a BA and MA from the University of Oklahoma's College of International and Area studies. While there, he studied Latin American history, international political economy, and political science. His interests are centered on industrial organization and structural transformation of middle- and high-income countries. 
+Jonathan Hobbs is an undergraduate Mathematics student at the University of Kent. 
+Through the University of Kent’s [Summer Vacation Research Competition]( https://www.kent.ac.uk/graduate-researcher-college/news/1973/undergraduate-summer-vacation-research-competition-winners-announced), he is working with [Yannis Galanakis](https://www.yannisgalanakis.com) to investigate the effects of  ‘Eat Out to Help Out’ scheme on business creation and employment.
 
-On this project, Mason is researching the effects of UK firm creation across districts and industries in terms of market power, employment, and its autoregressive qualities.
