@@ -8,7 +8,7 @@ title: Anthony Savagar
 
 # Is this the primary user of the site?
 superuser: false
-#weight: 4
+weight: 1
 
 # Role/position
 role: Senior Lecturer in Economics
