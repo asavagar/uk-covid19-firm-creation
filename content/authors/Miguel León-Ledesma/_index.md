@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 title: Miguel León-Ledesma
 
