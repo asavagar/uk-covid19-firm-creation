@@ -2,7 +2,7 @@
 title: Who is the winner of Wholesale and Retail? 
 date: 2021-07-15
 author: 
- - Yannis Galanakis
+ - admin
 ---
 
 Online retailers increasingly register since the first lockdown.   
