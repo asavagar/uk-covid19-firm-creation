@@ -7,7 +7,7 @@ title: Anthony Savagar
 #- Anthony Savagar
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 #weight: 4
 
 # Role/position
