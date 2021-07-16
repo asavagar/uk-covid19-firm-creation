@@ -8,7 +8,7 @@ authors:
 
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 weight: 3
 
 # Role/position
