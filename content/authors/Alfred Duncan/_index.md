@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 title: Alfred Duncan
 
@@ -8,7 +8,7 @@ title: Alfred Duncan
 
 # Is this the primary user of the site?
 superuser: false
-weight: 1
+#weight: 1
 
 # Role/position
 role: Lecturer in Economics
