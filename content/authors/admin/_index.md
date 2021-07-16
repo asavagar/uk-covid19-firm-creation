@@ -2,9 +2,12 @@
 # Display name
 title: Yannis Galanakis
 
+author:
+- admin
+
 # Is this the primary user of the site?
 superuser: true
-weight: 2
+weight: 4
 
 # Role/position
 role: Postdoctoral Research Associate
