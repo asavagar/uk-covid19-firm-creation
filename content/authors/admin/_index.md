@@ -4,7 +4,7 @@ title: Yannis Galanakis
 
 # Is this the primary user of the site?
 superuser: true
-weight: 2
+#weight: 2
 
 # Role/position
 role: Postdoctoral Research Associate
