@@ -9,7 +9,7 @@ Online retailers increasingly register since the first lockdown.
 
 <!--more-->
 
-Our monthly reports, the last few months, show that Wholesale and Retail sector is one of the champions in terms of daily company registrations. Which 4-digit Class drives this trend, though? To answer this question, we perform a decomposition.
+Our monthly reports, the last few months, show that Wholesale and Retail sector is one of the champions in terms of daily company registrations. Which 4-digit SIC codes drive this trend, though? To answer this question, we perform a decomposition.
 
 The following graph shows the decomposition of the aggregated company registrations by month and 4-digit Class. The most noticeable changes come from online retailers, retailers in non-specialised shops, and food retailers. 
 
