@@ -22,8 +22,8 @@ bio: My research interests include Labour and Applied Economics with a focus on 
 
 interests:
 - Labour Economics
-- Economics of Education
 - Applied Economics
+- Data visualisation
 
 education:
   courses:
