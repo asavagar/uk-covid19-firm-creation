@@ -2,7 +2,7 @@
 title: Reports
 view: 4
 # layout: docs
-type: docs
+type: book
 toc: false
 
 image:
