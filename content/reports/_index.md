@@ -1,7 +1,7 @@
 ---
 title: Reports
 view: 4
-layout: docs
+# layout: docs
 type: docs
 toc: false
 
