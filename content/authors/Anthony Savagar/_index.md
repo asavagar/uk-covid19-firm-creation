@@ -58,7 +58,6 @@ email: "a.savagar@kent.ac.uk"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
-
 ---
 
 [Anthony Savagar](www.asavagar.com)’s research covers macroeconomics and industrial organisation. His research looks at how firm behaviour and industrial organisation aggregate to affect macroeconomic dynamics.
