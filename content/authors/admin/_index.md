@@ -2,8 +2,8 @@
 # Display name
 title: Yannis Galanakis
 
-#author:
-#- admin
+author:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,7 +53,7 @@ social:
   link: https://github.com/ygalanak
 - icon: globe
   icon_pack: fas
-  link: https://ygalanak.github.io/ 
+  link: https://www.yannisgalanakis.com/
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/yannisgalanakis/
