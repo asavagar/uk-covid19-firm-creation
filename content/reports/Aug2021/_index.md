@@ -28,7 +28,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 
 ## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
 ### Daily 
-The chart below shows the daily company incorporations in the UK since January 2020. The lockdown periods correspond to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline). [Lockdown-III eases further]( https://www.bbc.co.uk/news/uk-56641596) on April 12, 2021 (pubs, restaurants, hairdressers, gyms and non-essential shops can reopen). Since July 19th, restrictions have been eased further in England.
+The chart below shows the daily company incorporations in the UK since January 2020. The lockdown periods correspond to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline). Since July 19th, restrictions have been eased further in England.
 
 {{< chart data="dailyagg" >}}
 <small>Download histogram data as: <a href="data/01histogram.csv" download="01histogram.csv"><i class="fas fa-file-csv"></i></a>
@@ -93,4 +93,4 @@ The graph illustrates company registrations in July 2021 relative to 2019 by ind
 - Compared to July 2019, in July 2021 there is more than a 300% increase in business creation for ‘Repair of communication equipment’, 'Demolition' and 'Raising of other animals' sectors. 
 - There are lower registrations relative to June 2019 in ‘Warehousing and storage’, 'Construction of railways and underground railways', ‘Service activities incidental to land transportation’ and ' Veterinary activities'. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/jul2021/July2021.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/aug2021/Aug2021.pdf" cta_new_tab="true" >}}
