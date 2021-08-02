@@ -58,7 +58,7 @@ Company registrations persistently exceed their 2019levels. This effect is stron
 ### June
 Daily average company registrations in June 2021 are 18% lower than June 2020, but 54.22% higher than June 2019.
 
-{{< chart data="may" >}}
+{{< chart data="june" >}}
 <small>Download data as: <a href="data/03statsJune.csv" download="04may.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
