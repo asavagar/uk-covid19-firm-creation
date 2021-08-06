@@ -4,6 +4,7 @@ view: 4
 # layout: docs
 type: book
 toc: false
+draft: true
 
 image:
   placement: 1

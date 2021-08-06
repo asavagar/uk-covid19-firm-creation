@@ -1,13 +1,13 @@
 ---
 title: Specialised reports
 view: 4 
-type: book
+#type: book
 layout: doc
-toc: true
+toc: false
 
 linktitle: 
  menu:
-  reports:
+#  reports:
    name: 
    weight: 2
 
