@@ -8,11 +8,6 @@
   url = "/"
   weight = 5
 
-#[[main]]
-#  name = "Home"
-#  url = "/"
-#  weight = 10
-
 [[main]]
   name = "News"
   url = "post"
@@ -22,6 +17,11 @@
   name = "Team"
   url = "people"
   weight = 59
+
+[[main]] 
+  name = "Data"
+  url = "data/"
+  weight = 34
 
 [[main]]
   identifier = "reports"
