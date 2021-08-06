@@ -21,4 +21,5 @@ weight: 1
 
 
 
+{{< figure src="featured.jpg">}}
 
