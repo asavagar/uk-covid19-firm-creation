@@ -4,6 +4,7 @@ image:
   caption: "Photo by Artur Tumasjan on [Unsplash](https://unsplash.com/s/photos/report-uk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   focal_point: "Center"
   preview_only: false
+
 title: Monthly reports
 linktitle: 
  menu:
@@ -11,7 +12,6 @@ linktitle:
    name: 
    weight: 1
 
-summary: Monthly reports
 toc: false
 type: book
 weight: 1
