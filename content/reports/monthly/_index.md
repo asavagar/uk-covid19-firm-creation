@@ -7,7 +7,7 @@ image:
 title: Monthly reports
 linktitle: 
  menu:
-  reports:
+#  reports:
    name: 
    weight: 1
 

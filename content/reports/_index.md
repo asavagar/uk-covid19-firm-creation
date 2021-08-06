@@ -15,9 +15,3 @@ image:
 ---
 
 
-<i class="fas fa-info-circle"></i> <span class="ml-1">Monthly reports and data description are available in the sidebar.</span>
-
-
-
-{{< figure src="featured.jpg">}}
-
