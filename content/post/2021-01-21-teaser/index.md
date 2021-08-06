@@ -12,4 +12,4 @@ Will lockdown-III and Brexit change business creation?
 {{< video src="teaser_Jan2021_small.mp4" controls="yes" >}}
 
 
-Find out about the latest report [here]({{< ref "/reports/_index.md" >}}).
+Find out about the latest report [here]({{< ref "/reports/monthly/_index.md" >}}).

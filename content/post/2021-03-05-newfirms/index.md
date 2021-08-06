@@ -19,4 +19,4 @@ author:
 
 We analyse Companies House “basic company data” up to the February 28th, 2021. New company registrations remain strong throughout the third lockdown. There is a change in the type of new businesses set up. There are particularly strong increases in online retail businesses, food and drink, sports equipment production and pet care.
 
-Read the report [here]({{< ref "/reports/mar2021/_index.md" >}}).
+Read the report [here]({{< ref "/reports/monthly/mar2021/_index.md" >}}).

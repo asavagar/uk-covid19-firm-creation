@@ -18,4 +18,4 @@ author:
 
 We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the April 30th, 2021. We note a similar strength of new company registrations. Lockdown-III period has not altered the business setup observed the last 2 months. 
 
-Read the report [here]({{< ref "/reports/may2021/_index.md" >}}).
+Read the report [here]({{< ref "/reports/monthly/may2021/_index.md" >}}).

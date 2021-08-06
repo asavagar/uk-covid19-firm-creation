@@ -13,4 +13,4 @@ Today marks the first anniversary of the UK going into national lockdown. Many c
 {{< youtube JZ9_p6-IQWY >}}
 
 
-Read our latest report report [here]({{< ref "/reports/mar2021/_index.md" >}}).
+Read our latest report report [here]({{< ref "/reports/monthly/mar2021/_index.md" >}}).

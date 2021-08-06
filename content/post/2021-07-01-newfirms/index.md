@@ -1,4 +1,4 @@
----
+﻿---
 title: 21,475 additional companies were registered in June 2021 
 date: 2021-07-01
 author: 
@@ -23,4 +23,4 @@ The chart below shows the rolling average of firm creation since January 2019. S
 
 {{< chart data="rollAv" >}}
 
-Read the report [here]({{< ref "/reports/jul2021/_index.md" >}}).
+Read the report [here]({{< ref "/reports/monthly/jul2021/_index.md" >}}).
