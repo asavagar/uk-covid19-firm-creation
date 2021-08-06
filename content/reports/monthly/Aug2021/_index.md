@@ -1,4 +1,4 @@
----
+﻿---
 title: Report August 2021
 linktitle: August 2021
 toc: true
@@ -6,7 +6,7 @@ type: book
 date: "2021-08-02T00:00:00+01:00"
 draft: false
 menu:
-  reports:
+  monthly:
 #    parent: Reports 2021
     weight: 9
 

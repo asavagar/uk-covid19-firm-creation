@@ -26,18 +26,25 @@
 [[main]]
   identifier = "reports"
   name = "Reports"
-  url = "reports/"
+#  url = "reports/"
   weight = 35
+
+[[main]]
+  name = "Monthly reports"
+  parent = "reports"
+  url = "reports/monthly/"
+  weight = 36
+
+[[main]]
+  name = "Specialised reports"
+  parent = "reports"
+  url = "reports/specialised/"
+  weight = 37
 
 #[[main]]
 #  name = "Dashboard"
 #  url = "https://asavagar.shinyapps.io/UKFirmCreation/"
 #  weight = 36
-
-#[[main]]
-#  name = "Events"
-#  url = "event"
-#  weight = 40
 
 [[main]]
   name = "Publications"
