@@ -1,6 +1,6 @@
 ---
   header:
- 	caption: ""
+  caption: ""
 image: ""
 layout: docs
 title: Monthly reports
