@@ -34,7 +34,7 @@ The charts below show the daily company incorporations in the UK for 2020.
 
 The following table summarises the median and the mean of daily new registrations in different periods in 2020. We notice a moderate shock during lockdown-II. The daily median goes from 3057 incorporations during lockdown-II to 2675 incorporations per day after lockdown-II, but before the New Tier-4 Scheme. This is a fall in business creation of 1.9%.
 London, South East and East of England move to tier 4 on December 20th, under the [new Tier scheme](https://www.bbc.co.uk/news/uk-55379220). From the 20th December to 31st December, firm creation is significantly higher than over
-the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median business creation shrinks by 7.5% and 20.8% relative to the period during the first and second lockdown, respectively. Most of the business creation occurs on December 30th and 31st and concerns the manufacturing sector. This may be related to Brexit and more specifically to the [EU-UK Trade and Cooperation Agreement (TCA)]({{< relref "./datadescription/#eu-uk-trade-and-cooperation-agreement-tca" >}}).
+the same 12 days in 2019 (regardless of the EU-UK Trade deal). Daily median business creation shrinks by 7.5% and 20.8% relative to the period during the first and second lockdown, respectively. Most of the business creation occurs on December 30th and 31st and concerns the manufacturing sector. This may be related to Brexit and more specifically to the [EU-UK Trade and Cooperation Agreement (TCA)]().
 
 **Table:** Median and Mean of new daily companies Incorporations in 2020
 
@@ -76,7 +76,7 @@ The following graph illustrates the company registrations in 2020 by industrial 
 In December 2020, all sectors observe higher firm creation than December 2019. Mining and quarrying, arts, entertainment and recreation sectors present the smallest change relative to their 2019 levels. Manufacturing, wholesale, and retail trade sectors present the greatest increase in firm creation. Accommodation and food services observe a significant drop after the introduction of Tier-4 scheme.
 
 {{% callout note %}}
-Read more about the [EU-UK Trade and Cooperation Agreement (TCA)]({{< relref "./datadescription/#eu-uk-trade-and-cooperation-agreement-tca" >}}).
+Read more about the [EU-UK Trade and Cooperation Agreement (TCA)]().
 {{% /callout %}}
 
 
