@@ -38,7 +38,7 @@ Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statisti
 - Business creation decreased by 1.18% between July and August 2021. 
 - 19,104 additional companies were registered in August 2021 relative to August 2019. 
 - 7,998 less company registrations are noticed in August 2021 relative to August 2020.
-- The median daily registrations were 47.3% higher in July 2021 than July 2019. 
+- The median daily registrations were 45.4% higher in August 2021 than August 2019. 
 
 The chart below shows the rolling average of firm creation since January 2019. Shaded areas correspond to lockdown periods as shown our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
 
