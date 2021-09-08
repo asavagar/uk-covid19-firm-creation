@@ -1,5 +1,5 @@
 ﻿---
-title: 13,687 additional companies were registered in June 2021 
+title: 13,687 additional companies were registered in July 2021 
 date: 2021-08-02
 author: 
  - Yannis Galanakis
