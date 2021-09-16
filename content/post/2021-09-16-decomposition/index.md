@@ -9,7 +9,7 @@ Do we have a shortage of Transportation and Storage businesses?
 
 <!--more-->
 
-Transportation and Storage sector is an upcoming "champion", according to our latest report earlier this September. We observe an increase in the daily new registrations across the sector. If we decompose the business registrations on a 4-digit level, we note that freight transport has increased significantly the last two months. In particular, we note a big increase in firm created in "Freight transport by road".
+Transportation and Storage sector is an upcoming "champion", according to our latest report earlier this September. We observe an increase in the daily new registrations across the sector. If we decompose the business registrations on a 4-digit level, we note that freight transport has increased significantly the last two months. In particular, we note a big increase in firms created in "Freight transport by road".
 
 The following interactive chart shows how many companies are registered monthly by 4-digit class in Transportation and Storage.
 
