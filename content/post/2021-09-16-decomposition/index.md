@@ -1,5 +1,5 @@
 ---
-title: Transportation and storage: A decomposition  
+title: Decomposing the 'Transportation and Storage' sector  
 date: 2021-09-16
 author: 
  - Yannis Galanakis
