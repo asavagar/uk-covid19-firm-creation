@@ -21,6 +21,6 @@ advanced:
  
 ---
 <div align="center">
-<iframe src="https://tekja.io/KENT_UNI/v1_20210915/" title="7-day RA"
+<iframe src="https://tekja.io/KENT_UNI/v1_20210915/" title=""
 frameborder="0" style="overflow:hidden;height:700px;width:150%" height="700px" width="150%"></iframe>
 </div>
