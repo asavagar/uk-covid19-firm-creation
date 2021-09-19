@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report September 2021
 linktitle: September 2021
 toc: true
