@@ -22,5 +22,5 @@ advanced:
 ---
 
 <iframe src="https://tekja.io/KENT_UNI/v1_20210915/" title=""
-style="position: relative; height: 100%; width: 100%;"></iframe>
+style="position: relative; width:100%;height:550px;"></iframe>
 
