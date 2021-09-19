@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 11  # Order that this section will appear.
-title: "7-day rolling average of business creation in the UK"
+title: "Firm Creation Snapshot"
 subtitle: ""
 hero_media: 
 design:
