@@ -16,11 +16,11 @@ advanced:
   css_style:
   css_class:
 
-cta_note:
-  label: Funded by ESRC <br> Based at the University of Kent 
+
 
  
 ---
 
-<iframe src="https://tekja.io/KENT_UNI/v1_20210915/" title=""></iframe>
+<iframe src="https://tekja.io/KENT_UNI/v1_20210915/" title=""
+style="position: relative; height: 100%; width: 100%;"></iframe>
 
