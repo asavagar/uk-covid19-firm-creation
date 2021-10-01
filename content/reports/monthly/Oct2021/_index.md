@@ -56,8 +56,8 @@ Company registrations persistently exceed their 2019 levels. This effect is stro
 ### September
 Daily average company registrations in September 2021 are 9.56% lower than September 2020, but 52% higher than August 2019 among the active firms.
 
-{{< chart data="august" >}}
-<small>Download data as: <a href="data/03statsAugust.csv" download="04may.csv"><i class="fas fa-file-csv"></i></a></small>
+{{< chart data="september" >}}
+<small>Download data as: <a href="data/03statsSeptember.csv" download="04may.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
