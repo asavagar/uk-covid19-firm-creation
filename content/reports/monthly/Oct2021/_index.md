@@ -92,4 +92,4 @@ The graph illustrates company registrations in September 2021 relative to 2019 b
 - Compared to September 2019, in September 2021 there is more than a 300% increase in business creation for ‘Event catering activities’, ‘General public administration activities’, 'Retail sale of music and video recordings in specialised stores' and ‘Wholesale of other intermediate products' sectors. 
 - There are lower registrations relative to August 2019 in 'Activities of business and employers membership organisations', ‘Tour operator activities’ and 'Construction of railways and underground railways'. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/sept2021/October2021.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/oct2021/October2021.pdf" cta_new_tab="true" >}}
