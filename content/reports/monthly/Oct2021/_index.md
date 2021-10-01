@@ -37,7 +37,7 @@ Download statistics as: <a href="data/02statsLockdown.xlsx" download="02statisti
 - Business creation increased by 9.81% between August and September 2021. 
 - 22,101 additional companies were registered in September 2021 relative to September 2019. 
 - 6,763 less company registrations are noticed in September 2021 relative to September 2020.
-- The median daily registrations were 45.4% higher in August 2021 than August 2019. 
+- The median daily registrations were 48.3% higher in September 2021 than September 2019. 
 
 The chart below shows the rolling average of firm creation since January 2019. Shaded areas correspond to lockdown periods as shown our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
 
