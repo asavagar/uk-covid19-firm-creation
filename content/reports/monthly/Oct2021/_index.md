@@ -62,7 +62,7 @@ Daily average company registrations in September 2021 are 9.56% lower than Septe
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
 ### Postcode Area
-The map shows the average percentage change in new registrations in August 2021 compared to August 2019.  
+The map shows the average percentage change in new registrations in September 2021 compared to September 2019.  
 
 <iframe src="mapOct2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
