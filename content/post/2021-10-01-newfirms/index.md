@@ -1,4 +1,4 @@
-﻿---
+---
 title: 22,101 additional companies were registered in September 2021 
 date: 2021-10-01
 author: 
