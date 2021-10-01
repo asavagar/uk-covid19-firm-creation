@@ -94,4 +94,4 @@ The graph illustrates company registrations in August 2021 relative to 2019 by i
 - Compared to August 2019, in August 2021 there is more than a 300% increase in business creation for ‘Repair of communication equipment’, ‘Water collection, treatment and supply’, 'Camping grounds, recreational vehicle parks and trailer parks' and ‘Event catering activities' sectors. 
 - There are lower registrations relative to August 2019 in 'Construction of railways and underground railways', ‘Wholesale of other intermediate products’ and 'Activities of head offices'. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/sept2021/Sept2021.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/monthly/sept2021/Sept2021.pdf" cta_new_tab="true" >}}
