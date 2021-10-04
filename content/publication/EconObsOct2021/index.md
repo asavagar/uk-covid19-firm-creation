@@ -1,5 +1,5 @@
 ---
-title: "How is coronavirus affecting the creation of new firms and new jobs?"
+title: "What has been happening to firm creation by UK region and sector?"
 authors:
 - Yannis Galanakis
 - Anthony Savagar
