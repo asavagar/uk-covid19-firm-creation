@@ -13,5 +13,7 @@ title: Funder
 subtitle:
 
 ---
-{{< figure src="esrcLogo.png" >}}
 
+<center>
+{{< figure src="esrcLogo.png" >}}
+  </center>
