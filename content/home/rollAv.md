@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 11
 
-title: 7-day rolling average of business creation in the UK 
+title: Business creation snapshot in the UK 
 subtitle:
 
 ---
