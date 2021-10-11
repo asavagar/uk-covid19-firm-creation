@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 69
+weight: 11
 
 title: 7-day rolling average of business creation in the UK 
 subtitle:
