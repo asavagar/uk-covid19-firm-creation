@@ -40,4 +40,5 @@ The ability of larger districts to sustain high levels of variety and new firms 
 ## Conclusion and Implications 
 A higher geographic concentration in new firms occurs in places that have both higher variety and output. Since variety is a central element of growth, the interest does not lie only on the number of firms, but also on their variety. 
 
-## Data Regional Gross Domestic Product: Local Authorities.1998-2019. [ONS](https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities). 
+## Data 
+Regional Gross Domestic Product: Local Authorities.1998-2019. [ONS](https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities). 
