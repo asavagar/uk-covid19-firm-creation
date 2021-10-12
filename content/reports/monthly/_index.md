@@ -12,6 +12,7 @@ linktitle:
    name: 
    weight: 1
 
+date: "2021-10-01T00:00:00+01:00"
 toc: false
 type: book
 weight: 1
