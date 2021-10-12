@@ -1,8 +1,8 @@
 ---
 title: Specialised reports
 view: 4 
-#type: book
-layout: doc
+type: book
+#layout: doc
 toc: false
 
 linktitle: 
