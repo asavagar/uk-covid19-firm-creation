@@ -2,7 +2,7 @@
 title: 
 view: 4
 # layout: docs
-type: book
+type: page
 toc: false 
 
 ---
