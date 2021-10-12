@@ -1,5 +1,5 @@
 ---
-title: 
+title: Reports
 view: 4
 # layout: docs
 type: page
