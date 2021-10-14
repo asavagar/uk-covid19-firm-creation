@@ -12,6 +12,9 @@ weight: 11
 title: Business creation snapshot in the UK 
 subtitle:
 
+[design.background]
+  color = "#4c566a"
+
 ---
 
 <center>
