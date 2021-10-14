@@ -1,7 +1,7 @@
 ---
 title: Firm creation and productivity during COVID-19
 linktitle: Firm creation and productivity
-author:
+authors:
  - admin
  - Anthony Savagar
 toc: true
