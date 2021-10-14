@@ -24,7 +24,7 @@ menu:
 
 #    parent: Reports 2021
     weight: 1
-url_pdf: "productivity_GalanakisSavagar2021.pdf"
+url_pdf: "reports/specialised/productivity/productivity_GalanakisSavagar2021.pdf"
   
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
