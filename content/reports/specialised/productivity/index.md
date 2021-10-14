@@ -33,7 +33,7 @@ We show that during the COVID-19 pandemic, firm start-up growth is largest in hi
 
  
 
-This positive relationship between firm creation and sector productivity adds to evidence of a positive reallocative effect on productivity from the COVID-19 pandemic. This is consistent with @AndrewsCharltonMoore2021_OECD who find job reallocation towards high-productivity sectors during the pandemic, and @BloomBunnMizenSmietankaThwaites2020_NBER who find a positive 'between-firm' effect in a standard productivity decomposition. However, the reallocation channel that we highlight is only one component of aggregate productivity growth. Overall, @BloomBunnMizenSmietankaThwaites2020_NBER show that the pandemic has strong negative effects on productivity in the UK because it decreases the productivity of existing firms. 
+This positive relationship between firm creation and sector productivity adds to evidence of a positive reallocative effect on productivity from the COVID-19 pandemic. This is consistent with {{< cite "AndrewsCharltonMoore2021_OECD" >}} who find job reallocation towards high-productivity sectors during the pandemic, and @BloomBunnMizenSmietankaThwaites2020_NBER who find a positive 'between-firm' effect in a standard productivity decomposition. However, the reallocation channel that we highlight is only one component of aggregate productivity growth. Overall, @BloomBunnMizenSmietankaThwaites2020_NBER show that the pandemic has strong negative effects on productivity in the UK because it decreases the productivity of existing firms. 
 
  
 
