@@ -1,0 +1,591 @@
+{
+  "visdat": {
+    "6743eb33e36": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "6743eb33e36",
+  "attrs": {
+    "6743eb33e36": {
+      "x": {},
+      "y": {},
+      "mode": "markers",
+      "text": {},
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter",
+      "hoverinfo": "text",
+      "inherit": true
+    },
+    "6743eb33e36.1": {
+      "x": {},
+      "y": {},
+      "mode": "text",
+      "text": {},
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter",
+      "textposition": "top right",
+      "inherit": true
+    },
+    "6743eb33e36.2": {
+      "x": {},
+      "y": [
+        39.949178477943,
+        51.1067838616248,
+        41.0779106575648,
+        48.3946827326847,
+        19.0406728767684,
+        46.8230610694895,
+        63.5413438308653,
+        50.6564627181521,
+        37.3642051269275,
+        55.8794489043637,
+        36.7399782399342,
+        67.328591143056,
+        33.0037472566492,
+        50.2556213263491,
+        51.4075575328461,
+        30.5546985494752,
+        55.625838068998,
+        33.4450318151312,
+        29.6315210266873,
+        29.2130432831412,
+        35.4010274923108,
+        25.5819037015332,
+        33.3303715228252,
+        37.2756483091007,
+        35.9278860740996,
+        25.6822531873657,
+        27.3381430740551,
+        31.8321325007018,
+        44.9919656910104,
+        25.2492899483461
+      ],
+      "mode": "lines",
+      "text": {},
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "color": "lightcoral",
+      "name": "regression line",
+      "inherit": true
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Registrations vs. Productivity<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Average ratio of registrations since 23.03.2020",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Y/h 2020Q4",
+      "showgrid": false
+    },
+    "annotations": [
+      {
+        "text": "y/h = -12.58+25.48(reg2020/reg2019)",
+        "x": 1.3,
+        "y": 110,
+        "showarrow": false
+      }
+    ],
+    "showlegend": false,
+    "hovermode": "closest"
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        2.06152424961441,
+        2.49941384699276,
+        2.10582229231141,
+        2.39297515960758,
+        1.24095238095238,
+        2.33129554703281,
+        2.9874185999186,
+        2.48174061537851,
+        1.96007479868066,
+        2.68672109636395,
+        1.93557649005451,
+        3.13605230255275,
+        1.78894496610978,
+        2.46600925818909,
+        2.51121796241575,
+        1.69282999202109,
+        2.67676792605812,
+        1.80626354935396,
+        1.65659911452891,
+        1.64017560389811,
+        1.88302824304053,
+        1.49766848030504,
+        1.80176360985022,
+        1.95659931196377,
+        1.90370525072466,
+        1.50160678018546,
+        1.56659356998947,
+        1.74296396067696,
+        2.2594326705041,
+        1.48461477411477
+      ],
+      "y": [
+        15.08,
+        37.49,
+        38.49,
+        33.16,
+        29.69,
+        99.35,
+        99.35,
+        26.92,
+        53.29,
+        53.29,
+        38.99,
+        44.04,
+        29.69,
+        92.52,
+        71.19,
+        30.54,
+        28.64,
+        24.55,
+        12.75,
+        46.8,
+        59.7,
+        30.2,
+        22.42,
+        28.18,
+        28.18,
+        28.18,
+        22.06,
+        22.97,
+        22.97,
+        22.97
+      ],
+      "mode": "markers",
+      "text": [
+        "Agriculture, forestry and fishing",
+        "Manufacture of food products, beverages and tobacco",
+        "Manufacture of textiles, wearing apparel and leather products",
+        "Manufacture of wood and paper products, and printing",
+        "Manufacture of coke, and refined petroleum products ",
+        "Manufacture of chemicals and chemical products",
+        "Manufacture Of basic pharmaceutical products and pharmaceutical preparations",
+        "Manufacture of rubber and plastics products, & other non-metallic mineral products",
+        "Manufacturing of computer, electronic & optical products",
+        "Manufacture of electrical equipment",
+        "Manufacture of machinery and equipment n.e.c.",
+        "Manufacture of transport equipment",
+        "Other manufacturing and repair",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Information and communication",
+        "Financial and insurance activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+        "Activities of extraterritorial organisations and bodies"
+      ],
+      "type": "scatter",
+      "hoverinfo": [
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
+      ],
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "line": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        2.06152424961441,
+        2.49941384699276,
+        2.10582229231141,
+        2.39297515960758,
+        1.24095238095238,
+        2.33129554703281,
+        2.9874185999186,
+        2.48174061537851,
+        1.96007479868066,
+        2.68672109636395,
+        1.93557649005451,
+        3.13605230255275,
+        1.78894496610978,
+        2.46600925818909,
+        2.51121796241575,
+        1.69282999202109,
+        2.67676792605812,
+        1.80626354935396,
+        1.65659911452891,
+        1.64017560389811,
+        1.88302824304053,
+        1.49766848030504,
+        1.80176360985022,
+        1.95659931196377,
+        1.90370525072466,
+        1.50160678018546,
+        1.56659356998947,
+        1.74296396067696,
+        2.2594326705041,
+        1.48461477411477
+      ],
+      "y": [
+        15.08,
+        37.49,
+        38.49,
+        33.16,
+        29.69,
+        99.35,
+        99.35,
+        26.92,
+        53.29,
+        53.29,
+        38.99,
+        44.04,
+        29.69,
+        92.52,
+        71.19,
+        30.54,
+        28.64,
+        24.55,
+        12.75,
+        46.8,
+        59.7,
+        30.2,
+        22.42,
+        28.18,
+        28.18,
+        28.18,
+        22.06,
+        22.97,
+        22.97,
+        22.97
+      ],
+      "mode": "text",
+      "text": [
+        "A",
+        "CA",
+        "CB",
+        "CC",
+        "CD",
+        "CE",
+        "CF",
+        "CG",
+        "CI",
+        "CJ",
+        "CK",
+        "CL",
+        "CM",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U"
+      ],
+      "type": "scatter",
+      "textposition": [
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right",
+        "top right"
+      ],
+      "marker": {
+        "color": "rgba(255,127,14,0.5)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "line": {
+        "color": "rgba(255,127,14,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        2.06152424961441,
+        2.49941384699276,
+        2.10582229231141,
+        2.39297515960758,
+        1.24095238095238,
+        2.33129554703281,
+        2.9874185999186,
+        2.48174061537851,
+        1.96007479868066,
+        2.68672109636395,
+        1.93557649005451,
+        3.13605230255275,
+        1.78894496610978,
+        2.46600925818909,
+        2.51121796241575,
+        1.69282999202109,
+        2.67676792605812,
+        1.80626354935396,
+        1.65659911452891,
+        1.64017560389811,
+        1.88302824304053,
+        1.49766848030504,
+        1.80176360985022,
+        1.95659931196377,
+        1.90370525072466,
+        1.50160678018546,
+        1.56659356998947,
+        1.74296396067696,
+        2.2594326705041,
+        1.48461477411477
+      ],
+      "y": [
+        39.949178477943,
+        51.1067838616248,
+        41.0779106575648,
+        48.3946827326847,
+        19.0406728767684,
+        46.8230610694895,
+        63.5413438308653,
+        50.6564627181521,
+        37.3642051269275,
+        55.8794489043637,
+        36.7399782399342,
+        67.328591143056,
+        33.0037472566492,
+        50.2556213263491,
+        51.4075575328461,
+        30.5546985494752,
+        55.625838068998,
+        33.4450318151312,
+        29.6315210266873,
+        29.2130432831412,
+        35.4010274923108,
+        25.5819037015332,
+        33.3303715228252,
+        37.2756483091007,
+        35.9278860740996,
+        25.6822531873657,
+        27.3381430740551,
+        31.8321325007018,
+        44.9919656910104,
+        25.2492899483461
+      ],
+      "mode": "lines",
+      "text": [
+        "A",
+        "CA",
+        "CB",
+        "CC",
+        "CD",
+        "CE",
+        "CF",
+        "CG",
+        "CI",
+        "CJ",
+        "CK",
+        "CL",
+        "CM",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U"
+      ],
+      "name": "regression line",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(252,141,98,0.5)",
+        "line": {
+          "color": "rgba(252,141,98,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "line": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
