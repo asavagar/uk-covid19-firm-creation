@@ -60,3 +60,8 @@ We also repeated the analysis using pre-COVID measures of productivity in case t
 Taking a longer perspective in firm creation, we plot the ratio of registration (registrations relative to the same week in 2019) against the productivity in the last quarter of 2020. We keep excluding the same outliers as in the previous paragraph. In this exercise we note a positive, but not strong, relationship between the growth in registrations and productivity^[For robustness, we have plotted the ratio of registrations against the ratio of productivity (productivity in the current quarter relative to the equivalent quarter in 2019). The correlation remains positive.]. Therefore, even though the majority of new registrations occurs in low-productivity sectors (figure 1), their growth takes place in high-productivity sectors (figure 2).
 
 {{< chart data="ratio" >}}
+
+
+<!-- Markdown -->
+
+{{< bibliography cited >}}
