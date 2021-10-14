@@ -61,7 +61,7 @@ Taking a longer perspective in firm creation, we plot the ratio of registration 
 
 {{< chart data="ratio" >}}
 
-
+## References
 <!-- Markdown -->
 
 {{< bibliography cited >}}
