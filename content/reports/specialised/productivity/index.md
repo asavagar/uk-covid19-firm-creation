@@ -51,7 +51,8 @@ Here we focus on the last quarter of 2020. From this analysis, we exclude three 
 
 
 {{< chart data="2020q4" >}}
-<caption style="text-align:center">Figure 1: Registrations vs. productivity in 2020Q4 </caption>
+<center> <small>
+<caption style="text-align:center">Figure 1: Registrations vs. productivity in 2020Q4 </caption> </small> </center>
 
 We also repeated the analysis using pre-COVID measures of productivity in case the static measures of productivity were affected by COVID[^1]. Hence we plotted registrations in 2020Q4 against productivity in 2019Q4. The relationship is very similar.
 
@@ -65,6 +66,8 @@ Taking a longer perspective in firm creation, we plot the ratio of registration 
 [^2]: For robustness, we have plotted the ratio of registrations against the ratio of productivity (productivity in the current quarter relative to the equivalent quarter in 2019). The correlation remains positive.
 
 {{< chart data="ratio" >}}
+<center> <small>
+<caption style="text-align:center">Figure 2: Ratio of registrations vs. productivity in 2020q4 (no outliers) </caption> </small> </center>
 
 ## References
 <!-- Markdown -->
