@@ -14,7 +14,7 @@ subtitle:
 
 design:
   background:
-      text_color_light: true
+      text_color_light: false
 
 ---
 
