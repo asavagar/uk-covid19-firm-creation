@@ -17,7 +17,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
-draft: true
+draft: false
 menu:
   specialised:
 
