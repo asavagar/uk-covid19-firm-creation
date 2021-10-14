@@ -12,6 +12,7 @@ reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
+bibliography: references.bib  
 
 # Optional header image (relative to `assets/media/` folder).
 header:
