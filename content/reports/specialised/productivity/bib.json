@@ -1,0 +1,104 @@
+[
+  {
+    "DOI": "https://doi.org/https://doi.org/10.1787/d2c4b89c-en",
+    "URL": "https://www.oecd-ilibrary.org/content/paper/d2c4b89c-en",
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "Dan"
+      },
+      {
+        "family": "Charlton",
+        "given": "Andrew"
+      },
+      {
+        "family": "Moore",
+        "given": "Angus"
+      }
+    ],
+    "container-title": "OECD Economics Department Working Papers",
+    "id": "AndrewsCharltonMoore2021_OECD",
+    "issue": "1676",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "title": "COVID-19, productivity and reallocation: Timely evidence from three oecd countries",
+    "title-short": "COVID-19, productivity and reallocation",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bloom",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Bunn",
+        "given": "Philip"
+      },
+      {
+        "family": "Mizen",
+        "given": "Paul"
+      },
+      {
+        "family": "Smietanka",
+        "given": "Pawel"
+      },
+      {
+        "family": "Thwaites",
+        "given": "Gregory"
+      }
+    ],
+    "id": "BloomBunnMizenSmietankaThwaites2020_NBER",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "publisher": "National Bureau of Economic Research",
+    "title": "The impact of covid-19 on productivity",
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Asturias",
+        "given": "Jose"
+      },
+      {
+        "family": "Hur",
+        "given": "Sewon"
+      },
+      {
+        "family": "Kehoe",
+        "given": "Timothy J."
+      },
+      {
+        "family": "Ruhl",
+        "given": "Kim J."
+      }
+    ],
+    "genre": "Staff Report",
+    "id": "AsturiasHurKehoeRuhl2020_wp",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "number": "544",
+    "publisher": "Federal Reserve Bank of Minneapolis",
+    "title": "Firm entry and exit and aggregate growth",
+    "type": "report"
+  }
+]
