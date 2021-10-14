@@ -5,7 +5,7 @@ author:
  - admin
  - Anthony Savagar
 toc: true
-type: book
+#type: book
 date: "2021-10-14T00:00:00+01:00"
 
 reading_time: true  # Show estimated reading time?
