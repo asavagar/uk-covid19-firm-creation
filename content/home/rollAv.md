@@ -14,6 +14,7 @@ subtitle:
 
 design:
   background:
+      color: "#FFFFFF"
       text_color_light: false
 
 ---
