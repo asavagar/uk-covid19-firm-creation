@@ -46,21 +46,19 @@ Our analysis compares firm creation by sector to a productivity measure (output 
 
 
 
-## 2020Q4
+## Levels of firm creation and productivity
 
-Here we focus on the last quarter of 2020. From this analysis, we exclude three industries as productivity or registrations outliers. In terms of productivity, we exclude industries L (Real estate activities) and B (Mining and quarrying). In terms of registrations, we exclude CH (Manufacture of basic metals and metal products). When no outliers are considered, we observe that new firms are registered in lower-productivity industries. For each 2-digit industry, figure 1 plots the total number of registrations 2020Q4 against the sector productivity (output per hour) in 2020Q4.
+Here we focus on the last quarter of 2020. From this analysis, we exclude three industries as productivity or registrations outliers. In terms of productivity, we exclude industries L (Real estate activities) and B (Mining and quarrying). In terms of registrations, we exclude CH (Manufacture of basic metals and metal products). When no outliers are considered, we observe that new firms are registered in lower-productivity industries. For each 2-digit industry, figure 1 plots the total number of registrations 2020Q4 against the sector productivity (output per hour) in 2020Q4[^1].
 
 
 {{< chart data="2020q4" >}}
 <center> <small>
 <caption style="text-align:center">Figure 1: Registrations vs. productivity in 2020Q4 </caption> </small> </center>
 
-We also repeated the analysis using pre-COVID measures of productivity (2019Q4) in case the 2020Q4 measures of productivity were unrepresentative due to COVID[^1]. Hence we plotted registrations in 2020Q4 against productivity in 2019Q4. The relationship is very similar.
-
-[^1]: For example, if furloughed workers are not counted as workers and productivity is calculated as output per worker, then labour productivity might increase during the pandemic due to a larger decrease in the numerator than the denominator.
+[^1]: We also repeated the analysis using pre-COVID measures of productivity (2019Q4) in case the 2020Q4 measures of productivity were unrepresentative due to COVID. The relationship is very similar. For example, if furloughed workers are not counted as workers and productivity is calculated as output per worker, then labour productivity might increase during the pandemic due to a larger decrease in the numerator than the denominator. Hence we plotted registrations in 2020Q4 against productivity in 2019Q4. 
 
 
-## Ratio of registrations vs. productivity
+## Growth of firm creation and productivity
 
 Taking a growth perspective in firm creation, we plot the ratio of registration (registrations relative to the same week in 2019) against the productivity in the last quarter of 2020. We keep excluding the same outliers as in the previous paragraph. In this exercise we note a positive, but not strong, relationship between the growth in registrations and productivity[^2]. Therefore, even though the majority of new registrations occurs in low-productivity sectors (figure 1), their growth takes place in high-productivity sectors (figure 2).
 
