@@ -12,10 +12,10 @@ weight: 11
 title: Business creation snapshot in the UK 
 subtitle:
 
-#design:
-#  background:
-#      color: "#4c566a"
-#      text_color_light: true
+design:
+  background:
+      color: "#1a1a1a"
+      text_color_light: true
       
 
 ---
