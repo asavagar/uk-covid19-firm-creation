@@ -15,8 +15,7 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: "Photo by <a href="https://unsplash.com/@chuklanov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Avel Chuklanov</a> on <a href="https://unsplash.com/s/photos/business-creation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  "
+  caption: "Photo by <a href="https://unsplash.com/@chuklanov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Avel Chuklanov</a> on <a href="https://unsplash.com/s/photos/business-creation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
   image: ""
 draft: false
 menu:
