@@ -5,11 +5,12 @@ author:
  - Yannis Galanakis
 ---
 
-Did firm creation take place in productive sectors?
+We explore the sectors whose firm creation boomed during the COVID-19 pandemic. 
+
 
 <!--more-->
 
-{{% mention "admin" %}} and {{% mention "Anthony Savagar" %}} explore the sectors whose firm creation boomed during the COVID-19 pandemic. 
+{{% mention "admin" %}} and {{% mention "Anthony Savagar" %}} explore the sectors whose firm creation boomed during the COVID-19 pandemic. Did firm creation take place in sectors with high productivity?
 
 Read our analysis [here](/reports/specialised/productivity/).
 
