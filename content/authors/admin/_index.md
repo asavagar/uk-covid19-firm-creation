@@ -2,8 +2,8 @@
 # Display name
 title: Yannis Galanakis
 
-#author:
-#- admin
+author:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
