@@ -55,7 +55,7 @@ Here we focus on the last quarter of 2020. From this analysis, we exclude three 
 <center> <small>
 <caption style="text-align:center">Figure 1: Registrations vs. productivity in 2020Q4 </caption> </small> </center>
 
-[^1]: We also repeated the analysis using pre-COVID measures of productivity (2019Q4) in case the 2020Q4 measures of productivity were unrepresentative due to COVID. The relationship is very similar. For example, if furloughed workers are not counted as workers and productivity is calculated as output per worker, then labour productivity might increase during the pandemic due to a larger decrease in the numerator than the denominator. Hence we plotted registrations in 2020Q4 against productivity in 2019Q4. 
+[^1]: For robustness, we also repeated the analysis using pre-COVID measures of productivity (2019Q4) in case the 2020Q4 measures of productivity were unrepresentative due to COVID. The relationship is very similar. For example, if furloughed workers are not counted as workers and productivity is calculated as output per worker, then labour productivity might increase during the pandemic due to a larger decrease in the numerator than the denominator. Hence we plotted registrations in 2020Q4 against productivity in 2019Q4. 
 
 
 ## Growth of firm creation and productivity
