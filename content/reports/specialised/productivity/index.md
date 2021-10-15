@@ -5,9 +5,9 @@ authors:
  - admin
  - Anthony Savagar
 toc: true
-type: page
+#type: page
 date: "2021-10-14T00:00:00+01:00"
-
+lastmod: "2021-10-15T00:00:00+01:00"
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
