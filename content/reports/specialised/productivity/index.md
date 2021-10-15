@@ -11,8 +11,7 @@ lastmod: "2021-10-15T00:00:00+01:00"
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
-comments: false  # Show comments?
-bibliography: references.bib  
+comments: false  # Show comments? 
 
 # Optional header image (relative to `assets/media/` folder).
 header:
