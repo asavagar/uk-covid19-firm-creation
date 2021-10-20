@@ -15,10 +15,12 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Kent
-  url: ""
+  url: "www.kent.ac.uk"
+- name: School of Economics
+  url: "www.kent.ac.uk/economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Labour and Applied Economics with a focus on gender and mismatch issues. 
+bio: Yannis' research interests include Labour and Applied Economics. 
 
 interests:
 - Labour Economics
