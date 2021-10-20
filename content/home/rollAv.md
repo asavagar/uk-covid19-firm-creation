@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 11
 
-title: Business creation snapshot in the UK 
+title: Real-time business creation 
 subtitle:
 
 #design:
