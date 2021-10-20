@@ -12,6 +12,10 @@ weight: 69
 title: Funder
 subtitle:
 
+design:
+  background:
+      color: "#FFFFFF"
+
 ---
 
 <center>
