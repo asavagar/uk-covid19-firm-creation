@@ -1,14 +1,14 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-type: page
+#type: page
 toc: false
-
+draft: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 11
+weight: 1
 
 title: Real-time business creation 
 linktitle: Real-time business creation
