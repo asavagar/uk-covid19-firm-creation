@@ -11,11 +11,12 @@ headless: true
 weight: 11
 
 title: Real-time business creation 
-subtitle: 
-date: "2021-10-21T00:00:00+01:00"
+linktitle: Real-time business creation
+date: "2021-10-20T00:00:00+01:00"
+lastmod: "2021-10-21T00:00:00+01:00"
 
-linktitle:
-  menu:
+
+ menu:
    data:
 #    parent: Real-time business creation
     weight: 1
