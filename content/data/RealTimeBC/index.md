@@ -14,10 +14,12 @@ title: Real-time business creation
 linktitle: Real-time business creation
 date: "2021-10-20T00:00:00+01:00"
 lastmod: "2021-10-21T00:00:00+01:00"
+share: true  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments? 
 
-
- menu:
-   data:
+menu:
+  data:
 #    parent: Real-time business creation
     weight: 1
  
