@@ -13,8 +13,9 @@ weight: 11
 title: Real-time business creation 
 subtitle:     
 
-menu:
-  data:
+linktitle:
+  menu:
+   data:
 #    parent: Real-time business creation
     weight: 1
  
