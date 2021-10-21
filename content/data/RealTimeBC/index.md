@@ -1,7 +1,8 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: page
+toc: false
 
 # This file represents a page section.
 headless: true
@@ -14,7 +15,7 @@ subtitle:
 
 menu:
   data:
-    parent: Real-time business creation
+#    parent: Real-time business creation
     weight: 1
 
 ---
