@@ -28,6 +28,8 @@ design:
 
 ---
 
+![](https://img.shields.io/badge/data%20latest%20release-Oct%201%2C%202021-informational?style=flat)
+
 <center>
   <iframe src="https://asavagar.github.io/SectorsRegistrationsRA/" title="" frameborder="0" style="overflow:hidden;height:700px;width:100%" height="700px" width="100%"></iframe>
 </center>
