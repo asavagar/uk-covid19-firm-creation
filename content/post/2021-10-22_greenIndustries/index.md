@@ -5,7 +5,7 @@ author:
  - Yannis Galanakis
 ---
 
-COP26 climate conference in Glasgow soon, we measure firm creation in sectors with "green jobs". 
+Soon COP26 climate conference takes place in Glasgow and we measure firm creation in sectors with "green jobs". 
 
 
 <!--more-->
