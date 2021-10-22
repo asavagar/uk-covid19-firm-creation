@@ -27,7 +27,7 @@ design:
   columns: '1'
 
 ---
-<p align="left>
+<p align="left">
 ![](https://img.shields.io/badge/data%20latest%20release-Oct%201%2C%202021-informational?style=flat)
 </p>
 
