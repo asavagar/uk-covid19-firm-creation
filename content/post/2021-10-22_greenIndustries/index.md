@@ -10,6 +10,9 @@ Soon COP26 climate conference takes place in Glasgow and we measure firm creatio
 
 <!--more-->
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ygalanak/FirmCreation_GreenSectors/fork" aria-label="Fork ygalanak/FirmCreation_GreenSectors on GitHub">ReplicateMe</a>
+
 In almost a week, the UK will host the [26th UN Climate Change Conference of the Parties (COP26)](https://ukcop26.org/) in Glasgow. This motivates the question to see how many firms are still active in sectors where "green jobs" exist.
 
 ## Which are the "green jobs" sector?
