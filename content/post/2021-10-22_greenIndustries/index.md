@@ -9,7 +9,8 @@ Soon COP26 climate conference takes place in Glasgow and we measure firm creatio
 
 
 <!--more-->
-
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ygalanak/FirmCreation_GreenSectors/fork" aria-label="Fork ygalanak/FirmCreation_GreenSectors on GitHub">ReplicateMe</a>
 
