@@ -16,6 +16,7 @@ lastmod: "2021-10-21T00:00:00+01:00"
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments? 
+subtitle: ![](https://img.shields.io/badge/data%20latest%20release-Oct%201%2C%202021-informational?style=flat)
 
 menu:
   data:
@@ -27,9 +28,7 @@ design:
   columns: '1'
 
 ---
-<p align="left">
-![](https://img.shields.io/badge/data%20latest%20release-Oct%201%2C%202021-informational?style=flat)
-</p>
+
 
 <center>
   <iframe src="https://asavagar.github.io/SectorsRegistrationsRA/" title="" frameborder="0" style="overflow:hidden;height:700px;width:100%" height="700px" width="100%"></iframe>
