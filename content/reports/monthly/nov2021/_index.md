@@ -8,7 +8,7 @@ draft: false
 menu:
   monthly:
   #    parent: Reports 2021
-  weight: 12
+    weight: 12
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 12
