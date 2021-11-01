@@ -24,7 +24,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Business creation increased 9.8% between August 2021 and September 2021.
 2. Business creation was 9.5% lower in September 2021 than in September 2020.
-3. The largest number of company registrations occurs in 'Wholesale and retail trade; repair of motor vehicles and motorcycles' and ‘Transportation and storage’. Closer to the end of August 2021, 'Administrative and support service activities’ present an increase. 
+3. The largest number of company registrations occurs in 'Wholesale and retail trade; repair of motor vehicles and motorcycles' and ‘Transportation and storage’. Closer to the end of September 2021, 'Administrative and support service activities’ present an increase. 
 
 
 ## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
@@ -92,6 +92,6 @@ The graph illustrates company registrations in September 2021 relative to 2019 b
 - `Transportation and storage’, 'Wholesale, and Retail Trade' and 'Construction' sectors show the greatest increase in firm creation in September 2021. 
 - Towards the end of September 2021, ‘Administrative and support service activities' sector presents an increase.
 - Compared to September 2019, in September 2021 there is more than a 300% increase in business creation for ‘Event catering activities’, ‘General public administration activities’, 'Retail sale of music and video recordings in specialised stores' and ‘Wholesale of other intermediate products' sectors. 
-- There are lower registrations relative to August 2019 in 'Activities of business and employers membership organisations', ‘Tour operator activities’ and 'Construction of railways and underground railways'. 
+- There are lower registrations relative to September 2019 in 'Activities of business and employers membership organisations', ‘Tour operator activities’ and 'Construction of railways and underground railways'. 
 
 {{< cta cta_text="Snapshot" cta_link="/reports/monthly/oct2021/October2021.pdf" cta_new_tab="true" >}}
