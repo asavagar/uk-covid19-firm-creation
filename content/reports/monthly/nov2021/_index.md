@@ -7,7 +7,6 @@ date: "2021-11-01T00:00:00+01:00"
 draft: false
 menu:
   monthly:
-
   #    parent: Reports 2021
   weight: 12
 
