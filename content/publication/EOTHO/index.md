@@ -35,7 +35,7 @@ tags:
 title: "Impact of 'Eat Out to Help Out' on firm creation"
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: '/publication/preprint/eo2ho/GalanakisHobbsSavagar_EatOut2HelpOut.pdf'
+url_pdf: '/publication/eo2ho/GalanakisHobbsSavagar_EatOut2HelpOut.pdf'
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
