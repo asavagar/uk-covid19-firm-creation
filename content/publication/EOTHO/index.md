@@ -16,7 +16,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: PDF
-  url: '/publication/eo2ho/GalanakisHobbsSavagar_EatOut2HelpOut.pdf'
+  url: '/publication/eotho/GalanakisHobbsSavagar_EatOut2HelpOut.pdf'
 - icon: github
   icon_pack: fab
   name: Repository
