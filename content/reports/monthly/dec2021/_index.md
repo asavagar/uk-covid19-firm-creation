@@ -85,7 +85,6 @@ Within London, most of the business creation in November 2021 comes from Central
 The graph illustrates company registrations in November 2021 relative to 2019 by industrial sector. It compares the percentage change in 2021 relative to 2019 for each week of the year. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We show a selection of sectors that present notable changes. 
 
 {{< chart data="sectors" >}}
-<small>Download data as: <a href="data/07sections.csv" download="07sections.csv"><i class="fas fa-file-csv"></i></a></small>
 
 - November 2021 retains higher firm creation in most sectors than November 2019.
 - 'Wholesale, and Retail Trade' and ‘Transportation and storage’ sectors show the greatest increase in firm creation in November 2021. 
