@@ -91,5 +91,5 @@ The graph illustrates company registrations in November 2021 relative to 2019 by
 - Compared to November 2019, in November 2021 there is more than a 300% increase in business creation for ‘Combined office administrative service activities’, ‘Publishing of computer games’, `Other retail sale not in stores, stalls or markets' and ‘Non-specialised wholesale trade' sectors. 
 - There are lower registrations relative to November 2019 in ‘Activities of holding companies', ‘Engineering activities and related technical consultancy’ and ‘Renting and operating of own or leased real estate'. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/monthly/nov2021/November2021.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/monthly/dec2021/December2021.pdf" cta_new_tab="true" >}}
 
