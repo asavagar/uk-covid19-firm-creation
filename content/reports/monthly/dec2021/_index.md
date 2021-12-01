@@ -57,8 +57,8 @@ Company registrations persistently exceed their 2019 levels. However, we notice 
 ### November
 Daily average company registrations in November 2021 are 2.1% lower than November 2020, but 67% higher than November 2019 among the active firms.
 
-{{< chart data="october" >}}
-<small>Download data as: <a href="data/03statsSept.csv" download="04november.csv"><i class="fas fa-file-csv"></i></a></small>
+{{< chart data="november" >}}
+<small>Download data as: <a href="data/03statsNov.csv" download="04november.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
