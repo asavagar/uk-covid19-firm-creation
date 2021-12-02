@@ -1,5 +1,5 @@
 ---
-title: "UK Firm Creation During the Covid-19 Pandemic"
+title: "UK Firm Creation: project presentation"
 authors:
 - Yannis Galanakis
 - Anthony Savagar
@@ -22,10 +22,10 @@ publication_short: "UKRI visits University of Kent"
 #abstract: 
 
 # Summary. An optional shortened abstract.
-summary: UKRI visits University of Kent
+summary: North Thanet MP Visits to hear Funded Covid-19-related Research
 
 tags:
-- Poster
+- Presentation
 
 featured: false
 
@@ -33,8 +33,8 @@ links:
   
   - icon: file-powerpoint
     icon_pack: far
-    name: Poster
-    url: ''
+    name: Slides
+    url: '/RogerGale_2021-07-23.pptx'
 
 
 #url_pdf: ''
