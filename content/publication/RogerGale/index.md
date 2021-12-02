@@ -34,7 +34,7 @@ links:
   - icon: file-powerpoint
     icon_pack: far
     name: Slides
-    url: '/RogerGale_2021-07-23.pptx'
+    url: '/publication/rogergale/RogerGale_2021-07-23.pptx'
 
 
 #url_pdf: ''
