@@ -64,7 +64,7 @@ Daily average company registrations in November 2021 are 2.1% lower than Novembe
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
 ### Postcode Area
-The map shows the average percentage change in new registrations in November 2021 compared to October 2019.  
+The map shows the average percentage change in new registrations in November 2021 compared to November 2019.  
 
 <iframe src="mapDec2021Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
