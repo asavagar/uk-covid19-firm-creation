@@ -21,6 +21,10 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/ygalanak/EO2HO
+- icon: images
+  icon_pack: far
+  name: Slides
+  url: https://www.yannisgalanakis.com/EOTHOslides
 #publication: ""
 #publication_short: ""
 publication_types:
