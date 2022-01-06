@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report January 2022
 linktitle: January 2022
 toc: true
