@@ -29,7 +29,7 @@ The chart below shows the daily company incorporations in the UK since January 2
 
 {{< chart data="dailyagg" >}}
 <small>Download histogram data as: <a href="data/01histogram.csv" download="01histogram.csv"><i class="fas fa-file-csv"></i></a>
-<small>
+</small>
 
 - Business creation decreased by 19.1% between November and December 2021. 
 - 21,429 additional companies were registered in December 2021 relative to December 2019. 
