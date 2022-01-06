@@ -20,7 +20,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Business creation decreased 19.1% between November 2021 and December 2021.
 2. Business creation was 7.3% lower in December 2021 than in December 2020.
-3. The largest number of company registrations occurs in 'Wholesale and retail trade; repair of motor vehicles and motorcycles' and ‘Transportation and storage’.
+3. The largest number of company registrations occurs in ‘Public administration and defence; compulsory social security’ and ‘Wholesale, and Retail Trade’.
 
 
 ## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
