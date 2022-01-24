@@ -41,10 +41,10 @@
   url = "reports/specialised/"
   weight = 37
 
-#[[main]]
-#  name = "Dashboard"
-#  url = "https://asavagar.shinyapps.io/UKFirmCreation/"
-#  weight = 36
+[[main]]
+  name = "Dashboard"
+  url = "https://asavagar.shinyapps.io/UKFirmCreation/"
+  weight = 40
 
 [[main]]
   name = "Publications"
