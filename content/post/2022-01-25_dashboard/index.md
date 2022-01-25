@@ -1,5 +1,5 @@
 ---
-title: Our data visualisation dashboard launches <span class="label label-success">NEW</span>
+title: Our data visualisation dashboard launches
 date: 2022-01-25
 author: 
  - Yannis Galanakis
@@ -17,9 +17,8 @@ The app hosts 3 main sections:
 2. **Sectoral Analysis**: daily registrations in multiple 1-digit ("Sections") and 3-digits ("Groups") SIC codes. Make comparisons across different groups *within* the same sectors or *across* different sectors.
 3. **Regional Analysis**: daily registrations *within* one "Group" across the different countries in the UK.
 
-## Unique feature
+## Export-the-data feature
 Our dashboard app allows the user to export the data they observe in the Aggregate Analysis tab into `.csv` format. Future updates will include this feature to every tab.
-
 
 ## Code
 <i class="fab fa-github"></i> Replicable code in our repository [here](https://github.com/asavagar/FirmCreationDashboard). Material developped using Shiny <i class="fab fa-r-project"></i>.
