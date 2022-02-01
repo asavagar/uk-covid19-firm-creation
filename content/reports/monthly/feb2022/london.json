@@ -1,0 +1,397 @@
+{
+  "visdat": {
+    "30587ff5f2b": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "30587ff5f2b",
+  "attrs": {
+    "30587ff5f2b": {
+      "x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "y": [
+        417.529880478088,
+        238.970588235294,
+        165.350877192982,
+        123.423423423423,
+        108.870967741936,
+        106.711409395973,
+        270.603015075377,
+        118.823529411765,
+        120.78313253012,
+        96.4285714285714,
+        79.126213592233,
+        105,
+        271.576227390181,
+        115.057915057915,
+        104.651162790698,
+        92.9411764705882,
+        63.2850241545894,
+        113.333333333333,
+        227.397260273973,
+        91.1347517730496,
+        135.197368421053,
+        145.205479452055,
+        57.2072072072072,
+        95.8333333333333
+      ],
+      "mode": "line",
+      "color": [
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Change of company registrations in January by London Areas<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "modeBarButtonsToAdd": [
+      "hoverclosest",
+      "hovercompare"
+    ],
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        417.529880478088,
+        270.603015075377,
+        271.576227390181,
+        227.397260273973
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "Central London",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        238.970588235294,
+        118.823529411765,
+        115.057915057915,
+        91.1347517730496
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "East London",
+      "marker": {
+        "color": "rgba(252,141,98,0.5)",
+        "line": {
+          "color": "rgba(252,141,98,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "line": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        165.350877192982,
+        120.78313253012,
+        104.651162790698,
+        135.197368421053
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "North London",
+      "marker": {
+        "color": "rgba(141,160,203,0.5)",
+        "line": {
+          "color": "rgba(141,160,203,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "line": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        123.423423423423,
+        96.4285714285714,
+        92.9411764705882,
+        145.205479452055
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "South East London",
+      "marker": {
+        "color": "rgba(231,138,195,0.5)",
+        "line": {
+          "color": "rgba(231,138,195,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "line": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        108.870967741936,
+        79.126213592233,
+        63.2850241545894,
+        57.2072072072072
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "South West London",
+      "marker": {
+        "color": "rgba(166,216,84,0.5)",
+        "line": {
+          "color": "rgba(166,216,84,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "line": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "y": [
+        106.711409395973,
+        105,
+        113.333333333333,
+        95.8333333333333
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "West London",
+      "marker": {
+        "color": "rgba(255,217,47,0.5)",
+        "line": {
+          "color": "rgba(255,217,47,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "line": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}

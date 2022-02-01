@@ -1,0 +1,614 @@
+{
+  "visdat": {
+    "3058359d77ef": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "3058359d77ef",
+  "attrs": {
+    "3058359d77ef": {
+      "y": [
+        125.961538461538,
+        333.333333333333,
+        256.914285714286,
+        192.388758782201,
+        127.59009009009,
+        167.058823529412,
+        193.333333333333,
+        87.8048780487805,
+        162.867647058824,
+        200,
+        113.658536585366,
+        229.411764705882,
+        197.188449848024,
+        131.083844580777,
+        118.044077134986,
+        131.136363636364,
+        325,
+        111.333333333333,
+        123.404255319149,
+        25,
+        76.431718061674,
+        100,
+        168.745414526779,
+        115.354838709677,
+        93.2144910868315,
+        123.337091319053,
+        85.1851851851852,
+        102.469135802469,
+        119.194312796209,
+        200,
+        85.2173913043478,
+        150,
+        153.799185888738,
+        68.6910377358491,
+        93.0062041737169,
+        121.184510250569,
+        217.647058823529,
+        115.862068965517,
+        112.814645308924,
+        166.666666666667
+      ],
+      "x": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      "mode": "lines",
+      "color": [
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Change of company registrations by sector<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false,
+      "type": "category",
+      "categoryorder": "array",
+      "categoryarray": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change",
+      "showgrid": false
+    },
+    "legend": {
+      "orientation": "h",
+      "font": {
+        "size": 7
+      },
+      "xanchor": "center",
+      "x": 0.5,
+      "yanchor": -0.7
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "modeBarButtonsToAdd": [
+      "hoverclosest",
+      "hovercompare"
+    ],
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "y": [
+        200,
+        25,
+        200,
+        166.666666666667
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        167.058823529412,
+        131.136363636364,
+        123.337091319053,
+        121.184510250569
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Administrative and support service activities",
+      "marker": {
+        "color": "rgba(228,156,113,0.5)",
+        "line": {
+          "color": "rgba(228,156,113,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "line": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        87.8048780487805,
+        111.333333333333,
+        102.469135802469,
+        115.862068965517
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Education",
+      "marker": {
+        "color": "rgba(201,152,157,0.5)",
+        "line": {
+          "color": "rgba(201,152,157,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "line": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        192.388758782201,
+        131.083844580777,
+        115.354838709677,
+        68.6910377358491
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Financial and insurance activities",
+      "marker": {
+        "color": "rgba(175,154,200,0.5)",
+        "line": {
+          "color": "rgba(175,154,200,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "line": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        162.867647058824,
+        123.404255319149,
+        119.194312796209,
+        112.814645308924
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Human health and social work activities",
+      "marker": {
+        "color": "rgba(226,148,184,0.5)",
+        "line": {
+          "color": "rgba(226,148,184,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "line": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        125.961538461538,
+        113.658536585366,
+        76.431718061674,
+        85.2173913043478
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Manufacturing",
+      "marker": {
+        "color": "rgba(176,208,99,0.5)",
+        "line": {
+          "color": "rgba(176,208,99,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "line": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        193.333333333333,
+        325,
+        85.1851851851852,
+        217.647058823529
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Public administration and defence; compulsory social security",
+      "marker": {
+        "color": "rgba(227,217,62,0.5)",
+        "line": {
+          "color": "rgba(227,217,62,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "line": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        127.59009009009,
+        118.044077134986,
+        93.2144910868315,
+        93.0062041737169
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Real estate activities",
+      "marker": {
+        "color": "rgba(245,207,100,0.5)",
+        "line": {
+          "color": "rgba(245,207,100,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "line": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        333.333333333333,
+        229.411764705882,
+        100,
+        150
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Water supply; sewerage, waste management and remediation activities",
+      "marker": {
+        "color": "rgba(219,192,155,0.5)",
+        "line": {
+          "color": "rgba(219,192,155,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "line": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        256.914285714286,
+        197.188449848024,
+        168.745414526779,
+        153.799185888738
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+      "marker": {
+        "color": "rgba(179,179,179,0.5)",
+        "line": {
+          "color": "rgba(179,179,179,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "line": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
