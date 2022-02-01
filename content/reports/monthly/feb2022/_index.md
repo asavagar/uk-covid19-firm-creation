@@ -1,9 +1,9 @@
-﻿---
+---
 title: Report February 2022
 linktitle: February 2022
 toc: true
 type: book
-date: "2022-02-02T00:00:00+01:00"
+date: "2022-02-01T00:00:00+01:00"
 draft: false
 menu:
   monthly:
