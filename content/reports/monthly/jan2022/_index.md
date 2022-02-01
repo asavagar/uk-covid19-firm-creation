@@ -78,7 +78,7 @@ Within London, most of the business creation in December 2021 comes from South E
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 ### SIC Sections
-The graph illustrates company registrations in November 2021 relative to 2019 by industrial sector. It compares the percentage change in 2021 relative to 2019 for each week of the year. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We show a selection of sectors that present notable changes. 
+The graph illustrates company registrations in December 2021 relative to 2019 by industrial sector. It compares the percentage change in 2021 relative to 2019 for each week of the year. We use 4-digit SIC levels (ONS "Classes") and group them into broader sectors (ONS "Sections"). We use the [ONS classification](https://onsdigital.github.io/dp-classification-tools/standard-industrial-classification/ONS_SIC_hierarchy_view.html). We show a selection of sectors that present notable changes. 
 
 {{< chart data="sectors" >}}
 
