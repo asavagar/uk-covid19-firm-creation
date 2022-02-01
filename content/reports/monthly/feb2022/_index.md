@@ -93,5 +93,5 @@ The graph illustrates company registrations in January 2022 relative to 2019 by 
 - Compared to January 2019, in January 2022 there is more than a 300% increase in business creation for ‘Other retail sale not in stores, stalls or markets’, ‘Removal services’, ‘General cleaning of buildings’ and ‘Manufacture of sports goods’ sectors.
 - There are lower registrations relative to January 2019 in ‘Packaging activities’, ‘Warehousing and storage’ and ‘Manufacture of perfumes and toilet preparations’ sectors. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/monthly/jan2022/January2022.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/monthly/feb2022/February2022.pdf" cta_new_tab="true" >}}
 
