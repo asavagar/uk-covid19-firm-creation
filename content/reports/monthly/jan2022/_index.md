@@ -53,7 +53,7 @@ Company registrations persistently exceed their 2019 levels. However, we notice 
 ### December
 Daily average company registrations in December 2021 are 7.3% lower than December 2020, but 67.6% higher than December 2019 among the active firms.
 
-{{< chart data="november" >}}
+{{< chart data="december" >}}
 <small>Download data as: <a href="data/03statsDec.csv" download="04december.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
