@@ -26,7 +26,7 @@ The project explores the impact of COVID-19 on business creation in the UK.
 
 
 
-{{< cta cta_text="Latest report" cta_link="/reports/monthly/jan2022/"  cta_new_tab="true" >}}
+{{< cta cta_text="Latest report" cta_link="/reports/monthly/feb2022/"  cta_new_tab="true" >}}
 <small>
 {{< cta cta_alt_text="Real-time business creation" cta_alt_link="/data/realtimebc" cta_alt_new_tab="true">}}
   </small>
