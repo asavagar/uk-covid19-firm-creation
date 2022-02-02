@@ -12,7 +12,7 @@ weight: 1
 title: Real-time business creation 
 linktitle: Real-time business creation
 date: "2021-10-20T00:00:00+01:00"
-lastmod: "2021-12-02T00:00:00+01:00"
+lastmod: "2022-02-02T00:00:00+01:00"
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments? 
@@ -27,7 +27,7 @@ design:
   columns: '1'
 
 ---
-![](https://img.shields.io/badge/data%20latest%20release-Dec%201%2C%202021-informational?style=flat)
+![](https://img.shields.io/badge/data%20latest%20release-Feb%201%2C%202022-informational?style=flat)
 
 <center>
   <iframe src="https://asavagar.github.io/SectorsRegistrationsRA/" title="" frameborder="0" style="overflow:hidden;height:700px;width:100%" height="700px" width="100%"></iframe>
