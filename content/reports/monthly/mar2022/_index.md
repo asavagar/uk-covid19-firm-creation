@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report March 2022
 linktitle: March 2022
 toc: true
@@ -66,7 +66,7 @@ Daily average company registrations in February 2022 are 51% higher than Februar
 
 The map shows the average percentage change in new registrations in February 2022 compared to February 2019.  
 
-<iframe src="mapFeb2022Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
+<iframe src="mapMar2022Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
 <small>Download data as: <a href="data/09map_Feb 2022.csv" download="09map.csv"><i class="fas fa-file-csv"></i></a></small>
 
