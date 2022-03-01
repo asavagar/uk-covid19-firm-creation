@@ -1,0 +1,818 @@
+{
+  "visdat": {
+    "fa426172289": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "fa426172289",
+  "attrs": {
+    "fa426172289": {
+      "y": [
+        129.83606557377,
+        93.75,
+        333.333333333333,
+        259.792626728111,
+        103.942652329749,
+        195.729537366548,
+        168.774703557312,
+        193.333333333333,
+        170.188679245283,
+        200,
+        112.19512195122,
+        80,
+        229.411764705882,
+        202.009273570325,
+        91.1832946635731,
+        134.875690607735,
+        133.256880733945,
+        325,
+        128.260869565217,
+        25,
+        79.6420581655481,
+        82.3529411764706,
+        100,
+        172.524199553239,
+        67.5889328063241,
+        114.874436574372,
+        125.425652667423,
+        92.3076923076923,
+        120.238095238095,
+        200,
+        87.4725274725275,
+        84,
+        150,
+        155.775803144224,
+        42.5625920471281,
+        70.8159618820727,
+        121.739130434783,
+        217.647058823529,
+        114.549653579677,
+        166.666666666667,
+        112.740384615385,
+        376.923076923077,
+        46.4285714285714,
+        201.851851851852,
+        226.890756302521,
+        91.6382252559727,
+        139.861751152074,
+        154.166666666667,
+        155.965909090909,
+        50,
+        90.8018867924528,
+        73.3333333333333,
+        96.1538461538461,
+        172.727272727273,
+        73.448275862069,
+        50.3258845437616,
+        92.1698113207547,
+        200,
+        110.31746031746,
+        100,
+        101.461377870564,
+        187.5,
+        38.4615384615385,
+        163.592896174863,
+        154.460093896714,
+        94.4475920679887,
+        110.391061452514,
+        142.857142857143,
+        134.24317617866,
+        500,
+        96.9827586206897,
+        106.25,
+        67.6470588235294,
+        160.893470790378,
+        132.172131147541,
+        73.7938039614017,
+        108.609271523179,
+        469.230769230769,
+        126.014319809069,
+        400
+      ],
+      "x": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "mode": "lines",
+      "color": [
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Financial and insurance activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Human health and social work activities",
+        "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Change of company registrations by sector<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false,
+      "type": "category",
+      "categoryorder": "array",
+      "categoryarray": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change",
+      "showgrid": false
+    },
+    "legend": {
+      "orientation": "h",
+      "font": {
+        "size": 7
+      },
+      "xanchor": "center",
+      "x": 0.5,
+      "yanchor": -0.7
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "modeBarButtonsToAdd": [
+      "hoverclosest",
+      "hovercompare"
+    ],
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "y": [
+        200,
+        25,
+        200,
+        166.666666666667,
+        50,
+        100,
+        500,
+        400
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        168.774703557312,
+        133.256880733945,
+        125.425652667423,
+        121.739130434783,
+        139.861751152074,
+        92.1698113207547,
+        110.391061452514,
+        108.609271523179
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Administrative and support service activities",
+      "marker": {
+        "color": "rgba(228,156,113,0.5)",
+        "line": {
+          "color": "rgba(228,156,113,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "line": {
+        "color": "rgba(228,156,113,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        93.75,
+        80,
+        82.3529411764706,
+        84,
+        376.923076923077,
+        73.3333333333333,
+        187.5,
+        106.25
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Electricity, gas, steam and air conditioning supply",
+      "marker": {
+        "color": "rgba(201,152,157,0.5)",
+        "line": {
+          "color": "rgba(201,152,157,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "line": {
+        "color": "rgba(201,152,157,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        195.729537366548,
+        134.875690607735,
+        114.874436574372,
+        70.8159618820727,
+        91.6382252559727,
+        50.3258845437616,
+        94.4475920679887,
+        73.7938039614017
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Financial and insurance activities",
+      "marker": {
+        "color": "rgba(175,154,200,0.5)",
+        "line": {
+          "color": "rgba(175,154,200,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "line": {
+        "color": "rgba(175,154,200,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        170.188679245283,
+        128.260869565217,
+        120.238095238095,
+        114.549653579677,
+        155.965909090909,
+        110.31746031746,
+        134.24317617866,
+        126.014319809069
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Human health and social work activities",
+      "marker": {
+        "color": "rgba(226,148,184,0.5)",
+        "line": {
+          "color": "rgba(226,148,184,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "line": {
+        "color": "rgba(226,148,184,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        129.83606557377,
+        112.19512195122,
+        79.6420581655481,
+        87.4725274725275,
+        112.740384615385,
+        90.8018867924528,
+        101.461377870564,
+        96.9827586206897
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Manufacturing",
+      "marker": {
+        "color": "rgba(176,208,99,0.5)",
+        "line": {
+          "color": "rgba(176,208,99,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "line": {
+        "color": "rgba(176,208,99,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        193.333333333333,
+        325,
+        92.3076923076923,
+        217.647058823529,
+        154.166666666667,
+        200,
+        142.857142857143,
+        469.230769230769
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Public administration and defence; compulsory social security",
+      "marker": {
+        "color": "rgba(227,217,62,0.5)",
+        "line": {
+          "color": "rgba(227,217,62,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "line": {
+        "color": "rgba(227,217,62,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        103.942652329749,
+        91.1832946635731,
+        67.5889328063241,
+        42.5625920471281,
+        226.890756302521,
+        73.448275862069,
+        154.460093896714,
+        132.172131147541
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Transportation and storage",
+      "marker": {
+        "color": "rgba(245,207,100,0.5)",
+        "line": {
+          "color": "rgba(245,207,100,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "line": {
+        "color": "rgba(245,207,100,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        333.333333333333,
+        229.411764705882,
+        100,
+        150,
+        46.4285714285714,
+        96.1538461538461,
+        38.4615384615385,
+        67.6470588235294
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Water supply; sewerage, waste management and remediation activities",
+      "marker": {
+        "color": "rgba(219,192,155,0.5)",
+        "line": {
+          "color": "rgba(219,192,155,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "line": {
+        "color": "rgba(219,192,155,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "y": [
+        259.792626728111,
+        202.009273570325,
+        172.524199553239,
+        155.775803144224,
+        201.851851851852,
+        172.727272727273,
+        163.592896174863,
+        160.893470790378
+      ],
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "mode": "lines",
+      "type": "scatter",
+      "name": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+      "marker": {
+        "color": "rgba(179,179,179,0.5)",
+        "line": {
+          "color": "rgba(179,179,179,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "line": {
+        "color": "rgba(179,179,179,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}

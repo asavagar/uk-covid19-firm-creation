@@ -1,0 +1,517 @@
+{
+  "visdat": {
+    "fa47eef7b54": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "fa47eef7b54",
+  "attrs": {
+    "fa47eef7b54": {
+      "x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "y": [
+        423.387096774193,
+        241.176470588235,
+        162.114537444934,
+        119.81981981982,
+        112.19512195122,
+        106.711409395973,
+        270.379746835443,
+        118.181818181818,
+        121.212121212121,
+        98.5611510791367,
+        83.6633663366337,
+        109.504132231405,
+        269.509043927649,
+        113.095238095238,
+        103.812316715543,
+        95.2380952380952,
+        64.0394088669951,
+        121.399176954732,
+        228.211009174312,
+        92.8057553956834,
+        140,
+        152.083333333333,
+        45,
+        100,
+        295.121951219512,
+        126.339285714286,
+        130.744336569579,
+        130.769230769231,
+        68.5,
+        137.037037037037,
+        246.136865342163,
+        97.6190476190476,
+        110.723860589812,
+        87.027027027027,
+        81.042654028436,
+        62.8205128205128,
+        303.684210526316,
+        115.530303030303,
+        134.527687296417,
+        87.1165644171779,
+        81.592039800995,
+        111.2,
+        310.362694300518,
+        101.470588235294,
+        118.769230769231,
+        124.516129032258,
+        81.4606741573034,
+        128.151260504202
+      ],
+      "mode": "line",
+      "color": [
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London",
+        "Central London",
+        "East London",
+        "North London",
+        "South East London",
+        "South West London",
+        "West London"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Change of company registrations in February by London Areas<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "modeBarButtonsToAdd": [
+      "hoverclosest",
+      "hovercompare"
+    ],
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": [
+        423.387096774193,
+        270.379746835443,
+        269.509043927649,
+        228.211009174312,
+        295.121951219512,
+        246.136865342163,
+        303.684210526316,
+        310.362694300518
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "Central London",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": [
+        241.176470588235,
+        118.181818181818,
+        113.095238095238,
+        92.8057553956834,
+        126.339285714286,
+        97.6190476190476,
+        115.530303030303,
+        101.470588235294
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "East London",
+      "marker": {
+        "color": "rgba(252,141,98,0.5)",
+        "line": {
+          "color": "rgba(252,141,98,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "line": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": [
+        162.114537444934,
+        121.212121212121,
+        103.812316715543,
+        140,
+        130.744336569579,
+        110.723860589812,
+        134.527687296417,
+        118.769230769231
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "North London",
+      "marker": {
+        "color": "rgba(141,160,203,0.5)",
+        "line": {
+          "color": "rgba(141,160,203,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "line": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": [
+        119.81981981982,
+        98.5611510791367,
+        95.2380952380952,
+        152.083333333333,
+        130.769230769231,
+        87.027027027027,
+        87.1165644171779,
+        124.516129032258
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "South East London",
+      "marker": {
+        "color": "rgba(231,138,195,0.5)",
+        "line": {
+          "color": "rgba(231,138,195,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "line": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": [
+        112.19512195122,
+        83.6633663366337,
+        64.0394088669951,
+        45,
+        68.5,
+        81.042654028436,
+        81.592039800995,
+        81.4606741573034
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "South West London",
+      "marker": {
+        "color": "rgba(166,216,84,0.5)",
+        "line": {
+          "color": "rgba(166,216,84,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "line": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": [
+        106.711409395973,
+        109.504132231405,
+        121.399176954732,
+        100,
+        137.037037037037,
+        62.8205128205128,
+        111.2,
+        128.151260504202
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "West London",
+      "marker": {
+        "color": "rgba(255,217,47,0.5)",
+        "line": {
+          "color": "rgba(255,217,47,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "line": {
+        "color": "rgba(255,217,47,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}

@@ -1,0 +1,142 @@
+{
+  "visdat": {
+    "fa4473114b8": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "fa4473114b8",
+  "attrs": {
+    "fa4473114b8": {
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "y": [
+        1621,
+        1966,
+        2944.5,
+        2954.5
+      ],
+      "showlegend": false,
+      "name": "Median daily registrations in February",
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "bar"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": "Daily median company registrations in February",
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "",
+      "showgrid": false,
+      "type": "category",
+      "categoryorder": "array",
+      "categoryarray": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Number of registrations",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "source": "A",
+  "config": {
+    "modeBarButtonsToAdd": [
+      "hoverclosest",
+      "hovercompare"
+    ],
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "y": [
+        1621,
+        1966,
+        2944.5,
+        2954.5
+      ],
+      "showlegend": false,
+      "name": "Median daily registrations in February",
+      "type": "bar",
+      "marker": {
+        "color": "rgba(31,119,180,0.5)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
