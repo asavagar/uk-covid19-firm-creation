@@ -15,7 +15,7 @@ weight: 15
 ---
 
 
-We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the January 31st, 2021. We note more company registration relative to December 2021. The firm creation among active firms remains stronger than the same period in 2019.
+We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to the January 31st, 2022. We note more company registration relative to December 2021. The firm creation among active firms remains stronger than the same period in 2019.
 
 ## <i class="far fa-lightbulb"></i>  <span class="ml-1">Highlights</span>
 1. Business creation increased 21% between December 2021 and January 2022.
