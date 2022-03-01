@@ -33,8 +33,6 @@ The chart below shows the daily company incorporations in the UK since January 2
 <br>
 Download statistics as: <a href="data/02statsLockdown_Feb 2022.csv" download="02statisticsLockdown.csv"><i class="fas fa-file-csv"></i></a></small>
 
-<small>
-
 - Business creation increased by 2.68% between January and February 2022. 
 - 30,315 additional companies were registered in February 2022 relative to February 2019. 
 - 22,316 more company registrations are noticed in February 2022 relative to February 2020.
