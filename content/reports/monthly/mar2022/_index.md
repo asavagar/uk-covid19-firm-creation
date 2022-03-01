@@ -95,4 +95,4 @@ The graph illustrates company registrations in February 2022 relative to 2019 by
 - Compared to February 2019, in February 2022 there is more than a 300% increase in business creation for ‘Cargo handling’, ‘Retail sale of games and toys in specialised stores’, ‘Retail sale via mail order houses or via Internet’ and 'Other building and industrial cleaning activities' sectors.
 - There are lower registrations relative to Febuary 2019 in ‘Other information service activities n.e.c.’, ‘Construction of railways and underground railways’ and ‘Support activities for petroleum and natural gas extraction’ sectors. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/monthly/jan2022/February2022.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/monthly/mar2022/March2022.pdf" cta_new_tab="true" >}}
