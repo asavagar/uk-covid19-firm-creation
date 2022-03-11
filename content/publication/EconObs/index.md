@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How is coronavirus affecting the creation of new firms and new jobs?"
 authors:
 - Alfred Duncan
@@ -6,6 +6,8 @@ authors:
 - Anthony Savagar
 - Petr Sedláček
 - Vincent Sterk
+
+
 date: "2020-07-23T00:00:00Z"
 #doi: ""
 
