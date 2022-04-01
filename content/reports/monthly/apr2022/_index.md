@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report April 2022
 linktitle: April 2022
 toc: true
@@ -29,7 +29,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 The chart below shows the daily company incorporations in the UK since January 2020. The lockdown periods correspond to our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline). 
 
 {{< chart data="dailyagg" >}}
-<small>Download histogram data as: <a href="data/01histogram_Mar 2022.csv" download="01histogram_Feb 2022.csv"><i class="fas fa-file-csv"></i></a>
+<small>Download histogram data as: <a href="data/01histogram_Mar 2022.csv" download="01histogram_Mar 2022.csv"><i class="fas fa-file-csv"></i></a>
 <br>
 Download statistics as: <a href="data/02statsLockdown_Mar 2022.csv" download="02statisticsLockdown.csv"><i class="fas fa-file-csv"></i></a></small>
 
@@ -44,21 +44,21 @@ Download statistics as: <a href="data/02statsLockdown_Mar 2022.csv" download="02
 The chart below shows the rolling average of firm creation since January 2019. Shaded areas correspond to lockdown periods as shown our key dates [timeline](https://uk-firm-dynamics.netlify.app/reports/#timeline).
 
 {{< chart data="rollAv" >}}
-<small> Download rolling average data as: <a href="data/08rollingAverage_Mar 2022.csv" download="08rollingAverage_Feb 2022.csv"><i class="fas fa-file-excel"></i></a></small>
+<small> Download rolling average data as: <a href="data/08rollingAverage_Mar 2022.csv" download="08rollingAverage_Mar 2022.csv"><i class="fas fa-file-excel"></i></a></small>
 
 ### Relative
 
 Company registrations persistently exceed their 2019 levels. A similar pattern is observed between the ratios of 2021/2019 and 2022/2019 during the first 12 weeks of the year.
 
 {{< chart data="total" >}}
-<small>Download data as: <a href="data/04ratio_Feb 2022.csv" download="03ratio_Feb 2022.csv"><i class="fas fa-file-csv"></i></a></small>
+<small>Download data as: <a href="data/04ratio_Feb 2022.csv" download="03ratio_Mar 2022.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### March
 
 Daily average company registrations in March 2022 are 104.7% higher than March 2020, but 82% higher than March 2019 among the active firms. However, it is 1.1% higher than March 2021. We note that the big difference relative to 2020 is related to the start of the first national lockdown in the UK.
 
-{{< chart data="february" >}}
-<small>Download data as: <a href="data/03stats_Mar 2022.csv" download="04feburary2022.csv"><i class="fas fa-file-csv"></i></a></small>
+{{< chart data="march" >}}
+<small>Download data as: <a href="data/03stats_Mar 2022.csv" download="04march2022.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-map-marker-alt"></i>  <span class="ml-1">Regional Analysis</span>
 
@@ -66,7 +66,7 @@ Daily average company registrations in March 2022 are 104.7% higher than March 2
 
 The map shows the average percentage change in new registrations in March 2022 compared to the active firms of March 2019.  
 
-<iframe src="mapFeb2022Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
+<iframe src="mapApr2022Av.html" style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
 
 <small>Download data as: <a href="data/09map_Mar 2022.csv" download="09map.csv"><i class="fas fa-file-csv"></i></a></small>
 
@@ -75,14 +75,14 @@ The map shows the average percentage change in new registrations in March 2022 c
 The following graph aggregates business creation by country. London, followed by Wales and Scotland, dominates business registrations.   
 
 {{< chart data="country" >}}
-<small>Download data as: <a href="data/05country_Mar 2022.csv" download="05country_Jan2022.csv"><i class="fas fa-file-csv"></i></a></small>
+<small>Download data as: <a href="data/05country_Mar 2022.csv" download="05country_Mar2022.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ### London
 
 Within London, most of the business creation in February 2022 comes from Central and East of London. 
 
 {{< chart data="london" >}}
-<small>Download data as: <a href="data/06London_Mar 2022.csv" download="06london_Feb2022.csv"><i class="fas fa-file-csv"></i></a></small>
+<small>Download data as: <a href="data/06London_Mar 2022.csv" download="06london_Mar2022.csv"><i class="fas fa-file-csv"></i></a></small>
 
 ## <i class="fas fa-industry"></i> <span class="ml-1">Sectoral Analysis</span>
 
