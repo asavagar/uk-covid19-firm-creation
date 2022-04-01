@@ -1,0 +1,251 @@
+"week","Section","2022","Section.name","2019","pct_change22_19"
+1," A",89,"Agriculture, forestry and fishing",40,122.5
+1," B",14,"Mining and quarrying",13,7.69230769230769
+1," C",703,"Manufacturing",301,133.554817275748
+1," D",31,"Electricity, gas, steam and air conditioning supply",16,93.75
+1," E",52,"Water supply; sewerage, waste management and remediation activities",12,333.333333333333
+1," F",2238,"Construction",911,145.664105378705
+1," G",3122,"Wholesale and retail trade; repair of motor vehicles and motorcycles",849,267.726737338045
+1," H",569,"Transportation and storage",274,107.664233576642
+1," I",2127,"Accommodation and food service activities",937,127.001067235859
+1," K",2486,"Financial and insurance activities",832,198.798076923077
+1," L",2039,"Real estate activities",878,132.232346241458
+1," M",3293,"Professional, scientific and technical activities",2058,60.0097181729835
+1," N",1357,"Administrative and support service activities",494,174.696356275304
+1," O",44,"Public administration and defence; compulsory social security",15,193.333333333333
+1," P",230,"Education",118,94.9152542372881
+1," Q",715,"Human health and social work activities",259,176.061776061776
+1," R",275,"Arts, entertainment and recreation",134,105.223880597015
+1," S",552,"Other service activities",289,91.0034602076124
+1," T",3,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",1,200
+1,"J",1620,"Information and communication",808,100.495049504951
+2," A",123,"Agriculture, forestry and fishing",55,123.636363636364
+2," B",29,"Mining and quarrying",18,61.1111111111111
+2," C",870,"Manufacturing",403,115.880893300248
+2," D",54,"Electricity, gas, steam and air conditioning supply",30,80
+2," E",56,"Water supply; sewerage, waste management and remediation activities",17,229.411764705882
+2," F",2835,"Construction",1493,89.8861352980576
+2," G",3916,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1265,209.565217391304
+2," H",824,"Transportation and storage",429,92.0745920745921
+2," I",3174,"Accommodation and food service activities",1764,79.9319727891157
+2," K",3345,"Financial and insurance activities",1418,135.89562764457
+2," L",3202,"Real estate activities",1435,123.135888501742
+2," M",4437,"Professional, scientific and technical activities",3155,40.6339144215531
+2," N",2035,"Administrative and support service activities",857,137.456242707118
+2," O",68,"Public administration and defence; compulsory social security",15,353.333333333333
+2," P",317,"Education",138,129.710144927536
+2," Q",840,"Human health and social work activities",364,130.769230769231
+2," R",450,"Arts, entertainment and recreation",264,70.4545454545455
+2," S",770,"Other service activities",408,88.7254901960784
+2," T",5,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",4,25
+2," U",3,"Activities of extraterritorial organisations and bodies",3,0
+2,"J",1885,"Information and communication",1171,60.9735269000854
+3," A",121,"Agriculture, forestry and fishing",72,68.0555555555556
+3," B",20,"Mining and quarrying",21,-4.76190476190477
+3," C",806,"Manufacturing",439,83.5990888382688
+3," D",31,"Electricity, gas, steam and air conditioning supply",17,82.3529411764706
+3," E",52,"Water supply; sewerage, waste management and remediation activities",25,108
+3," F",3062,"Construction",1573,94.6598855689765
+3," G",3664,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1319,177.78620166793
+3," H",849,"Transportation and storage",491,72.9124236252546
+3," I",3224,"Accommodation and food service activities",1951,65.2485904664275
+3," K",3332,"Financial and insurance activities",1532,117.493472584856
+3," L",3383,"Real estate activities",1717,97.029702970297
+3," M",4322,"Professional, scientific and technical activities",3070,40.7817589576547
+3," N",1983,"Administrative and support service activities",857,131.388564760793
+3," O",49,"Public administration and defence; compulsory social security",26,88.4615384615385
+3," P",327,"Education",154,112.337662337662
+3," Q",926,"Human health and social work activities",401,130.922693266833
+3," R",438,"Arts, entertainment and recreation",286,53.1468531468531
+3," S",737,"Other service activities",474,55.4852320675106
+3," T",6,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",2,200
+3," U",3,"Activities of extraterritorial organisations and bodies",1,200
+3,"J",1921,"Information and communication",1178,63.0730050933786
+4," A",100,"Agriculture, forestry and fishing",64,56.25
+4," B",15,"Mining and quarrying",18,-16.6666666666667
+4," C",852,"Manufacturing",446,91.0313901345291
+4," D",46,"Electricity, gas, steam and air conditioning supply",24,91.6666666666667
+4," E",50,"Water supply; sewerage, waste management and remediation activities",20,150
+4," F",2899,"Construction",1659,74.7438215792646
+4," G",3744,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1432,161.45251396648
+4," H",968,"Transportation and storage",670,44.4776119402985
+4," I",3034,"Accommodation and food service activities",1914,58.5161964472309
+4," K",2859,"Financial and insurance activities",1661,72.1252257676099
+4," L",3465,"Real estate activities",1747,98.3400114481969
+4," M",4334,"Professional, scientific and technical activities",3443,25.8785942492013
+4," N",1935,"Administrative and support service activities",867,123.18339100346
+4," O",54,"Public administration and defence; compulsory social security",17,217.647058823529
+4," P",314,"Education",136,130.882352941176
+4," Q",929,"Human health and social work activities",427,117.564402810304
+4," R",454,"Arts, entertainment and recreation",289,57.0934256055363
+4," S",751,"Other service activities",482,55.8091286307054
+4," T",8,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",3,166.666666666667
+4," U",1,"Activities of extraterritorial organisations and bodies",3,-66.6666666666667
+4,"J",2027,"Information and communication",1268,59.8580441640379
+5," A",123,"Agriculture, forestry and fishing",67,83.5820895522388
+5," B",12,"Mining and quarrying",10,20
+5," C",887,"Manufacturing",412,115.291262135922
+5," D",62,"Electricity, gas, steam and air conditioning supply",13,376.923076923077
+5," E",41,"Water supply; sewerage, waste management and remediation activities",28,46.4285714285714
+5," F",3135,"Construction",1471,113.120326308634
+5," G",3750,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1223,206.623058053966
+5," H",1167,"Transportation and storage",356,227.808988764045
+5," I",3618,"Accommodation and food service activities",1618,123.609394313968
+5," K",3343,"Financial and insurance activities",1740,92.1264367816092
+5," L",3532,"Real estate activities",1701,107.642563198119
+5," M",4735,"Professional, scientific and technical activities",3077,53.8836529086773
+5," N",2087,"Administrative and support service activities",852,144.953051643193
+5," O",60,"Public administration and defence; compulsory social security",24,150
+5," P",332,"Education",157,111.464968152866
+5," Q",900,"Human health and social work activities",343,162.390670553936
+5," R",485,"Arts, entertainment and recreation",271,78.9667896678967
+5," S",745,"Other service activities",427,74.4730679156909
+5," T",3,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",2,50
+5," U",2,NA,NA,NA
+5,"J",2130,"Information and communication",1301,63.7202152190623
+6," A",132,"Agriculture, forestry and fishing",60,120
+6," B",18,"Mining and quarrying",23,-21.7391304347826
+6," C",811,"Manufacturing",422,92.1800947867299
+6," D",27,"Electricity, gas, steam and air conditioning supply",15,80
+6," E",51,"Water supply; sewerage, waste management and remediation activities",27,88.8888888888889
+6," F",3339,"Construction",1831,82.3593664664118
+6," G",3846,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1391,176.491732566499
+6," H",999,"Transportation and storage",582,71.6494845360825
+6," I",3750,"Accommodation and food service activities",2118,77.0538243626062
+6," K",3204,"Financial and insurance activities",2133,50.210970464135
+6," L",3763,"Real estate activities",2145,75.4312354312354
+6," M",4501,"Professional, scientific and technical activities",3743,20.2511354528453
+6," N",2036,"Administrative and support service activities",1044,95.0191570881226
+6," O",69,"Public administration and defence; compulsory social security",23,200
+6," P",299,"Education",198,51.010101010101
+6," Q",1060,"Human health and social work activities",501,111.576846307385
+6," R",456,"Arts, entertainment and recreation",289,57.7854671280277
+6," S",762,"Other service activities",555,37.2972972972973
+6," T",6,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",3,100
+6,"J",2014,"Information and communication",1357,48.415622697126
+7," A",121,"Agriculture, forestry and fishing",57,112.280701754386
+7," B",16,"Mining and quarrying",15,6.66666666666667
+7," C",968,"Manufacturing",469,106.396588486141
+7," D",46,"Electricity, gas, steam and air conditioning supply",16,187.5
+7," E",36,"Water supply; sewerage, waste management and remediation activities",26,38.4615384615385
+7," F",3169,"Construction",1615,96.2229102167183
+7," G",3862,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1451,166.161268090972
+7," H",1084,"Transportation and storage",424,155.660377358491
+7," I",3376,"Accommodation and food service activities",1908,76.9392033542977
+7," K",3426,"Financial and insurance activities",1776,92.9054054054054
+7," L",3531,"Real estate activities",1788,97.4832214765101
+7," M",4259,"Professional, scientific and technical activities",3198,33.17698561601
+7," N",1878,"Administrative and support service activities",886,111.96388261851
+7," O",51,"Public administration and defence; compulsory social security",21,142.857142857143
+7," P",281,"Education",134,109.701492537313
+7," Q",944,"Human health and social work activities",402,134.825870646766
+7," R",459,"Arts, entertainment and recreation",302,51.9867549668874
+7," S",772,"Other service activities",429,79.9533799533799
+7," T",6,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",1,500
+7," U",3,"Activities of extraterritorial organisations and bodies",3,0
+7,"J",1990,"Information and communication",1259,58.0619539316918
+8," A",125,"Agriculture, forestry and fishing",57,119.298245614035
+8," B",32,"Mining and quarrying",12,166.666666666667
+8," C",912,"Manufacturing",453,101.324503311258
+8," D",32,"Electricity, gas, steam and air conditioning supply",16,100
+8," E",57,"Water supply; sewerage, waste management and remediation activities",34,67.6470588235294
+8," F",2865,"Construction",1676,70.9427207637231
+8," G",3809,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1453,162.14728148658
+8," H",1127,"Transportation and storage",483,133.333333333333
+8," I",3331,"Accommodation and food service activities",1996,66.8837675350701
+8," K",3407,"Financial and insurance activities",1986,71.5508559919436
+8," L",3567,"Real estate activities",1885,89.2307692307692
+8," M",4638,"Professional, scientific and technical activities",3497,32.6279668287103
+8," N",1897,"Administrative and support service activities",901,110.54384017758
+8," O",73,"Public administration and defence; compulsory social security",13,461.538461538461
+8," P",303,"Education",169,79.2899408284024
+8," Q",947,"Human health and social work activities",413,129.297820823245
+8," R",415,"Arts, entertainment and recreation",284,46.1267605633803
+8," S",758,"Other service activities",434,74.6543778801843
+8," T",5,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",1,400
+8," U",2,NA,NA,NA
+8,"J",2137,"Information and communication",1203,77.6392352452203
+9," A",100,"Agriculture, forestry and fishing",81,23.4567901234568
+9," B",16,"Mining and quarrying",20,-20
+9," C",791,"Manufacturing",451,75.3880266075388
+9," D",31,"Electricity, gas, steam and air conditioning supply",21,47.6190476190476
+9," E",55,"Water supply; sewerage, waste management and remediation activities",22,150
+9," F",2884,"Construction",1731,66.6088965915656
+9," G",3606,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1563,130.710172744722
+9," H",879,"Transportation and storage",478,83.8912133891213
+9," I",3306,"Accommodation and food service activities",2168,52.4907749077491
+9," K",3164,"Financial and insurance activities",1698,86.3368669022379
+9," L",3199,"Real estate activities",1858,72.1743810548977
+9," M",4229,"Professional, scientific and technical activities",3392,24.6757075471698
+9," N",1849,"Administrative and support service activities",866,113.5103926097
+9," O",54,"Public administration and defence; compulsory social security",24,125
+9," P",290,"Education",150,93.3333333333333
+9," Q",821,"Human health and social work activities",385,113.246753246753
+9," R",452,"Arts, entertainment and recreation",297,52.1885521885522
+9," S",727,"Other service activities",504,44.2460317460317
+9," T",8,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",2,300
+9," U",9,"Activities of extraterritorial organisations and bodies",1,800
+9,"J",1763,"Information and communication",1327,32.8560663149962
+10," A",140,"Agriculture, forestry and fishing",78,79.4871794871795
+10," B",18,"Mining and quarrying",14,28.5714285714286
+10," C",941,"Manufacturing",486,93.6213991769547
+10," D",38,"Electricity, gas, steam and air conditioning supply",32,18.75
+10," E",45,"Water supply; sewerage, waste management and remediation activities",35,28.5714285714286
+10," F",3024,"Construction",1764,71.4285714285714
+10," G",3860,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1570,145.859872611465
+10," H",1165,"Transportation and storage",661,76.2481089258699
+10," I",3698,"Accommodation and food service activities",2361,56.6285472257518
+10," K",3441,"Financial and insurance activities",2140,60.7943925233645
+10," L",3467,"Real estate activities",2129,62.8464067637388
+10," M",4404,"Professional, scientific and technical activities",3860,14.0932642487047
+10," N",1990,"Administrative and support service activities",1072,85.6343283582089
+10," O",49,"Public administration and defence; compulsory social security",26,88.4615384615385
+10," P",302,"Education",180,67.7777777777778
+10," Q",1003,"Human health and social work activities",524,91.412213740458
+10," R",497,"Arts, entertainment and recreation",331,50.1510574018127
+10," S",857,"Other service activities",568,50.8802816901408
+10," T",8,NA,NA,NA
+10," U",4,"Activities of extraterritorial organisations and bodies",4,0
+10,"J",2013,"Information and communication",1340,50.2238805970149
+11," A",120,"Agriculture, forestry and fishing",76,57.8947368421053
+11," B",22,"Mining and quarrying",17,29.4117647058824
+11," C",840,"Manufacturing",479,75.3653444676409
+11," D",68,"Electricity, gas, steam and air conditioning supply",13,423.076923076923
+11," E",49,"Water supply; sewerage, waste management and remediation activities",27,81.4814814814815
+11," F",3293,"Construction",1781,84.8961257720382
+11," G",3889,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1638,137.423687423687
+11," H",887,"Transportation and storage",785,12.9936305732484
+11," I",3845,"Accommodation and food service activities",2245,71.2694877505568
+11," K",3884,"Financial and insurance activities",2086,86.1936720997124
+11," L",3517,"Real estate activities",1862,88.8829215896885
+11," M",4613,"Professional, scientific and technical activities",3411,35.2389328642627
+11," N",2138,"Administrative and support service activities",1114,91.9210053859964
+11," O",59,"Public administration and defence; compulsory social security",20,195
+11," P",301,"Education",145,107.586206896552
+11," Q",964,"Human health and social work activities",466,106.8669527897
+11," R",535,"Arts, entertainment and recreation",339,57.8171091445428
+11," S",925,"Other service activities",508,82.0866141732284
+11," T",4,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",3,33.3333333333333
+11," U",3,"Activities of extraterritorial organisations and bodies",1,200
+11,"J",1949,"Information and communication",1317,47.9878511769172
+12," A",130,"Agriculture, forestry and fishing",77,68.8311688311688
+12," B",25,"Mining and quarrying",27,-7.40740740740741
+12," C",836,"Manufacturing",473,76.7441860465116
+12," D",52,"Electricity, gas, steam and air conditioning supply",30,73.3333333333333
+12," E",52,"Water supply; sewerage, waste management and remediation activities",27,92.5925925925926
+12," F",3265,"Construction",1747,86.8918145392101
+12," G",3883,"Wholesale and retail trade; repair of motor vehicles and motorcycles",1498,159.212283044059
+12," H",1049,"Transportation and storage",806,30.1488833746898
+12," I",3729,"Accommodation and food service activities",2182,70.8982584784601
+12," K",3690,"Financial and insurance activities",2103,75.4636233951498
+12," L",3674,"Real estate activities",1982,85.3683148335015
+12," M",4458,"Professional, scientific and technical activities",3606,23.6272878535774
+12," N",2172,"Administrative and support service activities",1094,98.5374771480804
+12," O",57,"Public administration and defence; compulsory social security",26,119.230769230769
+12," P",319,"Education",203,57.1428571428571
+12," Q",1007,"Human health and social work activities",520,93.6538461538462
+12," R",449,"Arts, entertainment and recreation",324,38.5802469135802
+12," S",861,"Other service activities",498,72.8915662650602
+12," T",9,"Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",3,200
+12," U",2,"Activities of extraterritorial organisations and bodies",4,-50
+12,"J",2167,"Information and communication",1402,54.564907275321

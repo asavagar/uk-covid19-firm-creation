@@ -1,0 +1,547 @@
+{
+  "visdat": {
+    "33d045e9d46": [
+      "function () ",
+      "plotlyVisDat"
+    ]
+  },
+  "cur_data": "33d045e9d46",
+  "attrs": {
+    "33d045e9d46": {
+      "x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10,
+        10,
+        11,
+        11,
+        11,
+        11,
+        11,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "y": [
+        117,
+        230.389064143007,
+        67.0454545454545,
+        180.113636363636,
+        125.862068965517,
+        93.8724617028856,
+        155.839895013123,
+        95.0980392156863,
+        71.0344827586207,
+        90.7216494845361,
+        76.4432647644326,
+        145.670301475305,
+        89.1089108910891,
+        84.2615012106537,
+        93.0521091811414,
+        66.7763157894737,
+        140.111248454883,
+        68.0412371134021,
+        76.8674698795181,
+        95.6221198156682,
+        100.454624934429,
+        170.811170212766,
+        46.6101694915254,
+        83.5616438356164,
+        125.469168900804,
+        65.5853517877739,
+        129.734219269103,
+        78.1954887218045,
+        82.6271186440678,
+        68.3406113537118,
+        80.688429217841,
+        159.624108878808,
+        34.3283582089552,
+        63.431151241535,
+        84.652278177458,
+        77.7955271565495,
+        163.494132985658,
+        61.7647058823529,
+        39.0804597701149,
+        87.0324189526185,
+        55.5167703748672,
+        124.152046783626,
+        58.3333333333333,
+        62.882096069869,
+        43.4210526315789,
+        56.6247124103397,
+        128.09871003926,
+        26.8965517241379,
+        68.6991869918699,
+        50.0948766603416,
+        63.8657831665022,
+        150.15015015015,
+        75,
+        49.8148148148148,
+        84.2105263157895,
+        61.4299678815808,
+        134.222737819026,
+        57.0422535211268,
+        67.8571428571429,
+        58.5170340681363
+      ],
+      "mode": "line",
+      "color": [
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "England (excl. London)",
+        "London",
+        "Northern Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "alpha": 0.5,
+      "alpha_stroke": 1,
+      "sizes": [
+        10,
+        100
+      ],
+      "spans": [
+        1,
+        20
+      ],
+      "type": "scatter"
+    }
+  },
+  "layout": {
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "title": {
+      "text": "Change of company registrations in March by Country<br><sup>(Same week of reference in 2019)</sup>"
+    },
+    "xaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "Weeks",
+      "showgrid": false
+    },
+    "yaxis": {
+      "domain": [
+        0,
+        1
+      ],
+      "automargin": true,
+      "title": "% change",
+      "showgrid": false
+    },
+    "hovermode": "closest",
+    "showlegend": true
+  },
+  "source": "A",
+  "config": {
+    "modeBarButtonsToAdd": [
+      "hoverclosest",
+      "hovercompare"
+    ],
+    "showSendToCloud": false
+  },
+  "data": [
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "y": [
+        117,
+        93.8724617028856,
+        76.4432647644326,
+        66.7763157894737,
+        100.454624934429,
+        65.5853517877739,
+        80.688429217841,
+        77.7955271565495,
+        55.5167703748672,
+        56.6247124103397,
+        63.8657831665022,
+        61.4299678815808
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "England (excl. London)",
+      "marker": {
+        "color": "rgba(102,194,165,0.5)",
+        "line": {
+          "color": "rgba(102,194,165,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "line": {
+        "color": "rgba(102,194,165,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "y": [
+        230.389064143007,
+        155.839895013123,
+        145.670301475305,
+        140.111248454883,
+        170.811170212766,
+        129.734219269103,
+        159.624108878808,
+        163.494132985658,
+        124.152046783626,
+        128.09871003926,
+        150.15015015015,
+        134.222737819026
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "London",
+      "marker": {
+        "color": "rgba(252,141,98,0.5)",
+        "line": {
+          "color": "rgba(252,141,98,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "line": {
+        "color": "rgba(252,141,98,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "y": [
+        67.0454545454545,
+        95.0980392156863,
+        89.1089108910891,
+        68.0412371134021,
+        46.6101694915254,
+        78.1954887218045,
+        34.3283582089552,
+        61.7647058823529,
+        58.3333333333333,
+        26.8965517241379,
+        75,
+        57.0422535211268
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "Northern Ireland",
+      "marker": {
+        "color": "rgba(141,160,203,0.5)",
+        "line": {
+          "color": "rgba(141,160,203,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "line": {
+        "color": "rgba(141,160,203,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "y": [
+        180.113636363636,
+        71.0344827586207,
+        84.2615012106537,
+        76.8674698795181,
+        83.5616438356164,
+        82.6271186440678,
+        63.431151241535,
+        39.0804597701149,
+        62.882096069869,
+        68.6991869918699,
+        49.8148148148148,
+        67.8571428571429
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "Scotland",
+      "marker": {
+        "color": "rgba(231,138,195,0.5)",
+        "line": {
+          "color": "rgba(231,138,195,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "line": {
+        "color": "rgba(231,138,195,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "y": [
+        125.862068965517,
+        90.7216494845361,
+        93.0521091811414,
+        95.6221198156682,
+        125.469168900804,
+        68.3406113537118,
+        84.652278177458,
+        87.0324189526185,
+        43.4210526315789,
+        50.0948766603416,
+        84.2105263157895,
+        58.5170340681363
+      ],
+      "mode": "line",
+      "type": "scatter",
+      "name": "Wales",
+      "marker": {
+        "color": "rgba(166,216,84,0.5)",
+        "line": {
+          "color": "rgba(166,216,84,1)"
+        }
+      },
+      "textfont": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "error_y": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "error_x": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "line": {
+        "color": "rgba(166,216,84,0.5)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": [
+    "plotly_hover",
+    "plotly_click",
+    "plotly_selected",
+    "plotly_relayout",
+    "plotly_brushed",
+    "plotly_brushing",
+    "plotly_clickannotation",
+    "plotly_doubleclick",
+    "plotly_deselect",
+    "plotly_afterplot",
+    "plotly_sunburstclick"
+  ],
+  "base_url": "https://plot.ly"
+}
