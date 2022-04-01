@@ -97,4 +97,4 @@ The graph illustrates company registrations in March 2022 relative to 2019 by in
 - Compared to March 2019, in March 2022 there is more than a 300% increase in business creation for ‘Manufacture of bricks, tiles and construction products, in baked clay’, ‘Retail sale via mail order houses or via Internet’ and 'Event catering activities' sectors.
 - There are lower registrations relative to March 2019 in ‘Packaging activities’, 'Warehousing and storage', 'Other information service activities n.e.c.'  sectors. 
 
-{{< cta cta_text="Snapshot" cta_link="/reports/monthly/apr2022/march2022.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Snapshot" cta_link="/reports/monthly/apr2022/April2022.pdf" cta_new_tab="true" >}}
