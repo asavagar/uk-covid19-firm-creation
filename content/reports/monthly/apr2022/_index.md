@@ -20,7 +20,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
 
 1. Business creation increased 17.8% between February 2022 and March 2022.
 2. Business creation was 109% higher in March 2022 than in March 2020 and 1.1% higher in March 2022 than in March 2021.
-3. The largest number of company registrations occurs in 'Wholesale and retail trade; repair of motor vehicles and motorcycles' and ‘Public admnistration and defence; compulsory social security’.
+3. The largest number of company registrations occurs in 'Wholesale and retail trade; repair of motor vehicles and motorcycles' and ‘Public administration and defence; compulsory social security’.
 
 ## <i class="fas fa-bullseye"></i> <span class="ml-1">Aggregate Analysis</span>
 
