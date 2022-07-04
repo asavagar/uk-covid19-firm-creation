@@ -149,6 +149,12 @@ Looking at the archive of incorporation registrations, the following table summa
 |---------------|-------|-----|----|--------|----|-----|
 | registrations | 161,500  | 119,327   | 147,800  | 157,714     | 174,359  | 223,248 |
 
+## Dissolutions
 
-  	  	  	  	  	
+To monitor the dissolutions, we collect data from the [Companies House advanced search tool]( https://find-and-update.company-information.service.gov.uk/advanced-search) between 1 January 2010 and 31 May 2022. The tool displays only 10,000 observations in each search and allows a download of 5,000 observations. 
+
+The number of dissolutions that we count matches the figures reported on the Companies House quarterly reports.
+
+
+{{< chart data="comp_dis" >}}  	  	  	  	  	
 
