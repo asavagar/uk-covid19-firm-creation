@@ -140,3 +140,15 @@ The first available register was released on 1 July 2012. From this register we 
 To make sure we monitor incorporation registration in a similar fashion to Companies House, we compare our number of registrations to those in the CH quarterly report.
 
 {{< chart data="comp_inc" >}}
+
+### Archive descriptives
+Looking at the archive of incorporation registrations, the following table summarises the descriptive stats by quarter
+
+*Table:* Summary statistics of Company Registrations 
+|               | Mean  | Min | Q1 | Median | Q3 | Max |
+|---------------|-------|-----|----|--------|----|-----|
+| registrations | 161,500  | 119,327   | 147,800  | 157,714     | 174,359  | 223,248 |
+
+
+  	  	  	  	  	
+
