@@ -73,3 +73,70 @@ Some postcodes have extraordinarily high levels of firm registrations. These pos
 |---------------|-------|-------|-----|----|--------|----|-----|
 | registrations | 13.47 | 36.64 | 1   | 1  | 1      | 7  | 295 |
 <small> **Note**: For registrations recorded between January 2020 and January 2021. </small>
+
+
+## Archive data construction
+
+To construct the archive monthly incorporation data, we use the historic snapshot registers from Companies House.
+
+### Historic snapshot source and description
+
+The historic snapshots are taken from [National Archives websites snapshots of the Companies House databases](https://webarchive.nationalarchives.gov.uk/*/http://download.companieshouse.gov.uk/en_output.html).
+
+The National Archive web snapshots are taken unevenly since July 2012. Even when a snapshot is taken, the link may be broken. The following monthly snapshots do not work:
+
+03-2015
+10-2015
+10-2016
+09-2017
+03-2018
+09-2019
+03-2020
+04-2020
+05-2020
+
+After 2017 the snapshots are available as a single data dump for the whole month rather than dividing the data into parts.
+
+The biggest break is between 12-2014 and 05-2016. A break of 17 months. This break is due to both 2015 snapshots containing broken links and not available registers.
+
+### How to construct?
+
+To construct the archive data, we keep only the registrations occurred the last month and append them backwards. 
+
+#### Example #1: Consecutive registers
+
+Let two consecutive registers released on 1 May 2022 and 1 June 2022.
+
+*Step 1:* Use register released on 1 June 2022
+
+*Step 2:* Keep only registrations occurred on 1-31 May 2022
+
+*Step 3:* Use register released on 1 May 2022
+
+*Step 4:* Keep only registrations occurred on 1-30 April 2022
+
+*Step 5*: Append data frames from steps 2 and 4.
+
+#### Example #2: Non-consecutive registers
+
+Let two registers available. One register released on 1 June 2020 and the immediate previous available register releases on 1 February 2020.
+
+*Step 1:* Use register released on 1 June 2020
+
+*Step 2:* Keep only registrations occurred on 1 February 2020 - 31 May 2020
+
+*Step 3:* Use register released on 1 February 2020
+
+*Step 4:* Keep only registrations occurred on 1-31 January 2020
+
+*Step 5:* Append data frames from steps 2 and 4.
+
+#### Example #3: Register of July 2012
+
+The first available register was released on 1 July 2012. From this register we can count all the active firms at the time. However, Companies House removes dissolved companies from its register within 3 months. This means that we can measure, as accurately as possible, the number of registrations from 1 March 2012 in the register released on 1 July 2012.
+
+### Robustness of measuring incorporations
+
+To make sure we monitor incorporation registration in a similar fashion to Companies House, we compare our number of registrations to those in the CH quarterly report.
+
+{{< chart data="comp_inc" >}}
