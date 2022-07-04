@@ -85,15 +85,15 @@ The historic snapshots are taken from [National Archives websites snapshots of t
 
 The National Archive web snapshots are taken unevenly since July 2012. Even when a snapshot is taken, the link may be broken. The following monthly snapshots do not work:
 
-03-2015
-10-2015
-10-2016
-09-2017
-03-2018
-09-2019
-03-2020
-04-2020
-05-2020
+03-2015 <br>
+10-2015 <br>
+10-2016 <br>
+09-2017 <br> 
+03-2018 <br>
+09-2019 <br>
+03-2020 <br>
+04-2020 <br>
+05-2020 <br>
 
 After 2017 the snapshots are available as a single data dump for the whole month rather than dividing the data into parts.
 
