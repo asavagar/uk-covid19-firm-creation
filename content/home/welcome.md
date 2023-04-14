@@ -24,5 +24,5 @@ cta_note:
 
 The project documented the impact of COVID-19 on business creation in the UK. 
 
-## Project End
+### Project End
 The project ended in 2022. This website contains data, reports and publications completed during the project.
